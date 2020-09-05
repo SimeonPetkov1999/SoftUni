@@ -37,6 +37,7 @@ namespace _06Salary
             {
                 Console.WriteLine(salary);
             }
+            Console.WriteLine("git test");
         }
     }
 }
