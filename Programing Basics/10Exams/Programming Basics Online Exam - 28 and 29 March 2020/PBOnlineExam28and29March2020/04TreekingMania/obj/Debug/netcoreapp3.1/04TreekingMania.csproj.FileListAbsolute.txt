@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04TreekingMania\bin\Debug\netcoreapp3.1\04TreekingMania.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04TreekingMania\bin\Debug\netcoreapp3.1\04TreekingMania.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04TreekingMania\bin\Debug\netcoreapp3.1\04TreekingMania.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04TreekingMania\bin\Debug\netcoreapp3.1\04TreekingMania.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04TreekingMania\bin\Debug\netcoreapp3.1\04TreekingMania.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04TreekingMania\bin\Debug\netcoreapp3.1\04TreekingMania.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04TreekingMania\obj\Debug\netcoreapp3.1\04TreekingMania.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04TreekingMania\obj\Debug\netcoreapp3.1\04TreekingMania.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04TreekingMania\obj\Debug\netcoreapp3.1\04TreekingMania.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04TreekingMania\obj\Debug\netcoreapp3.1\04TreekingMania.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04TreekingMania\obj\Debug\netcoreapp3.1\04TreekingMania.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04TreekingMania\obj\Debug\netcoreapp3.1\04TreekingMania.genruntimeconfig.cache

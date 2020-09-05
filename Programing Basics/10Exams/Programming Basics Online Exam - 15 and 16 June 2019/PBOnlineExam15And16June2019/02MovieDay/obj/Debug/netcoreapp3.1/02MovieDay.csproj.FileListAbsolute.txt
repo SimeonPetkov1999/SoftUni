@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02MovieDay\bin\Debug\netcoreapp3.1\02MovieDay.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02MovieDay\bin\Debug\netcoreapp3.1\02MovieDay.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02MovieDay\bin\Debug\netcoreapp3.1\02MovieDay.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02MovieDay\bin\Debug\netcoreapp3.1\02MovieDay.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02MovieDay\bin\Debug\netcoreapp3.1\02MovieDay.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02MovieDay\bin\Debug\netcoreapp3.1\02MovieDay.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02MovieDay\obj\Debug\netcoreapp3.1\02MovieDay.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02MovieDay\obj\Debug\netcoreapp3.1\02MovieDay.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02MovieDay\obj\Debug\netcoreapp3.1\02MovieDay.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02MovieDay\obj\Debug\netcoreapp3.1\02MovieDay.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02MovieDay\obj\Debug\netcoreapp3.1\02MovieDay.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02MovieDay\obj\Debug\netcoreapp3.1\02MovieDay.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02MovieDay\obj\Debug\netcoreapp3.1\02MovieDay.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\02ExamPreparation\bin\Debug\netcoreapp3.1\02ExamPreparation.exe
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\02ExamPreparation\bin\Debug\netcoreapp3.1\02ExamPreparation.deps.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\02ExamPreparation\bin\Debug\netcoreapp3.1\02ExamPreparation.runtimeconfig.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\02ExamPreparation\bin\Debug\netcoreapp3.1\02ExamPreparation.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\02ExamPreparation\bin\Debug\netcoreapp3.1\02ExamPreparation.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\02ExamPreparation\bin\Debug\netcoreapp3.1\02ExamPreparation.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\02ExamPreparation\obj\Debug\netcoreapp3.1\02ExamPreparation.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\02ExamPreparation\obj\Debug\netcoreapp3.1\02ExamPreparation.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\02ExamPreparation\obj\Debug\netcoreapp3.1\02ExamPreparation.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\02ExamPreparation\obj\Debug\netcoreapp3.1\02ExamPreparation.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\02ExamPreparation\obj\Debug\netcoreapp3.1\02ExamPreparation.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\02ExamPreparation\obj\Debug\netcoreapp3.1\02ExamPreparation.genruntimeconfig.cache

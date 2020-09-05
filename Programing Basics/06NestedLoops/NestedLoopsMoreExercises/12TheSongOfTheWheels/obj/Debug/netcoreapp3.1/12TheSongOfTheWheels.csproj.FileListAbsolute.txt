@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\12TheSongOfTheWheels\bin\Debug\netcoreapp3.1\12TheSongOfTheWheels.exe
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\12TheSongOfTheWheels\bin\Debug\netcoreapp3.1\12TheSongOfTheWheels.deps.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\12TheSongOfTheWheels\bin\Debug\netcoreapp3.1\12TheSongOfTheWheels.runtimeconfig.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\12TheSongOfTheWheels\bin\Debug\netcoreapp3.1\12TheSongOfTheWheels.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\12TheSongOfTheWheels\bin\Debug\netcoreapp3.1\12TheSongOfTheWheels.dll
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\12TheSongOfTheWheels\bin\Debug\netcoreapp3.1\12TheSongOfTheWheels.pdb
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\12TheSongOfTheWheels\obj\Debug\netcoreapp3.1\12TheSongOfTheWheels.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\12TheSongOfTheWheels\obj\Debug\netcoreapp3.1\12TheSongOfTheWheels.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\12TheSongOfTheWheels\obj\Debug\netcoreapp3.1\12TheSongOfTheWheels.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\12TheSongOfTheWheels\obj\Debug\netcoreapp3.1\12TheSongOfTheWheels.dll
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\12TheSongOfTheWheels\obj\Debug\netcoreapp3.1\12TheSongOfTheWheels.pdb
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\12TheSongOfTheWheels\obj\Debug\netcoreapp3.1\12TheSongOfTheWheels.genruntimeconfig.cache

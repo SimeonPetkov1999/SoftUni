@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\09LeftAndRightSum\bin\Debug\netcoreapp3.1\09LeftAndRightSum.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\09LeftAndRightSum\bin\Debug\netcoreapp3.1\09LeftAndRightSum.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\09LeftAndRightSum\bin\Debug\netcoreapp3.1\09LeftAndRightSum.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\09LeftAndRightSum\bin\Debug\netcoreapp3.1\09LeftAndRightSum.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\09LeftAndRightSum\bin\Debug\netcoreapp3.1\09LeftAndRightSum.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\09LeftAndRightSum\bin\Debug\netcoreapp3.1\09LeftAndRightSum.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\09LeftAndRightSum\obj\Debug\netcoreapp3.1\09LeftAndRightSum.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\09LeftAndRightSum\obj\Debug\netcoreapp3.1\09LeftAndRightSum.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\09LeftAndRightSum\obj\Debug\netcoreapp3.1\09LeftAndRightSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\09LeftAndRightSum\obj\Debug\netcoreapp3.1\09LeftAndRightSum.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\09LeftAndRightSum\obj\Debug\netcoreapp3.1\09LeftAndRightSum.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\09LeftAndRightSum\obj\Debug\netcoreapp3.1\09LeftAndRightSum.genruntimeconfig.cache

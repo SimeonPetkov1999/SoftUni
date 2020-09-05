@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\05ChallengeТheWedding\bin\Debug\netcoreapp3.1\05ChallengeТheWedding.exe
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\05ChallengeТheWedding\bin\Debug\netcoreapp3.1\05ChallengeТheWedding.deps.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\05ChallengeТheWedding\bin\Debug\netcoreapp3.1\05ChallengeТheWedding.runtimeconfig.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\05ChallengeТheWedding\bin\Debug\netcoreapp3.1\05ChallengeТheWedding.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\05ChallengeТheWedding\bin\Debug\netcoreapp3.1\05ChallengeТheWedding.dll
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\05ChallengeТheWedding\bin\Debug\netcoreapp3.1\05ChallengeТheWedding.pdb
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\05ChallengeТheWedding\obj\Debug\netcoreapp3.1\05ChallengeТheWedding.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\05ChallengeТheWedding\obj\Debug\netcoreapp3.1\05ChallengeТheWedding.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\05ChallengeТheWedding\obj\Debug\netcoreapp3.1\05ChallengeТheWedding.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\05ChallengeТheWedding\obj\Debug\netcoreapp3.1\05ChallengeТheWedding.dll
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\05ChallengeТheWedding\obj\Debug\netcoreapp3.1\05ChallengeТheWedding.pdb
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\05ChallengeТheWedding\obj\Debug\netcoreapp3.1\05ChallengeТheWedding.genruntimeconfig.cache

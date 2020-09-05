@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.exe
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.deps.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.runtimeconfig.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.genruntimeconfig.cache

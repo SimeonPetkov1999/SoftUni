@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "02TravelAgency/1.0.0": {
+        "runtime": {
+          "02TravelAgency.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02TravelAgency/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

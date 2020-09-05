@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\08FuelTankPart2\bin\Debug\netcoreapp3.1\08FuelTankPart2.exe
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\08FuelTankPart2\bin\Debug\netcoreapp3.1\08FuelTankPart2.deps.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\08FuelTankPart2\bin\Debug\netcoreapp3.1\08FuelTankPart2.runtimeconfig.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\08FuelTankPart2\bin\Debug\netcoreapp3.1\08FuelTankPart2.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\08FuelTankPart2\bin\Debug\netcoreapp3.1\08FuelTankPart2.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\08FuelTankPart2\bin\Debug\netcoreapp3.1\08FuelTankPart2.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\08FuelTankPart2\obj\Debug\netcoreapp3.1\08FuelTankPart2.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\08FuelTankPart2\obj\Debug\netcoreapp3.1\08FuelTankPart2.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\08FuelTankPart2\obj\Debug\netcoreapp3.1\08FuelTankPart2.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\08FuelTankPart2\obj\Debug\netcoreapp3.1\08FuelTankPart2.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\08FuelTankPart2\obj\Debug\netcoreapp3.1\08FuelTankPart2.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\08FuelTankPart2\obj\Debug\netcoreapp3.1\08FuelTankPart2.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\08FuelTankPart2\obj\Debug\netcoreapp3.1\08FuelTankPart2.genruntimeconfig.cache

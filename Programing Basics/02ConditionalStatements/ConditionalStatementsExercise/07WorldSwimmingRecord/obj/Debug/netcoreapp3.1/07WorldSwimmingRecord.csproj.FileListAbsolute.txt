@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\07WorldSwimmingRecord\bin\Debug\netcoreapp3.1\07WorldSwimmingRecord.exe
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\07WorldSwimmingRecord\bin\Debug\netcoreapp3.1\07WorldSwimmingRecord.deps.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\07WorldSwimmingRecord\bin\Debug\netcoreapp3.1\07WorldSwimmingRecord.runtimeconfig.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\07WorldSwimmingRecord\bin\Debug\netcoreapp3.1\07WorldSwimmingRecord.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\07WorldSwimmingRecord\bin\Debug\netcoreapp3.1\07WorldSwimmingRecord.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\07WorldSwimmingRecord\bin\Debug\netcoreapp3.1\07WorldSwimmingRecord.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\07WorldSwimmingRecord\obj\Debug\netcoreapp3.1\07WorldSwimmingRecord.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\07WorldSwimmingRecord\obj\Debug\netcoreapp3.1\07WorldSwimmingRecord.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\07WorldSwimmingRecord\obj\Debug\netcoreapp3.1\07WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\07WorldSwimmingRecord\obj\Debug\netcoreapp3.1\07WorldSwimmingRecord.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\07WorldSwimmingRecord\obj\Debug\netcoreapp3.1\07WorldSwimmingRecord.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\07WorldSwimmingRecord\obj\Debug\netcoreapp3.1\07WorldSwimmingRecord.genruntimeconfig.cache

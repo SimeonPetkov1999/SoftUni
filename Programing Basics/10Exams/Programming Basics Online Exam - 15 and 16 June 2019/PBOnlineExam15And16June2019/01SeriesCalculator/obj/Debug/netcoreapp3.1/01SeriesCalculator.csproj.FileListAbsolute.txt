@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\01SeriesCalculator\bin\Debug\netcoreapp3.1\01SeriesCalculator.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\01SeriesCalculator\bin\Debug\netcoreapp3.1\01SeriesCalculator.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\01SeriesCalculator\bin\Debug\netcoreapp3.1\01SeriesCalculator.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\01SeriesCalculator\bin\Debug\netcoreapp3.1\01SeriesCalculator.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\01SeriesCalculator\bin\Debug\netcoreapp3.1\01SeriesCalculator.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\01SeriesCalculator\bin\Debug\netcoreapp3.1\01SeriesCalculator.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\01SeriesCalculator\obj\Debug\netcoreapp3.1\01SeriesCalculator.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\01SeriesCalculator\obj\Debug\netcoreapp3.1\01SeriesCalculator.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\01SeriesCalculator\obj\Debug\netcoreapp3.1\01SeriesCalculator.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\01SeriesCalculator\obj\Debug\netcoreapp3.1\01SeriesCalculator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\01SeriesCalculator\obj\Debug\netcoreapp3.1\01SeriesCalculator.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\01SeriesCalculator\obj\Debug\netcoreapp3.1\01SeriesCalculator.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\01SeriesCalculator\obj\Debug\netcoreapp3.1\01SeriesCalculator.genruntimeconfig.cache

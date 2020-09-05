@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\InchesToCm\bin\Debug\netcoreapp3.1\InchesToCm.exe
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\InchesToCm\bin\Debug\netcoreapp3.1\InchesToCm.deps.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\InchesToCm\bin\Debug\netcoreapp3.1\InchesToCm.runtimeconfig.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\InchesToCm\bin\Debug\netcoreapp3.1\InchesToCm.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\InchesToCm\bin\Debug\netcoreapp3.1\InchesToCm.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\InchesToCm\bin\Debug\netcoreapp3.1\InchesToCm.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\InchesToCm\obj\Debug\netcoreapp3.1\InchesToCm.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\InchesToCm\obj\Debug\netcoreapp3.1\InchesToCm.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\InchesToCm\obj\Debug\netcoreapp3.1\InchesToCm.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\InchesToCm\obj\Debug\netcoreapp3.1\InchesToCm.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\InchesToCm\obj\Debug\netcoreapp3.1\InchesToCm.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\InchesToCm\obj\Debug\netcoreapp3.1\InchesToCm.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\InchesToCm\obj\Debug\netcoreapp3.1\InchesToCm.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\03WorldSnookerChampionship\obj\Debug\netcoreapp3.1\03WorldSnookerChampionship.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\03WorldSnookerChampionship\obj\Debug\netcoreapp3.1\03WorldSnookerChampionship.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\03WorldSnookerChampionship\obj\Debug\netcoreapp3.1\03WorldSnookerChampionship.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\03WorldSnookerChampionship\obj\Debug\netcoreapp3.1\03WorldSnookerChampionship.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\03WorldSnookerChampionship\bin\Debug\netcoreapp3.1\03WorldSnookerChampionship.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\03WorldSnookerChampionship\bin\Debug\netcoreapp3.1\03WorldSnookerChampionship.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\03WorldSnookerChampionship\bin\Debug\netcoreapp3.1\03WorldSnookerChampionship.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\03WorldSnookerChampionship\bin\Debug\netcoreapp3.1\03WorldSnookerChampionship.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\03WorldSnookerChampionship\bin\Debug\netcoreapp3.1\03WorldSnookerChampionship.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\03WorldSnookerChampionship\bin\Debug\netcoreapp3.1\03WorldSnookerChampionship.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\03WorldSnookerChampionship\obj\Debug\netcoreapp3.1\03WorldSnookerChampionship.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\03WorldSnookerChampionship\obj\Debug\netcoreapp3.1\03WorldSnookerChampionship.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\03WorldSnookerChampionship\obj\Debug\netcoreapp3.1\03WorldSnookerChampionship.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\01ShopingForSchool\bin\Debug\netcoreapp3.1\01ShopingForSchool.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\01ShopingForSchool\bin\Debug\netcoreapp3.1\01ShopingForSchool.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\01ShopingForSchool\bin\Debug\netcoreapp3.1\01ShopingForSchool.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\01ShopingForSchool\bin\Debug\netcoreapp3.1\01ShopingForSchool.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\01ShopingForSchool\bin\Debug\netcoreapp3.1\01ShopingForSchool.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\01ShopingForSchool\bin\Debug\netcoreapp3.1\01ShopingForSchool.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\01ShopingForSchool\obj\Debug\netcoreapp3.1\01ShopingForSchool.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\01ShopingForSchool\obj\Debug\netcoreapp3.1\01ShopingForSchool.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\01ShopingForSchool\obj\Debug\netcoreapp3.1\01ShopingForSchool.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\01ShopingForSchool\obj\Debug\netcoreapp3.1\01ShopingForSchool.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\01ShopingForSchool\obj\Debug\netcoreapp3.1\01ShopingForSchool.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\01ShopingForSchool\obj\Debug\netcoreapp3.1\01ShopingForSchool.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\01ShopingForSchool\obj\Debug\netcoreapp3.1\01ShopingForSchool.genruntimeconfig.cache

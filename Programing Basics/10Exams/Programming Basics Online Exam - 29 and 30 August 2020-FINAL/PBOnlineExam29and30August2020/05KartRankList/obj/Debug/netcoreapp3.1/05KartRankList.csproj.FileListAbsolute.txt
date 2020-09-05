@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\05KartRankList\bin\Debug\netcoreapp3.1\05KartRankList.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\05KartRankList\bin\Debug\netcoreapp3.1\05KartRankList.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\05KartRankList\bin\Debug\netcoreapp3.1\05KartRankList.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\05KartRankList\bin\Debug\netcoreapp3.1\05KartRankList.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\05KartRankList\bin\Debug\netcoreapp3.1\05KartRankList.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\05KartRankList\bin\Debug\netcoreapp3.1\05KartRankList.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\05KartRankList\obj\Debug\netcoreapp3.1\05KartRankList.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\05KartRankList\obj\Debug\netcoreapp3.1\05KartRankList.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\05KartRankList\obj\Debug\netcoreapp3.1\05KartRankList.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\05KartRankList\obj\Debug\netcoreapp3.1\05KartRankList.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\05KartRankList\obj\Debug\netcoreapp3.1\05KartRankList.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\05KartRankList\obj\Debug\netcoreapp3.1\05KartRankList.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\05KartRankList\obj\Debug\netcoreapp3.1\05KartRankList.genruntimeconfig.cache

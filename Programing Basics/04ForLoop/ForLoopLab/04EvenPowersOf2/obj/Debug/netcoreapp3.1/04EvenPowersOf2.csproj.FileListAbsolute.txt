@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\04EvenPowersOf2\bin\Debug\netcoreapp3.1\04EvenPowersOf2.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\04EvenPowersOf2\bin\Debug\netcoreapp3.1\04EvenPowersOf2.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\04EvenPowersOf2\bin\Debug\netcoreapp3.1\04EvenPowersOf2.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\04EvenPowersOf2\bin\Debug\netcoreapp3.1\04EvenPowersOf2.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\04EvenPowersOf2\bin\Debug\netcoreapp3.1\04EvenPowersOf2.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\04EvenPowersOf2\bin\Debug\netcoreapp3.1\04EvenPowersOf2.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\04EvenPowersOf2\obj\Debug\netcoreapp3.1\04EvenPowersOf2.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\04EvenPowersOf2\obj\Debug\netcoreapp3.1\04EvenPowersOf2.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\04EvenPowersOf2\obj\Debug\netcoreapp3.1\04EvenPowersOf2.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\04EvenPowersOf2\obj\Debug\netcoreapp3.1\04EvenPowersOf2.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\04EvenPowersOf2\obj\Debug\netcoreapp3.1\04EvenPowersOf2.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\04EvenPowersOf2\obj\Debug\netcoreapp3.1\04EvenPowersOf2.genruntimeconfig.cache

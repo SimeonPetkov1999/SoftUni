@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\05TrainingLab\bin\Debug\netcoreapp3.1\05TrainingLab.exe
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\05TrainingLab\bin\Debug\netcoreapp3.1\05TrainingLab.deps.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\05TrainingLab\bin\Debug\netcoreapp3.1\05TrainingLab.runtimeconfig.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\05TrainingLab\bin\Debug\netcoreapp3.1\05TrainingLab.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\05TrainingLab\bin\Debug\netcoreapp3.1\05TrainingLab.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\05TrainingLab\bin\Debug\netcoreapp3.1\05TrainingLab.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\05TrainingLab\obj\Debug\netcoreapp3.1\05TrainingLab.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\05TrainingLab\obj\Debug\netcoreapp3.1\05TrainingLab.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\05TrainingLab\obj\Debug\netcoreapp3.1\05TrainingLab.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\05TrainingLab\obj\Debug\netcoreapp3.1\05TrainingLab.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\05TrainingLab\obj\Debug\netcoreapp3.1\05TrainingLab.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\05TrainingLab\obj\Debug\netcoreapp3.1\05TrainingLab.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\05TrainingLab\obj\Debug\netcoreapp3.1\05TrainingLab.genruntimeconfig.cache

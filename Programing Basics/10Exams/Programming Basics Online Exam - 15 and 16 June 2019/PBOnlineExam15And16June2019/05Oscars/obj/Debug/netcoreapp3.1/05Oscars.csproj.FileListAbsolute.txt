@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\05Oscars\bin\Debug\netcoreapp3.1\05Oscars.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\05Oscars\bin\Debug\netcoreapp3.1\05Oscars.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\05Oscars\bin\Debug\netcoreapp3.1\05Oscars.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\05Oscars\bin\Debug\netcoreapp3.1\05Oscars.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\05Oscars\bin\Debug\netcoreapp3.1\05Oscars.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\05Oscars\bin\Debug\netcoreapp3.1\05Oscars.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\05Oscars\obj\Debug\netcoreapp3.1\05Oscars.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\05Oscars\obj\Debug\netcoreapp3.1\05Oscars.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\05Oscars\obj\Debug\netcoreapp3.1\05Oscars.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\05Oscars\obj\Debug\netcoreapp3.1\05Oscars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\05Oscars\obj\Debug\netcoreapp3.1\05Oscars.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\05Oscars\obj\Debug\netcoreapp3.1\05Oscars.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\05Oscars\obj\Debug\netcoreapp3.1\05Oscars.genruntimeconfig.cache

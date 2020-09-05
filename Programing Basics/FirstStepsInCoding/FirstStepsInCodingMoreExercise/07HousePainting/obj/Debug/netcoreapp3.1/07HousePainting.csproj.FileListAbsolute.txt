@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\07HousePainting\bin\Debug\netcoreapp3.1\07HousePainting.exe
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\07HousePainting\bin\Debug\netcoreapp3.1\07HousePainting.deps.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\07HousePainting\bin\Debug\netcoreapp3.1\07HousePainting.runtimeconfig.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\07HousePainting\bin\Debug\netcoreapp3.1\07HousePainting.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\07HousePainting\bin\Debug\netcoreapp3.1\07HousePainting.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\07HousePainting\bin\Debug\netcoreapp3.1\07HousePainting.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\07HousePainting\obj\Debug\netcoreapp3.1\07HousePainting.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\07HousePainting\obj\Debug\netcoreapp3.1\07HousePainting.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\07HousePainting\obj\Debug\netcoreapp3.1\07HousePainting.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\07HousePainting\obj\Debug\netcoreapp3.1\07HousePainting.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\07HousePainting\obj\Debug\netcoreapp3.1\07HousePainting.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\07HousePainting\obj\Debug\netcoreapp3.1\07HousePainting.genruntimeconfig.cache

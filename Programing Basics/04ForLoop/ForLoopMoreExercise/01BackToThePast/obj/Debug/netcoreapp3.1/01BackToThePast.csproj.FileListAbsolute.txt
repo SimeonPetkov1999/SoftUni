@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\01BackToThePast\bin\Debug\netcoreapp3.1\01BackToThePast.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\01BackToThePast\bin\Debug\netcoreapp3.1\01BackToThePast.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\01BackToThePast\bin\Debug\netcoreapp3.1\01BackToThePast.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\01BackToThePast\bin\Debug\netcoreapp3.1\01BackToThePast.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\01BackToThePast\bin\Debug\netcoreapp3.1\01BackToThePast.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\01BackToThePast\bin\Debug\netcoreapp3.1\01BackToThePast.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\01BackToThePast\obj\Debug\netcoreapp3.1\01BackToThePast.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\01BackToThePast\obj\Debug\netcoreapp3.1\01BackToThePast.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\01BackToThePast\obj\Debug\netcoreapp3.1\01BackToThePast.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\01BackToThePast\obj\Debug\netcoreapp3.1\01BackToThePast.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\01BackToThePast\obj\Debug\netcoreapp3.1\01BackToThePast.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\01BackToThePast\obj\Debug\netcoreapp3.1\01BackToThePast.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\01BackToThePast\obj\Debug\netcoreapp3.1\01BackToThePast.genruntimeconfig.cache

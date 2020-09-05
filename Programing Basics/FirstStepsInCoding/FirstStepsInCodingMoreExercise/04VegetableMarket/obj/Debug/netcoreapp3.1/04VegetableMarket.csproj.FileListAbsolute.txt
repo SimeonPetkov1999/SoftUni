@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\04VegetableMarket\bin\Debug\netcoreapp3.1\04VegetableMarket.exe
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\04VegetableMarket\bin\Debug\netcoreapp3.1\04VegetableMarket.deps.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\04VegetableMarket\bin\Debug\netcoreapp3.1\04VegetableMarket.runtimeconfig.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\04VegetableMarket\bin\Debug\netcoreapp3.1\04VegetableMarket.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\04VegetableMarket\bin\Debug\netcoreapp3.1\04VegetableMarket.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\04VegetableMarket\bin\Debug\netcoreapp3.1\04VegetableMarket.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\04VegetableMarket\obj\Debug\netcoreapp3.1\04VegetableMarket.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\04VegetableMarket\obj\Debug\netcoreapp3.1\04VegetableMarket.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\04VegetableMarket\obj\Debug\netcoreapp3.1\04VegetableMarket.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\04VegetableMarket\obj\Debug\netcoreapp3.1\04VegetableMarket.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\04VegetableMarket\obj\Debug\netcoreapp3.1\04VegetableMarket.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\04VegetableMarket\obj\Debug\netcoreapp3.1\04VegetableMarket.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\04VegetableMarket\obj\Debug\netcoreapp3.1\04VegetableMarket.genruntimeconfig.cache

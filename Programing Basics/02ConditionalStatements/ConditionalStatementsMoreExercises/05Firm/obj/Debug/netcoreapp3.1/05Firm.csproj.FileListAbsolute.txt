@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\05Firm\bin\Debug\netcoreapp3.1\05Firm.exe
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\05Firm\bin\Debug\netcoreapp3.1\05Firm.deps.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\05Firm\bin\Debug\netcoreapp3.1\05Firm.runtimeconfig.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\05Firm\bin\Debug\netcoreapp3.1\05Firm.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\05Firm\bin\Debug\netcoreapp3.1\05Firm.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\05Firm\bin\Debug\netcoreapp3.1\05Firm.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\05Firm\obj\Debug\netcoreapp3.1\05Firm.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\05Firm\obj\Debug\netcoreapp3.1\05Firm.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\05Firm\obj\Debug\netcoreapp3.1\05Firm.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\05Firm\obj\Debug\netcoreapp3.1\05Firm.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\05Firm\obj\Debug\netcoreapp3.1\05Firm.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\05Firm\obj\Debug\netcoreapp3.1\05Firm.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\07FootballLeague\bin\Debug\netcoreapp3.1\07FootballLeague.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\07FootballLeague\bin\Debug\netcoreapp3.1\07FootballLeague.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\07FootballLeague\bin\Debug\netcoreapp3.1\07FootballLeague.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\07FootballLeague\bin\Debug\netcoreapp3.1\07FootballLeague.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\07FootballLeague\bin\Debug\netcoreapp3.1\07FootballLeague.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\07FootballLeague\bin\Debug\netcoreapp3.1\07FootballLeague.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\07FootballLeague\obj\Debug\netcoreapp3.1\07FootballLeague.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\07FootballLeague\obj\Debug\netcoreapp3.1\07FootballLeague.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\07FootballLeague\obj\Debug\netcoreapp3.1\07FootballLeague.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\07FootballLeague\obj\Debug\netcoreapp3.1\07FootballLeague.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\07FootballLeague\obj\Debug\netcoreapp3.1\07FootballLeague.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\07FootballLeague\obj\Debug\netcoreapp3.1\07FootballLeague.genruntimeconfig.cache

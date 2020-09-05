@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\05CharacterSequence\bin\Debug\netcoreapp3.1\05CharacterSequence.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\05CharacterSequence\bin\Debug\netcoreapp3.1\05CharacterSequence.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\05CharacterSequence\bin\Debug\netcoreapp3.1\05CharacterSequence.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\05CharacterSequence\bin\Debug\netcoreapp3.1\05CharacterSequence.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\05CharacterSequence\bin\Debug\netcoreapp3.1\05CharacterSequence.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\05CharacterSequence\bin\Debug\netcoreapp3.1\05CharacterSequence.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\05CharacterSequence\obj\Debug\netcoreapp3.1\05CharacterSequence.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\05CharacterSequence\obj\Debug\netcoreapp3.1\05CharacterSequence.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\05CharacterSequence\obj\Debug\netcoreapp3.1\05CharacterSequence.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\05CharacterSequence\obj\Debug\netcoreapp3.1\05CharacterSequence.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\05CharacterSequence\obj\Debug\netcoreapp3.1\05CharacterSequence.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\05CharacterSequence\obj\Debug\netcoreapp3.1\05CharacterSequence.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\MountainRun\bin\Debug\netcoreapp3.1\02MountainRun.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\MountainRun\bin\Debug\netcoreapp3.1\02MountainRun.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\MountainRun\bin\Debug\netcoreapp3.1\02MountainRun.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\MountainRun\bin\Debug\netcoreapp3.1\02MountainRun.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\MountainRun\bin\Debug\netcoreapp3.1\02MountainRun.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\MountainRun\bin\Debug\netcoreapp3.1\02MountainRun.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\MountainRun\obj\Debug\netcoreapp3.1\02MountainRun.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\MountainRun\obj\Debug\netcoreapp3.1\02MountainRun.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\MountainRun\obj\Debug\netcoreapp3.1\02MountainRun.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\MountainRun\obj\Debug\netcoreapp3.1\02MountainRun.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\MountainRun\obj\Debug\netcoreapp3.1\02MountainRun.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\MountainRun\obj\Debug\netcoreapp3.1\02MountainRun.genruntimeconfig.cache

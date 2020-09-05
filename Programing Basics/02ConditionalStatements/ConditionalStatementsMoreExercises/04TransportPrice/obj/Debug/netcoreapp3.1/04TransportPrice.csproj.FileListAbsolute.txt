@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\04TransportPrice\bin\Debug\netcoreapp3.1\04TransportPrice.exe
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\04TransportPrice\bin\Debug\netcoreapp3.1\04TransportPrice.deps.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\04TransportPrice\bin\Debug\netcoreapp3.1\04TransportPrice.runtimeconfig.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\04TransportPrice\bin\Debug\netcoreapp3.1\04TransportPrice.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\04TransportPrice\bin\Debug\netcoreapp3.1\04TransportPrice.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\04TransportPrice\bin\Debug\netcoreapp3.1\04TransportPrice.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\04TransportPrice\obj\Debug\netcoreapp3.1\04TransportPrice.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\04TransportPrice\obj\Debug\netcoreapp3.1\04TransportPrice.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\04TransportPrice\obj\Debug\netcoreapp3.1\04TransportPrice.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\04TransportPrice\obj\Debug\netcoreapp3.1\04TransportPrice.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\04TransportPrice\obj\Debug\netcoreapp3.1\04TransportPrice.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\04TransportPrice\obj\Debug\netcoreapp3.1\04TransportPrice.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\02Skeleton\bin\Debug\netcoreapp3.1\02Skeleton.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\02Skeleton\bin\Debug\netcoreapp3.1\02Skeleton.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\02Skeleton\bin\Debug\netcoreapp3.1\02Skeleton.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\02Skeleton\bin\Debug\netcoreapp3.1\02Skeleton.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\02Skeleton\bin\Debug\netcoreapp3.1\02Skeleton.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\02Skeleton\bin\Debug\netcoreapp3.1\02Skeleton.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\02Skeleton\obj\Debug\netcoreapp3.1\02Skeleton.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\02Skeleton\obj\Debug\netcoreapp3.1\02Skeleton.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\02Skeleton\obj\Debug\netcoreapp3.1\02Skeleton.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\02Skeleton\obj\Debug\netcoreapp3.1\02Skeleton.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\02Skeleton\obj\Debug\netcoreapp3.1\02Skeleton.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\02Skeleton\obj\Debug\netcoreapp3.1\02Skeleton.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\02Skeleton\obj\Debug\netcoreapp3.1\02Skeleton.genruntimeconfig.cache

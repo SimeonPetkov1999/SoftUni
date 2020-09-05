@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\05EasterEggs\bin\Debug\netcoreapp3.1\05EasterEggs.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\05EasterEggs\bin\Debug\netcoreapp3.1\05EasterEggs.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\05EasterEggs\bin\Debug\netcoreapp3.1\05EasterEggs.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\05EasterEggs\bin\Debug\netcoreapp3.1\05EasterEggs.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\05EasterEggs\bin\Debug\netcoreapp3.1\05EasterEggs.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\05EasterEggs\bin\Debug\netcoreapp3.1\05EasterEggs.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\05EasterEggs\obj\Debug\netcoreapp3.1\05EasterEggs.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\05EasterEggs\obj\Debug\netcoreapp3.1\05EasterEggs.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\05EasterEggs\obj\Debug\netcoreapp3.1\05EasterEggs.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\05EasterEggs\obj\Debug\netcoreapp3.1\05EasterEggs.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\05EasterEggs\obj\Debug\netcoreapp3.1\05EasterEggs.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\05EasterEggs\obj\Debug\netcoreapp3.1\05EasterEggs.genruntimeconfig.cache

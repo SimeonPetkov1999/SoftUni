@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\03StreamOfLetters\bin\Debug\netcoreapp3.1\03StreamOfLetters.exe
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\03StreamOfLetters\bin\Debug\netcoreapp3.1\03StreamOfLetters.deps.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\03StreamOfLetters\bin\Debug\netcoreapp3.1\03StreamOfLetters.runtimeconfig.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\03StreamOfLetters\bin\Debug\netcoreapp3.1\03StreamOfLetters.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\03StreamOfLetters\bin\Debug\netcoreapp3.1\03StreamOfLetters.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\03StreamOfLetters\bin\Debug\netcoreapp3.1\03StreamOfLetters.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\03StreamOfLetters\obj\Debug\netcoreapp3.1\03StreamOfLetters.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\03StreamOfLetters\obj\Debug\netcoreapp3.1\03StreamOfLetters.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\03StreamOfLetters\obj\Debug\netcoreapp3.1\03StreamOfLetters.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\03StreamOfLetters\obj\Debug\netcoreapp3.1\03StreamOfLetters.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\03StreamOfLetters\obj\Debug\netcoreapp3.1\03StreamOfLetters.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\03StreamOfLetters\obj\Debug\netcoreapp3.1\03StreamOfLetters.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\03StreamOfLetters\obj\Debug\netcoreapp3.1\03StreamOfLetters.genruntimeconfig.cache

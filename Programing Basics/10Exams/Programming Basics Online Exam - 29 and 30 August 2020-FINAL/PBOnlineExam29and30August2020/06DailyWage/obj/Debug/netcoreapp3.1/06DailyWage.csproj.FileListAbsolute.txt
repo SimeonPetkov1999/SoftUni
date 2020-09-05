@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\06DailyWage\bin\Debug\netcoreapp3.1\06DailyWage.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\06DailyWage\bin\Debug\netcoreapp3.1\06DailyWage.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\06DailyWage\bin\Debug\netcoreapp3.1\06DailyWage.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\06DailyWage\bin\Debug\netcoreapp3.1\06DailyWage.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\06DailyWage\bin\Debug\netcoreapp3.1\06DailyWage.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\06DailyWage\bin\Debug\netcoreapp3.1\06DailyWage.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\06DailyWage\obj\Debug\netcoreapp3.1\06DailyWage.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\06DailyWage\obj\Debug\netcoreapp3.1\06DailyWage.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\06DailyWage\obj\Debug\netcoreapp3.1\06DailyWage.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\06DailyWage\obj\Debug\netcoreapp3.1\06DailyWage.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\06DailyWage\obj\Debug\netcoreapp3.1\06DailyWage.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\06DailyWage\obj\Debug\netcoreapp3.1\06DailyWage.genruntimeconfig.cache

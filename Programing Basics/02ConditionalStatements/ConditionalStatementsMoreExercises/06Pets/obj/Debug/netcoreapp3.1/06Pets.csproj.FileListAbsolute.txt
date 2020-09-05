@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\06Pets\bin\Debug\netcoreapp3.1\06Pets.exe
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\06Pets\bin\Debug\netcoreapp3.1\06Pets.deps.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\06Pets\bin\Debug\netcoreapp3.1\06Pets.runtimeconfig.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\06Pets\bin\Debug\netcoreapp3.1\06Pets.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\06Pets\bin\Debug\netcoreapp3.1\06Pets.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\06Pets\bin\Debug\netcoreapp3.1\06Pets.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\06Pets\obj\Debug\netcoreapp3.1\06Pets.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\06Pets\obj\Debug\netcoreapp3.1\06Pets.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\06Pets\obj\Debug\netcoreapp3.1\06Pets.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\06Pets\obj\Debug\netcoreapp3.1\06Pets.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\06Pets\obj\Debug\netcoreapp3.1\06Pets.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\06Pets\obj\Debug\netcoreapp3.1\06Pets.genruntimeconfig.cache

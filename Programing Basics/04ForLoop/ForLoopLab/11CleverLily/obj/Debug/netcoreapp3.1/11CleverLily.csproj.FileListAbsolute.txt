@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\11CleverLily\bin\Debug\netcoreapp3.1\11CleverLily.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\11CleverLily\bin\Debug\netcoreapp3.1\11CleverLily.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\11CleverLily\bin\Debug\netcoreapp3.1\11CleverLily.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\11CleverLily\bin\Debug\netcoreapp3.1\11CleverLily.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\11CleverLily\bin\Debug\netcoreapp3.1\11CleverLily.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\11CleverLily\bin\Debug\netcoreapp3.1\11CleverLily.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\11CleverLily\obj\Debug\netcoreapp3.1\11CleverLily.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\11CleverLily\obj\Debug\netcoreapp3.1\11CleverLily.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\11CleverLily\obj\Debug\netcoreapp3.1\11CleverLily.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\11CleverLily\obj\Debug\netcoreapp3.1\11CleverLily.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\11CleverLily\obj\Debug\netcoreapp3.1\11CleverLily.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\11CleverLily\obj\Debug\netcoreapp3.1\11CleverLily.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\11CleverLily\obj\Debug\netcoreapp3.1\11CleverLily.genruntimeconfig.cache

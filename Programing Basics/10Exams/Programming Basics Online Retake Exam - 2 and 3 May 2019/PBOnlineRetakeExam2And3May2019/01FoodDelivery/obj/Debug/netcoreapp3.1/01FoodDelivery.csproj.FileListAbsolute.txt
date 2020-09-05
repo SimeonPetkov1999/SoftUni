@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\01FoodDelivery\bin\Debug\netcoreapp3.1\01FoodDelivery.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\01FoodDelivery\bin\Debug\netcoreapp3.1\01FoodDelivery.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\01FoodDelivery\bin\Debug\netcoreapp3.1\01FoodDelivery.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\01FoodDelivery\bin\Debug\netcoreapp3.1\01FoodDelivery.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\01FoodDelivery\bin\Debug\netcoreapp3.1\01FoodDelivery.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\01FoodDelivery\bin\Debug\netcoreapp3.1\01FoodDelivery.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\01FoodDelivery\obj\Debug\netcoreapp3.1\01FoodDelivery.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\01FoodDelivery\obj\Debug\netcoreapp3.1\01FoodDelivery.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\01FoodDelivery\obj\Debug\netcoreapp3.1\01FoodDelivery.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\01FoodDelivery\obj\Debug\netcoreapp3.1\01FoodDelivery.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\01FoodDelivery\obj\Debug\netcoreapp3.1\01FoodDelivery.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\01FoodDelivery\obj\Debug\netcoreapp3.1\01FoodDelivery.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\01FoodDelivery\obj\Debug\netcoreapp3.1\01FoodDelivery.genruntimeconfig.cache

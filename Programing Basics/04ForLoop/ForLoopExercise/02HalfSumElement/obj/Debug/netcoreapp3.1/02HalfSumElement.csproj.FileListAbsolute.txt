@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\02HalfSumElement\bin\Debug\netcoreapp3.1\02HalfSumElement.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\02HalfSumElement\bin\Debug\netcoreapp3.1\02HalfSumElement.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\02HalfSumElement\bin\Debug\netcoreapp3.1\02HalfSumElement.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\02HalfSumElement\bin\Debug\netcoreapp3.1\02HalfSumElement.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\02HalfSumElement\bin\Debug\netcoreapp3.1\02HalfSumElement.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\02HalfSumElement\bin\Debug\netcoreapp3.1\02HalfSumElement.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\02HalfSumElement\obj\Debug\netcoreapp3.1\02HalfSumElement.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\02HalfSumElement\obj\Debug\netcoreapp3.1\02HalfSumElement.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\02HalfSumElement\obj\Debug\netcoreapp3.1\02HalfSumElement.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\02HalfSumElement\obj\Debug\netcoreapp3.1\02HalfSumElement.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\02HalfSumElement\obj\Debug\netcoreapp3.1\02HalfSumElement.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\02HalfSumElement\obj\Debug\netcoreapp3.1\02HalfSumElement.genruntimeconfig.cache

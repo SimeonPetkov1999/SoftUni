@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\01Dishwasher\bin\Debug\netcoreapp3.1\01Dishwasher.exe
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\01Dishwasher\bin\Debug\netcoreapp3.1\01Dishwasher.deps.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\01Dishwasher\bin\Debug\netcoreapp3.1\01Dishwasher.runtimeconfig.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\01Dishwasher\bin\Debug\netcoreapp3.1\01Dishwasher.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\01Dishwasher\bin\Debug\netcoreapp3.1\01Dishwasher.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\01Dishwasher\bin\Debug\netcoreapp3.1\01Dishwasher.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\01Dishwasher\obj\Debug\netcoreapp3.1\01Dishwasher.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\01Dishwasher\obj\Debug\netcoreapp3.1\01Dishwasher.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\01Dishwasher\obj\Debug\netcoreapp3.1\01Dishwasher.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\01Dishwasher\obj\Debug\netcoreapp3.1\01Dishwasher.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\01Dishwasher\obj\Debug\netcoreapp3.1\01Dishwasher.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\01Dishwasher\obj\Debug\netcoreapp3.1\01Dishwasher.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\01Dishwasher\obj\Debug\netcoreapp3.1\01Dishwasher.genruntimeconfig.cache

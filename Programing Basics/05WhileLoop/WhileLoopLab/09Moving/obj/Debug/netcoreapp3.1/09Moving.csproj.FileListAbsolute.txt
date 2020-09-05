@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\09Moving\bin\Debug\netcoreapp3.1\09Moving.exe
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\09Moving\bin\Debug\netcoreapp3.1\09Moving.deps.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\09Moving\bin\Debug\netcoreapp3.1\09Moving.runtimeconfig.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\09Moving\bin\Debug\netcoreapp3.1\09Moving.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\09Moving\bin\Debug\netcoreapp3.1\09Moving.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\09Moving\bin\Debug\netcoreapp3.1\09Moving.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\09Moving\obj\Debug\netcoreapp3.1\09Moving.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\09Moving\obj\Debug\netcoreapp3.1\09Moving.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\09Moving\obj\Debug\netcoreapp3.1\09Moving.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\09Moving\obj\Debug\netcoreapp3.1\09Moving.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\09Moving\obj\Debug\netcoreapp3.1\09Moving.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\09Moving\obj\Debug\netcoreapp3.1\09Moving.genruntimeconfig.cache

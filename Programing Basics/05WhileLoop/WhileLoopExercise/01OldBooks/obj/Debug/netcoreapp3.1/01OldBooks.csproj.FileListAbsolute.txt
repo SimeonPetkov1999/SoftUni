@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\01OldBooks\bin\Debug\netcoreapp3.1\01OldBooks.exe
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\01OldBooks\bin\Debug\netcoreapp3.1\01OldBooks.deps.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\01OldBooks\bin\Debug\netcoreapp3.1\01OldBooks.runtimeconfig.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\01OldBooks\bin\Debug\netcoreapp3.1\01OldBooks.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\01OldBooks\bin\Debug\netcoreapp3.1\01OldBooks.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\01OldBooks\bin\Debug\netcoreapp3.1\01OldBooks.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\01OldBooks\obj\Debug\netcoreapp3.1\01OldBooks.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\01OldBooks\obj\Debug\netcoreapp3.1\01OldBooks.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\01OldBooks\obj\Debug\netcoreapp3.1\01OldBooks.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\01OldBooks\obj\Debug\netcoreapp3.1\01OldBooks.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\01OldBooks\obj\Debug\netcoreapp3.1\01OldBooks.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\01OldBooks\obj\Debug\netcoreapp3.1\01OldBooks.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\01OldBooks\obj\Debug\netcoreapp3.1\01OldBooks.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\06Bills\bin\Debug\netcoreapp3.1\06Bills.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\06Bills\bin\Debug\netcoreapp3.1\06Bills.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\06Bills\bin\Debug\netcoreapp3.1\06Bills.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\06Bills\bin\Debug\netcoreapp3.1\06Bills.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\06Bills\bin\Debug\netcoreapp3.1\06Bills.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\06Bills\bin\Debug\netcoreapp3.1\06Bills.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\06Bills\obj\Debug\netcoreapp3.1\06Bills.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\06Bills\obj\Debug\netcoreapp3.1\06Bills.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\06Bills\obj\Debug\netcoreapp3.1\06Bills.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\06Bills\obj\Debug\netcoreapp3.1\06Bills.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\06Bills\obj\Debug\netcoreapp3.1\06Bills.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\06Bills\obj\Debug\netcoreapp3.1\06Bills.genruntimeconfig.cache

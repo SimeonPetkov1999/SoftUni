@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\01ReadText\bin\Debug\netcoreapp3.1\01ReadText.exe
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\01ReadText\bin\Debug\netcoreapp3.1\01ReadText.deps.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\01ReadText\bin\Debug\netcoreapp3.1\01ReadText.runtimeconfig.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\01ReadText\bin\Debug\netcoreapp3.1\01ReadText.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\01ReadText\bin\Debug\netcoreapp3.1\01ReadText.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\01ReadText\bin\Debug\netcoreapp3.1\01ReadText.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\01ReadText\obj\Debug\netcoreapp3.1\01ReadText.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\01ReadText\obj\Debug\netcoreapp3.1\01ReadText.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\01ReadText\obj\Debug\netcoreapp3.1\01ReadText.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\01ReadText\obj\Debug\netcoreapp3.1\01ReadText.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\01ReadText\obj\Debug\netcoreapp3.1\01ReadText.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\01ReadText\obj\Debug\netcoreapp3.1\01ReadText.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\01ReadText\obj\Debug\netcoreapp3.1\01ReadText.genruntimeconfig.cache

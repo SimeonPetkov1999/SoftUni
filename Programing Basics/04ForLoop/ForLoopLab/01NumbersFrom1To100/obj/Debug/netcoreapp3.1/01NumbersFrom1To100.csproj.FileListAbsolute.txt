@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\01NumbersFrom1To100\bin\Debug\netcoreapp3.1\01NumbersFrom1To100.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\01NumbersFrom1To100\bin\Debug\netcoreapp3.1\01NumbersFrom1To100.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\01NumbersFrom1To100\bin\Debug\netcoreapp3.1\01NumbersFrom1To100.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\01NumbersFrom1To100\bin\Debug\netcoreapp3.1\01NumbersFrom1To100.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\01NumbersFrom1To100\bin\Debug\netcoreapp3.1\01NumbersFrom1To100.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\01NumbersFrom1To100\bin\Debug\netcoreapp3.1\01NumbersFrom1To100.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\01NumbersFrom1To100\obj\Debug\netcoreapp3.1\01NumbersFrom1To100.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\01NumbersFrom1To100\obj\Debug\netcoreapp3.1\01NumbersFrom1To100.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\01NumbersFrom1To100\obj\Debug\netcoreapp3.1\01NumbersFrom1To100.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\01NumbersFrom1To100\obj\Debug\netcoreapp3.1\01NumbersFrom1To100.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\01NumbersFrom1To100\obj\Debug\netcoreapp3.1\01NumbersFrom1To100.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\01NumbersFrom1To100\obj\Debug\netcoreapp3.1\01NumbersFrom1To100.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\01NumbersFrom1To100\obj\Debug\netcoreapp3.1\01NumbersFrom1To100.genruntimeconfig.cache

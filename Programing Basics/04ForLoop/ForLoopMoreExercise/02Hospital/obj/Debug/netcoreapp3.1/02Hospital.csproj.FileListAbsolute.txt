@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\02Hospital\bin\Debug\netcoreapp3.1\02Hospital.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\02Hospital\bin\Debug\netcoreapp3.1\02Hospital.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\02Hospital\bin\Debug\netcoreapp3.1\02Hospital.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\02Hospital\bin\Debug\netcoreapp3.1\02Hospital.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\02Hospital\bin\Debug\netcoreapp3.1\02Hospital.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\02Hospital\bin\Debug\netcoreapp3.1\02Hospital.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\02Hospital\obj\Debug\netcoreapp3.1\02Hospital.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\02Hospital\obj\Debug\netcoreapp3.1\02Hospital.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\02Hospital\obj\Debug\netcoreapp3.1\02Hospital.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\02Hospital\obj\Debug\netcoreapp3.1\02Hospital.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\02Hospital\obj\Debug\netcoreapp3.1\02Hospital.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\02Hospital\obj\Debug\netcoreapp3.1\02Hospital.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\02Hospital\obj\Debug\netcoreapp3.1\02Hospital.genruntimeconfig.cache

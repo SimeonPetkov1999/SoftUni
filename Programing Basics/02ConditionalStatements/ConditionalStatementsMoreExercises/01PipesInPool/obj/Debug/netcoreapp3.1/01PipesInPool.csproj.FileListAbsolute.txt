@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\01PipesInPool\bin\Debug\netcoreapp3.1\01PipesInPool.exe
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\01PipesInPool\bin\Debug\netcoreapp3.1\01PipesInPool.deps.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\01PipesInPool\bin\Debug\netcoreapp3.1\01PipesInPool.runtimeconfig.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\01PipesInPool\bin\Debug\netcoreapp3.1\01PipesInPool.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\01PipesInPool\bin\Debug\netcoreapp3.1\01PipesInPool.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\01PipesInPool\bin\Debug\netcoreapp3.1\01PipesInPool.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\01PipesInPool\obj\Debug\netcoreapp3.1\01PipesInPool.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\01PipesInPool\obj\Debug\netcoreapp3.1\01PipesInPool.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\01PipesInPool\obj\Debug\netcoreapp3.1\01PipesInPool.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\01PipesInPool\obj\Debug\netcoreapp3.1\01PipesInPool.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\01PipesInPool\obj\Debug\netcoreapp3.1\01PipesInPool.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\01PipesInPool\obj\Debug\netcoreapp3.1\01PipesInPool.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\01PipesInPool\obj\Debug\netcoreapp3.1\01PipesInPool.genruntimeconfig.cache

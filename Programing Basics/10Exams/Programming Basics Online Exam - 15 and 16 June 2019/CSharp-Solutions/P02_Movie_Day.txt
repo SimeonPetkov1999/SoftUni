@@ -1,0 +1,27 @@
+﻿using System;
+
+namespace _02.Movie_Day
+{
+    class P02_Movie_Day
+    {
+        static void Main(string[] args)
+        {
+            int photoTime = int.Parse(Console.ReadLine());
+            int scenes = int.Parse(Console.ReadLine());
+            int sceneTime = int.Parse(Console.ReadLine());
+
+            double fieldTime = photoTime * 0.15;
+            double totalScenesTime = scenes * sceneTime;
+            double totalTime = fieldTime + totalScenesTime;
+
+            if(totalTime <= photoTime)
+            {
+                Console.WriteLine($"You managed to finish the movie on time! You have {Math.Round(photoTime - totalTime)} minutes left!");
+            }
+            else
+            {
+                Console.WriteLine($"Time is up! To complete the movie you need {Math.Round(totalTime - photoTime)} minutes.");
+            }
+        }
+    }
+}

@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\UsdToBgn\bin\Debug\netcoreapp3.1\UsdToBgn.exe
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\UsdToBgn\bin\Debug\netcoreapp3.1\UsdToBgn.deps.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\UsdToBgn\bin\Debug\netcoreapp3.1\UsdToBgn.runtimeconfig.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\UsdToBgn\bin\Debug\netcoreapp3.1\UsdToBgn.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\UsdToBgn\bin\Debug\netcoreapp3.1\UsdToBgn.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\UsdToBgn\bin\Debug\netcoreapp3.1\UsdToBgn.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\UsdToBgn\obj\Debug\netcoreapp3.1\UsdToBgn.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\UsdToBgn\obj\Debug\netcoreapp3.1\UsdToBgn.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\UsdToBgn\obj\Debug\netcoreapp3.1\UsdToBgn.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\UsdToBgn\obj\Debug\netcoreapp3.1\UsdToBgn.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\UsdToBgn\obj\Debug\netcoreapp3.1\UsdToBgn.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\UsdToBgn\obj\Debug\netcoreapp3.1\UsdToBgn.genruntimeconfig.cache

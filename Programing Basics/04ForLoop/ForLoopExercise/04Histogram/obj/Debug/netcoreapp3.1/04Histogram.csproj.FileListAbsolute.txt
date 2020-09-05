@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\04Histogram\bin\Debug\netcoreapp3.1\04Histogram.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\04Histogram\bin\Debug\netcoreapp3.1\04Histogram.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\04Histogram\bin\Debug\netcoreapp3.1\04Histogram.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\04Histogram\bin\Debug\netcoreapp3.1\04Histogram.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\04Histogram\bin\Debug\netcoreapp3.1\04Histogram.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\04Histogram\bin\Debug\netcoreapp3.1\04Histogram.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\04Histogram\obj\Debug\netcoreapp3.1\04Histogram.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\04Histogram\obj\Debug\netcoreapp3.1\04Histogram.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\04Histogram\obj\Debug\netcoreapp3.1\04Histogram.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\04Histogram\obj\Debug\netcoreapp3.1\04Histogram.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\04Histogram\obj\Debug\netcoreapp3.1\04Histogram.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\04Histogram\obj\Debug\netcoreapp3.1\04Histogram.genruntimeconfig.cache

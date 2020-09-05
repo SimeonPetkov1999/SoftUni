@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BirthdayParty/1.0.0": {
+        "runtime": {
+          "BirthdayParty.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BirthdayParty/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

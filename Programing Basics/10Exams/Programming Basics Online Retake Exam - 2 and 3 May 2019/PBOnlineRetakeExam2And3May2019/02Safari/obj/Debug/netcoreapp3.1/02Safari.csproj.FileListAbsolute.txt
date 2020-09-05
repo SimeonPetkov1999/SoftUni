@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\02Safari\bin\Debug\netcoreapp3.1\02Safari.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\02Safari\bin\Debug\netcoreapp3.1\02Safari.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\02Safari\bin\Debug\netcoreapp3.1\02Safari.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\02Safari\bin\Debug\netcoreapp3.1\02Safari.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\02Safari\bin\Debug\netcoreapp3.1\02Safari.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\02Safari\bin\Debug\netcoreapp3.1\02Safari.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\02Safari\obj\Debug\netcoreapp3.1\02Safari.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\02Safari\obj\Debug\netcoreapp3.1\02Safari.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\02Safari\obj\Debug\netcoreapp3.1\02Safari.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\02Safari\obj\Debug\netcoreapp3.1\02Safari.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\02Safari\obj\Debug\netcoreapp3.1\02Safari.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\02Safari\obj\Debug\netcoreapp3.1\02Safari.genruntimeconfig.cache

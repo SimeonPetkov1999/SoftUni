@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\03Logistics\bin\Debug\netcoreapp3.1\03Logistics.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\03Logistics\bin\Debug\netcoreapp3.1\03Logistics.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\03Logistics\bin\Debug\netcoreapp3.1\03Logistics.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\03Logistics\bin\Debug\netcoreapp3.1\03Logistics.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\03Logistics\bin\Debug\netcoreapp3.1\03Logistics.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\03Logistics\bin\Debug\netcoreapp3.1\03Logistics.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\03Logistics\obj\Debug\netcoreapp3.1\03Logistics.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\03Logistics\obj\Debug\netcoreapp3.1\03Logistics.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\03Logistics\obj\Debug\netcoreapp3.1\03Logistics.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\03Logistics\obj\Debug\netcoreapp3.1\03Logistics.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\03Logistics\obj\Debug\netcoreapp3.1\03Logistics.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\03Logistics\obj\Debug\netcoreapp3.1\03Logistics.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\03Logistics\obj\Debug\netcoreapp3.1\03Logistics.genruntimeconfig.cache

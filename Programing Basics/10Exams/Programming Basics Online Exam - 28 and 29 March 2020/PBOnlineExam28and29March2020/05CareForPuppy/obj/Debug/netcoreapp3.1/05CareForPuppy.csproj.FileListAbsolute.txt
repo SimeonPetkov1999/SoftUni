@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05CareForPuppy\bin\Debug\netcoreapp3.1\05CareForPuppy.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05CareForPuppy\bin\Debug\netcoreapp3.1\05CareForPuppy.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05CareForPuppy\bin\Debug\netcoreapp3.1\05CareForPuppy.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05CareForPuppy\bin\Debug\netcoreapp3.1\05CareForPuppy.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05CareForPuppy\bin\Debug\netcoreapp3.1\05CareForPuppy.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05CareForPuppy\bin\Debug\netcoreapp3.1\05CareForPuppy.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05CareForPuppy\obj\Debug\netcoreapp3.1\05CareForPuppy.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05CareForPuppy\obj\Debug\netcoreapp3.1\05CareForPuppy.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05CareForPuppy\obj\Debug\netcoreapp3.1\05CareForPuppy.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05CareForPuppy\obj\Debug\netcoreapp3.1\05CareForPuppy.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05CareForPuppy\obj\Debug\netcoreapp3.1\05CareForPuppy.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05CareForPuppy\obj\Debug\netcoreapp3.1\05CareForPuppy.genruntimeconfig.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05CareForPuppy\obj\Debug\netcoreapp3.1\05CareForPuppy.csprojAssemblyReference.cache

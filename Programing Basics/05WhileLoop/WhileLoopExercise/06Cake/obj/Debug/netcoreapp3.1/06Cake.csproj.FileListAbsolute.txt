@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\06Cake\bin\Debug\netcoreapp3.1\06Cake.exe
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\06Cake\bin\Debug\netcoreapp3.1\06Cake.deps.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\06Cake\bin\Debug\netcoreapp3.1\06Cake.runtimeconfig.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\06Cake\bin\Debug\netcoreapp3.1\06Cake.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\06Cake\bin\Debug\netcoreapp3.1\06Cake.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\06Cake\bin\Debug\netcoreapp3.1\06Cake.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\06Cake\obj\Debug\netcoreapp3.1\06Cake.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\06Cake\obj\Debug\netcoreapp3.1\06Cake.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\06Cake\obj\Debug\netcoreapp3.1\06Cake.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\06Cake\obj\Debug\netcoreapp3.1\06Cake.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\06Cake\obj\Debug\netcoreapp3.1\06Cake.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\06Cake\obj\Debug\netcoreapp3.1\06Cake.genruntimeconfig.cache

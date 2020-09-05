@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\TrapezoidArea\bin\Debug\netcoreapp3.1\TrapezoidArea.exe
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\TrapezoidArea\bin\Debug\netcoreapp3.1\TrapezoidArea.deps.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\TrapezoidArea\bin\Debug\netcoreapp3.1\TrapezoidArea.runtimeconfig.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\TrapezoidArea\bin\Debug\netcoreapp3.1\TrapezoidArea.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\TrapezoidArea\bin\Debug\netcoreapp3.1\TrapezoidArea.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\TrapezoidArea\bin\Debug\netcoreapp3.1\TrapezoidArea.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\TrapezoidArea\obj\Debug\netcoreapp3.1\TrapezoidArea.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\TrapezoidArea\obj\Debug\netcoreapp3.1\TrapezoidArea.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\TrapezoidArea\obj\Debug\netcoreapp3.1\TrapezoidArea.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\TrapezoidArea\obj\Debug\netcoreapp3.1\TrapezoidArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\TrapezoidArea\obj\Debug\netcoreapp3.1\TrapezoidArea.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\TrapezoidArea\obj\Debug\netcoreapp3.1\TrapezoidArea.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\TrapezoidArea\obj\Debug\netcoreapp3.1\TrapezoidArea.genruntimeconfig.cache

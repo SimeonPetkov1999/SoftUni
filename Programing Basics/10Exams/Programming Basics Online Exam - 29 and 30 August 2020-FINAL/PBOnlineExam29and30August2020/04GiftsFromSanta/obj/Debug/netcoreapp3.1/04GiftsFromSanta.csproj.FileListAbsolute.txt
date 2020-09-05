@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\04GiftsFromSanta\bin\Debug\netcoreapp3.1\04GiftsFromSanta.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\04GiftsFromSanta\bin\Debug\netcoreapp3.1\04GiftsFromSanta.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\04GiftsFromSanta\bin\Debug\netcoreapp3.1\04GiftsFromSanta.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\04GiftsFromSanta\bin\Debug\netcoreapp3.1\04GiftsFromSanta.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\04GiftsFromSanta\bin\Debug\netcoreapp3.1\04GiftsFromSanta.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\04GiftsFromSanta\bin\Debug\netcoreapp3.1\04GiftsFromSanta.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\04GiftsFromSanta\obj\Debug\netcoreapp3.1\04GiftsFromSanta.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\04GiftsFromSanta\obj\Debug\netcoreapp3.1\04GiftsFromSanta.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\04GiftsFromSanta\obj\Debug\netcoreapp3.1\04GiftsFromSanta.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\04GiftsFromSanta\obj\Debug\netcoreapp3.1\04GiftsFromSanta.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\04GiftsFromSanta\obj\Debug\netcoreapp3.1\04GiftsFromSanta.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\04GiftsFromSanta\obj\Debug\netcoreapp3.1\04GiftsFromSanta.genruntimeconfig.cache

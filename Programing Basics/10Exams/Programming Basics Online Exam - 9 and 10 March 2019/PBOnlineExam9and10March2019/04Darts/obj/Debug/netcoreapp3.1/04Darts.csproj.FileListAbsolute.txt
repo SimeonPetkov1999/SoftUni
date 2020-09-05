@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\04Darts\bin\Debug\netcoreapp3.1\04Darts.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\04Darts\bin\Debug\netcoreapp3.1\04Darts.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\04Darts\bin\Debug\netcoreapp3.1\04Darts.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\04Darts\bin\Debug\netcoreapp3.1\04Darts.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\04Darts\bin\Debug\netcoreapp3.1\04Darts.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\04Darts\bin\Debug\netcoreapp3.1\04Darts.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\04Darts\obj\Debug\netcoreapp3.1\04Darts.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\04Darts\obj\Debug\netcoreapp3.1\04Darts.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\04Darts\obj\Debug\netcoreapp3.1\04Darts.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\04Darts\obj\Debug\netcoreapp3.1\04Darts.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\04Darts\obj\Debug\netcoreapp3.1\04Darts.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\04Darts\obj\Debug\netcoreapp3.1\04Darts.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\04Darts\obj\Debug\netcoreapp3.1\04Darts.genruntimeconfig.cache

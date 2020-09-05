@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.exe
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.deps.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.runtimeconfig.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\BirthdayParty\bin\Debug\netcoreapp3.1\BirthdayParty.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\BirthdayParty\obj\Debug\netcoreapp3.1\BirthdayParty.genruntimeconfig.cache

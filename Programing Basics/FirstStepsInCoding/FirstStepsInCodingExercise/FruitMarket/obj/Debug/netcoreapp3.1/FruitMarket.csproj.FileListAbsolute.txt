@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.exe
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.deps.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.runtimeconfig.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\FruitMarket\bin\Debug\netcoreapp3.1\FruitMarket.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\FruitMarket\obj\Debug\netcoreapp3.1\FruitMarket.genruntimeconfig.cache

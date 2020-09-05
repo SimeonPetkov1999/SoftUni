@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\04SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04SumOfTwoNumbers.exe
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\04SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04SumOfTwoNumbers.deps.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\04SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04SumOfTwoNumbers.runtimeconfig.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\04SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04SumOfTwoNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\04SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04SumOfTwoNumbers.dll
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\04SumOfTwoNumbers\bin\Debug\netcoreapp3.1\04SumOfTwoNumbers.pdb
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\04SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04SumOfTwoNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\04SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04SumOfTwoNumbers.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\04SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\04SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04SumOfTwoNumbers.dll
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\04SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04SumOfTwoNumbers.pdb
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\04SumOfTwoNumbers\obj\Debug\netcoreapp3.1\04SumOfTwoNumbers.genruntimeconfig.cache

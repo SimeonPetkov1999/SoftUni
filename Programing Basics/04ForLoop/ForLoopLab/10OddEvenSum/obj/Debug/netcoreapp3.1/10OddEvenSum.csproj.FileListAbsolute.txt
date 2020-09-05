@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\10OddEvenSum\bin\Debug\netcoreapp3.1\10OddEvenSum.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\10OddEvenSum\bin\Debug\netcoreapp3.1\10OddEvenSum.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\10OddEvenSum\bin\Debug\netcoreapp3.1\10OddEvenSum.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\10OddEvenSum\bin\Debug\netcoreapp3.1\10OddEvenSum.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\10OddEvenSum\bin\Debug\netcoreapp3.1\10OddEvenSum.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\10OddEvenSum\bin\Debug\netcoreapp3.1\10OddEvenSum.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\10OddEvenSum\obj\Debug\netcoreapp3.1\10OddEvenSum.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\10OddEvenSum\obj\Debug\netcoreapp3.1\10OddEvenSum.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\10OddEvenSum\obj\Debug\netcoreapp3.1\10OddEvenSum.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\10OddEvenSum\obj\Debug\netcoreapp3.1\10OddEvenSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\10OddEvenSum\obj\Debug\netcoreapp3.1\10OddEvenSum.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\10OddEvenSum\obj\Debug\netcoreapp3.1\10OddEvenSum.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\10OddEvenSum\obj\Debug\netcoreapp3.1\10OddEvenSum.genruntimeconfig.cache

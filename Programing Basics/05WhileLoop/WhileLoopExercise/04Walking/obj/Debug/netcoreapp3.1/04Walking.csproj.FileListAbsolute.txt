@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\04Walking\bin\Debug\netcoreapp3.1\04Walking.exe
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\04Walking\bin\Debug\netcoreapp3.1\04Walking.deps.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\04Walking\bin\Debug\netcoreapp3.1\04Walking.runtimeconfig.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\04Walking\bin\Debug\netcoreapp3.1\04Walking.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\04Walking\bin\Debug\netcoreapp3.1\04Walking.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\04Walking\bin\Debug\netcoreapp3.1\04Walking.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\04Walking\obj\Debug\netcoreapp3.1\04Walking.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\04Walking\obj\Debug\netcoreapp3.1\04Walking.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\04Walking\obj\Debug\netcoreapp3.1\04Walking.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\04Walking\obj\Debug\netcoreapp3.1\04Walking.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\04Walking\obj\Debug\netcoreapp3.1\04Walking.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\04Walking\obj\Debug\netcoreapp3.1\04Walking.genruntimeconfig.cache

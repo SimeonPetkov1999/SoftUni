@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\08GraduationPt.2\bin\Debug\netcoreapp3.1\08GraduationPt.2.exe
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\08GraduationPt.2\bin\Debug\netcoreapp3.1\08GraduationPt.2.deps.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\08GraduationPt.2\bin\Debug\netcoreapp3.1\08GraduationPt.2.runtimeconfig.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\08GraduationPt.2\bin\Debug\netcoreapp3.1\08GraduationPt.2.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\08GraduationPt.2\bin\Debug\netcoreapp3.1\08GraduationPt.2.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\08GraduationPt.2\bin\Debug\netcoreapp3.1\08GraduationPt.2.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\08GraduationPt.2\obj\Debug\netcoreapp3.1\08GraduationPt.2.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\08GraduationPt.2\obj\Debug\netcoreapp3.1\08GraduationPt.2.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\08GraduationPt.2\obj\Debug\netcoreapp3.1\08GraduationPt.2.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\08GraduationPt.2\obj\Debug\netcoreapp3.1\08GraduationPt.2.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\08GraduationPt.2\obj\Debug\netcoreapp3.1\08GraduationPt.2.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\08GraduationPt.2\obj\Debug\netcoreapp3.1\08GraduationPt.2.genruntimeconfig.cache

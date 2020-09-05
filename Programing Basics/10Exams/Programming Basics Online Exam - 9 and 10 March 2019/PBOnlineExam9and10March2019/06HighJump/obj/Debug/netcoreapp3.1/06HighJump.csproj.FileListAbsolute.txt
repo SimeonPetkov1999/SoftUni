@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\06HighJump\bin\Debug\netcoreapp3.1\06HighJump.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\06HighJump\bin\Debug\netcoreapp3.1\06HighJump.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\06HighJump\bin\Debug\netcoreapp3.1\06HighJump.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\06HighJump\bin\Debug\netcoreapp3.1\06HighJump.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\06HighJump\bin\Debug\netcoreapp3.1\06HighJump.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\06HighJump\bin\Debug\netcoreapp3.1\06HighJump.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\06HighJump\obj\Debug\netcoreapp3.1\06HighJump.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\06HighJump\obj\Debug\netcoreapp3.1\06HighJump.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\06HighJump\obj\Debug\netcoreapp3.1\06HighJump.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\06HighJump\obj\Debug\netcoreapp3.1\06HighJump.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\06HighJump\obj\Debug\netcoreapp3.1\06HighJump.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\06HighJump\obj\Debug\netcoreapp3.1\06HighJump.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\06HighJump\obj\Debug\netcoreapp3.1\06HighJump.genruntimeconfig.cache

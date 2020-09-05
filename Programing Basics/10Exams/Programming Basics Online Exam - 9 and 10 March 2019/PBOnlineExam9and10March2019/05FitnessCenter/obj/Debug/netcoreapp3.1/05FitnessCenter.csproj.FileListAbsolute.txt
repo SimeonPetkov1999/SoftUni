@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\05FitnessCenter\bin\Debug\netcoreapp3.1\05FitnessCenter.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\05FitnessCenter\bin\Debug\netcoreapp3.1\05FitnessCenter.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\05FitnessCenter\bin\Debug\netcoreapp3.1\05FitnessCenter.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\05FitnessCenter\bin\Debug\netcoreapp3.1\05FitnessCenter.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\05FitnessCenter\bin\Debug\netcoreapp3.1\05FitnessCenter.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\05FitnessCenter\bin\Debug\netcoreapp3.1\05FitnessCenter.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\05FitnessCenter\obj\Debug\netcoreapp3.1\05FitnessCenter.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\05FitnessCenter\obj\Debug\netcoreapp3.1\05FitnessCenter.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\05FitnessCenter\obj\Debug\netcoreapp3.1\05FitnessCenter.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\05FitnessCenter\obj\Debug\netcoreapp3.1\05FitnessCenter.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\05FitnessCenter\obj\Debug\netcoreapp3.1\05FitnessCenter.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\05FitnessCenter\obj\Debug\netcoreapp3.1\05FitnessCenter.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\05FitnessCenter\obj\Debug\netcoreapp3.1\05FitnessCenter.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\06BasketballTournament\obj\Debug\netcoreapp3.1\06BasketballTournament.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\06BasketballTournament\obj\Debug\netcoreapp3.1\06BasketballTournament.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\06BasketballTournament\obj\Debug\netcoreapp3.1\06BasketballTournament.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\06BasketballTournament\bin\Debug\netcoreapp3.1\06BasketballTournament.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\06BasketballTournament\bin\Debug\netcoreapp3.1\06BasketballTournament.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\06BasketballTournament\bin\Debug\netcoreapp3.1\06BasketballTournament.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\06BasketballTournament\bin\Debug\netcoreapp3.1\06BasketballTournament.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\06BasketballTournament\bin\Debug\netcoreapp3.1\06BasketballTournament.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\06BasketballTournament\bin\Debug\netcoreapp3.1\06BasketballTournament.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\06BasketballTournament\obj\Debug\netcoreapp3.1\06BasketballTournament.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\06BasketballTournament\obj\Debug\netcoreapp3.1\06BasketballTournament.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\06BasketballTournament\obj\Debug\netcoreapp3.1\06BasketballTournament.genruntimeconfig.cache

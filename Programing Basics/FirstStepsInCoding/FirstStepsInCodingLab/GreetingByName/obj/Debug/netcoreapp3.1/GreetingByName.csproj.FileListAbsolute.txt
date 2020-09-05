@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.exe
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.deps.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.runtimeconfig.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\GreetingByName\bin\Debug\netcoreapp3.1\GreetingByName.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\GreetingByName\obj\Debug\netcoreapp3.1\GreetingByName.genruntimeconfig.cache

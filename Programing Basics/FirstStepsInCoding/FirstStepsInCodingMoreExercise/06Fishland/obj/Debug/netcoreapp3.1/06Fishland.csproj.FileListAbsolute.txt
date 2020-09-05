@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\06Fishland\bin\Debug\netcoreapp3.1\06Fishland.exe
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\06Fishland\bin\Debug\netcoreapp3.1\06Fishland.deps.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\06Fishland\bin\Debug\netcoreapp3.1\06Fishland.runtimeconfig.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\06Fishland\bin\Debug\netcoreapp3.1\06Fishland.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\06Fishland\bin\Debug\netcoreapp3.1\06Fishland.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\06Fishland\bin\Debug\netcoreapp3.1\06Fishland.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\06Fishland\obj\Debug\netcoreapp3.1\06Fishland.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\06Fishland\obj\Debug\netcoreapp3.1\06Fishland.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\06Fishland\obj\Debug\netcoreapp3.1\06Fishland.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\06Fishland\obj\Debug\netcoreapp3.1\06Fishland.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\06Fishland\obj\Debug\netcoreapp3.1\06Fishland.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\06Fishland\obj\Debug\netcoreapp3.1\06Fishland.genruntimeconfig.cache

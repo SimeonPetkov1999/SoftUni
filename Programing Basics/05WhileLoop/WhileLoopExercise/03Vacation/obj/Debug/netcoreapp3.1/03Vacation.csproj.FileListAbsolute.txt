@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\03Vacation\bin\Debug\netcoreapp3.1\03Vacation.exe
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\03Vacation\bin\Debug\netcoreapp3.1\03Vacation.deps.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\03Vacation\bin\Debug\netcoreapp3.1\03Vacation.runtimeconfig.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\03Vacation\bin\Debug\netcoreapp3.1\03Vacation.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\03Vacation\bin\Debug\netcoreapp3.1\03Vacation.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\03Vacation\bin\Debug\netcoreapp3.1\03Vacation.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\03Vacation\obj\Debug\netcoreapp3.1\03Vacation.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\03Vacation\obj\Debug\netcoreapp3.1\03Vacation.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\03Vacation\obj\Debug\netcoreapp3.1\03Vacation.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\03Vacation\obj\Debug\netcoreapp3.1\03Vacation.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\03Vacation\obj\Debug\netcoreapp3.1\03Vacation.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\03Vacation\obj\Debug\netcoreapp3.1\03Vacation.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopExercise\03Vacation\obj\Debug\netcoreapp3.1\03Vacation.genruntimeconfig.cache

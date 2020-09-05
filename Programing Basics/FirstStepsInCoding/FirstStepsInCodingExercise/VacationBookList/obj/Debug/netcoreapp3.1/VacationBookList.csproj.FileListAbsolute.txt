@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\VacationBookList\bin\Debug\netcoreapp3.1\VacationBookList.exe
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\VacationBookList\bin\Debug\netcoreapp3.1\VacationBookList.deps.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\VacationBookList\bin\Debug\netcoreapp3.1\VacationBookList.runtimeconfig.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\VacationBookList\bin\Debug\netcoreapp3.1\VacationBookList.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\VacationBookList\bin\Debug\netcoreapp3.1\VacationBookList.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\VacationBookList\bin\Debug\netcoreapp3.1\VacationBookList.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\VacationBookList\obj\Debug\netcoreapp3.1\VacationBookList.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\VacationBookList\obj\Debug\netcoreapp3.1\VacationBookList.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\VacationBookList\obj\Debug\netcoreapp3.1\VacationBookList.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\VacationBookList\obj\Debug\netcoreapp3.1\VacationBookList.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\VacationBookList\obj\Debug\netcoreapp3.1\VacationBookList.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingExercise\VacationBookList\obj\Debug\netcoreapp3.1\VacationBookList.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02LunchBreak\bin\Debug\netcoreapp3.1\02LunchBreak.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02LunchBreak\bin\Debug\netcoreapp3.1\02LunchBreak.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02LunchBreak\bin\Debug\netcoreapp3.1\02LunchBreak.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02LunchBreak\bin\Debug\netcoreapp3.1\02LunchBreak.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02LunchBreak\bin\Debug\netcoreapp3.1\02LunchBreak.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02LunchBreak\bin\Debug\netcoreapp3.1\02LunchBreak.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02LunchBreak\obj\Debug\netcoreapp3.1\02LunchBreak.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02LunchBreak\obj\Debug\netcoreapp3.1\02LunchBreak.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02LunchBreak\obj\Debug\netcoreapp3.1\02LunchBreak.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02LunchBreak\obj\Debug\netcoreapp3.1\02LunchBreak.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02LunchBreak\obj\Debug\netcoreapp3.1\02LunchBreak.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\02LunchBreak\obj\Debug\netcoreapp3.1\02LunchBreak.genruntimeconfig.cache

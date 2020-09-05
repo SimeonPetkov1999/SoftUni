@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\03Gymnastics\bin\Debug\netcoreapp3.1\03Gymnastics.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\03Gymnastics\bin\Debug\netcoreapp3.1\03Gymnastics.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\03Gymnastics\bin\Debug\netcoreapp3.1\03Gymnastics.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\03Gymnastics\bin\Debug\netcoreapp3.1\03Gymnastics.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\03Gymnastics\bin\Debug\netcoreapp3.1\03Gymnastics.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\03Gymnastics\bin\Debug\netcoreapp3.1\03Gymnastics.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\03Gymnastics\obj\Debug\netcoreapp3.1\03Gymnastics.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\03Gymnastics\obj\Debug\netcoreapp3.1\03Gymnastics.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\03Gymnastics\obj\Debug\netcoreapp3.1\03Gymnastics.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\03Gymnastics\obj\Debug\netcoreapp3.1\03Gymnastics.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\03Gymnastics\obj\Debug\netcoreapp3.1\03Gymnastics.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\03Gymnastics\obj\Debug\netcoreapp3.1\03Gymnastics.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\03Gymnastics\obj\Debug\netcoreapp3.1\03Gymnastics.genruntimeconfig.cache

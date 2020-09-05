@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\04GameNumberWars\bin\Debug\netcoreapp3.1\04GameNumberWars.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\04GameNumberWars\bin\Debug\netcoreapp3.1\04GameNumberWars.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\04GameNumberWars\bin\Debug\netcoreapp3.1\04GameNumberWars.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\04GameNumberWars\bin\Debug\netcoreapp3.1\04GameNumberWars.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\04GameNumberWars\bin\Debug\netcoreapp3.1\04GameNumberWars.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\04GameNumberWars\bin\Debug\netcoreapp3.1\04GameNumberWars.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\04GameNumberWars\obj\Debug\netcoreapp3.1\04GameNumberWars.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\04GameNumberWars\obj\Debug\netcoreapp3.1\04GameNumberWars.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\04GameNumberWars\obj\Debug\netcoreapp3.1\04GameNumberWars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\04GameNumberWars\obj\Debug\netcoreapp3.1\04GameNumberWars.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\04GameNumberWars\obj\Debug\netcoreapp3.1\04GameNumberWars.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\04GameNumberWars\obj\Debug\netcoreapp3.1\04GameNumberWars.genruntimeconfig.cache

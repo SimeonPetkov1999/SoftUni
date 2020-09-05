@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05SuitcasesLoad\bin\Debug\netcoreapp3.1\05SuitcasesLoad.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05SuitcasesLoad\bin\Debug\netcoreapp3.1\05SuitcasesLoad.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05SuitcasesLoad\bin\Debug\netcoreapp3.1\05SuitcasesLoad.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05SuitcasesLoad\bin\Debug\netcoreapp3.1\05SuitcasesLoad.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05SuitcasesLoad\bin\Debug\netcoreapp3.1\05SuitcasesLoad.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05SuitcasesLoad\bin\Debug\netcoreapp3.1\05SuitcasesLoad.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05SuitcasesLoad\obj\Debug\netcoreapp3.1\05SuitcasesLoad.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05SuitcasesLoad\obj\Debug\netcoreapp3.1\05SuitcasesLoad.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05SuitcasesLoad\obj\Debug\netcoreapp3.1\05SuitcasesLoad.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05SuitcasesLoad\obj\Debug\netcoreapp3.1\05SuitcasesLoad.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05SuitcasesLoad\obj\Debug\netcoreapp3.1\05SuitcasesLoad.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05SuitcasesLoad\obj\Debug\netcoreapp3.1\05SuitcasesLoad.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\05SuitcasesLoad\obj\Debug\netcoreapp3.1\05SuitcasesLoad.genruntimeconfig.cache

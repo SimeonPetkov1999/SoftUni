@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\04Cinema\bin\Debug\netcoreapp3.1\04Cinema.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\04Cinema\bin\Debug\netcoreapp3.1\04Cinema.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\04Cinema\bin\Debug\netcoreapp3.1\04Cinema.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\04Cinema\bin\Debug\netcoreapp3.1\04Cinema.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\04Cinema\bin\Debug\netcoreapp3.1\04Cinema.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\04Cinema\bin\Debug\netcoreapp3.1\04Cinema.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\04Cinema\obj\Debug\netcoreapp3.1\04Cinema.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\04Cinema\obj\Debug\netcoreapp3.1\04Cinema.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\04Cinema\obj\Debug\netcoreapp3.1\04Cinema.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\04Cinema\obj\Debug\netcoreapp3.1\04Cinema.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\04Cinema\obj\Debug\netcoreapp3.1\04Cinema.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\04Cinema\obj\Debug\netcoreapp3.1\04Cinema.genruntimeconfig.cache

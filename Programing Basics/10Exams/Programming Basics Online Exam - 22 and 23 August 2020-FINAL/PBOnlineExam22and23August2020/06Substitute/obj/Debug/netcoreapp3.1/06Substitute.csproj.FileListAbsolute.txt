@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\06Substitute\bin\Debug\netcoreapp3.1\06Substitute.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\06Substitute\bin\Debug\netcoreapp3.1\06Substitute.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\06Substitute\bin\Debug\netcoreapp3.1\06Substitute.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\06Substitute\bin\Debug\netcoreapp3.1\06Substitute.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\06Substitute\bin\Debug\netcoreapp3.1\06Substitute.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\06Substitute\bin\Debug\netcoreapp3.1\06Substitute.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\06Substitute\obj\Debug\netcoreapp3.1\06Substitute.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\06Substitute\obj\Debug\netcoreapp3.1\06Substitute.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\06Substitute\obj\Debug\netcoreapp3.1\06Substitute.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\06Substitute\obj\Debug\netcoreapp3.1\06Substitute.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\06Substitute\obj\Debug\netcoreapp3.1\06Substitute.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\06Substitute\obj\Debug\netcoreapp3.1\06Substitute.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\06Substitute\obj\Debug\netcoreapp3.1\06Substitute.genruntimeconfig.cache

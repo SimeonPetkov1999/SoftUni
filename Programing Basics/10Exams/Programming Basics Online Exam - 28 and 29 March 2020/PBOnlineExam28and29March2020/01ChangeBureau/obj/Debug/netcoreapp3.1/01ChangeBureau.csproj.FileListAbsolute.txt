@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01ChangeBureau\bin\Debug\netcoreapp3.1\01ChangeBureau.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01ChangeBureau\bin\Debug\netcoreapp3.1\01ChangeBureau.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01ChangeBureau\bin\Debug\netcoreapp3.1\01ChangeBureau.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01ChangeBureau\bin\Debug\netcoreapp3.1\01ChangeBureau.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01ChangeBureau\bin\Debug\netcoreapp3.1\01ChangeBureau.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01ChangeBureau\bin\Debug\netcoreapp3.1\01ChangeBureau.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01ChangeBureau\obj\Debug\netcoreapp3.1\01ChangeBureau.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01ChangeBureau\obj\Debug\netcoreapp3.1\01ChangeBureau.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01ChangeBureau\obj\Debug\netcoreapp3.1\01ChangeBureau.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01ChangeBureau\obj\Debug\netcoreapp3.1\01ChangeBureau.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01ChangeBureau\obj\Debug\netcoreapp3.1\01ChangeBureau.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01ChangeBureau\obj\Debug\netcoreapp3.1\01ChangeBureau.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01ChangeBureau\obj\Debug\netcoreapp3.1\01ChangeBureau.genruntimeconfig.cache

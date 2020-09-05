@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\03OddEvenPosition\bin\Debug\netcoreapp3.1\03OddEvenPosition.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\03OddEvenPosition\bin\Debug\netcoreapp3.1\03OddEvenPosition.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\03OddEvenPosition\bin\Debug\netcoreapp3.1\03OddEvenPosition.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\03OddEvenPosition\bin\Debug\netcoreapp3.1\03OddEvenPosition.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\03OddEvenPosition\bin\Debug\netcoreapp3.1\03OddEvenPosition.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\03OddEvenPosition\bin\Debug\netcoreapp3.1\03OddEvenPosition.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\03OddEvenPosition\obj\Debug\netcoreapp3.1\03OddEvenPosition.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\03OddEvenPosition\obj\Debug\netcoreapp3.1\03OddEvenPosition.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\03OddEvenPosition\obj\Debug\netcoreapp3.1\03OddEvenPosition.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\03OddEvenPosition\obj\Debug\netcoreapp3.1\03OddEvenPosition.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\03OddEvenPosition\obj\Debug\netcoreapp3.1\03OddEvenPosition.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\03OddEvenPosition\obj\Debug\netcoreapp3.1\03OddEvenPosition.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\03OddEvenPosition\obj\Debug\netcoreapp3.1\03OddEvenPosition.genruntimeconfig.cache

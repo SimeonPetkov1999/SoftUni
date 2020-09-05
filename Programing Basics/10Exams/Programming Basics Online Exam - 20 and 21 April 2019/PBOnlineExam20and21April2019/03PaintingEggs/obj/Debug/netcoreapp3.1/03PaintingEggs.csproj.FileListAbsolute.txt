@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03PaintingEggs\bin\Debug\netcoreapp3.1\03PaintingEggs.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03PaintingEggs\bin\Debug\netcoreapp3.1\03PaintingEggs.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03PaintingEggs\bin\Debug\netcoreapp3.1\03PaintingEggs.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03PaintingEggs\bin\Debug\netcoreapp3.1\03PaintingEggs.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03PaintingEggs\bin\Debug\netcoreapp3.1\03PaintingEggs.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03PaintingEggs\bin\Debug\netcoreapp3.1\03PaintingEggs.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03PaintingEggs\obj\Debug\netcoreapp3.1\03PaintingEggs.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03PaintingEggs\obj\Debug\netcoreapp3.1\03PaintingEggs.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03PaintingEggs\obj\Debug\netcoreapp3.1\03PaintingEggs.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03PaintingEggs\obj\Debug\netcoreapp3.1\03PaintingEggs.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03PaintingEggs\obj\Debug\netcoreapp3.1\03PaintingEggs.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03PaintingEggs\obj\Debug\netcoreapp3.1\03PaintingEggs.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03PaintingEggs\obj\Debug\netcoreapp3.1\03PaintingEggs.genruntimeconfig.cache

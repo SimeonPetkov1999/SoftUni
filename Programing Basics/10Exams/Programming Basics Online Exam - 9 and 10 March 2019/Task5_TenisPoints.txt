@@ -1,0 +1,42 @@
+import java.util.Scanner;
+
+public class Task5_TenisPoints {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        int tournaments = Integer.parseInt(scanner.nextLine());
+        int startPoints = Integer.parseInt(scanner.nextLine());
+
+        int countW = 0;
+        int countF = 0;
+        int countSF = 0;
+
+        int received = 0;
+
+        for (int i = 0; i < tournaments ; i++) {
+            String type = scanner.nextLine();
+
+            if(type.equals("W")){
+                startPoints += 2000;
+                received += 2000;
+                countW++;
+            }else if(type.equals("F")){
+                startPoints += 1200;
+                received += 1200;
+                countF++;
+            }else if(type.equals("SF")){
+                startPoints += 720;
+                received += 720;
+                countSF++;
+            }
+
+        }
+
+        //общо точки
+        System.out.println("Final points: " + startPoints);
+        //средно точки от турнир
+        System.out.printf("Average points: %.0f%n",Math.floor(received * 1.0 / tournaments));
+        //процент финали
+        System.out.printf("%.2f%%",countW * 1.0 / tournaments * 100);
+    }
+}

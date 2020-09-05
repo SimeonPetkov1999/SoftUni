@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\01BasketballEquipment\bin\Debug\netcoreapp3.1\01BasketballEquipment.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\01BasketballEquipment\bin\Debug\netcoreapp3.1\01BasketballEquipment.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\01BasketballEquipment\bin\Debug\netcoreapp3.1\01BasketballEquipment.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\01BasketballEquipment\bin\Debug\netcoreapp3.1\01BasketballEquipment.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\01BasketballEquipment\bin\Debug\netcoreapp3.1\01BasketballEquipment.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\01BasketballEquipment\bin\Debug\netcoreapp3.1\01BasketballEquipment.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\01BasketballEquipment\obj\Debug\netcoreapp3.1\01BasketballEquipment.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\01BasketballEquipment\obj\Debug\netcoreapp3.1\01BasketballEquipment.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\01BasketballEquipment\obj\Debug\netcoreapp3.1\01BasketballEquipment.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\01BasketballEquipment\obj\Debug\netcoreapp3.1\01BasketballEquipment.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\01BasketballEquipment\obj\Debug\netcoreapp3.1\01BasketballEquipment.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\01BasketballEquipment\obj\Debug\netcoreapp3.1\01BasketballEquipment.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\01BasketballEquipment\obj\Debug\netcoreapp3.1\01BasketballEquipment.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\04Grades\bin\Debug\netcoreapp3.1\04Grades.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\04Grades\bin\Debug\netcoreapp3.1\04Grades.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\04Grades\bin\Debug\netcoreapp3.1\04Grades.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\04Grades\bin\Debug\netcoreapp3.1\04Grades.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\04Grades\bin\Debug\netcoreapp3.1\04Grades.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\04Grades\bin\Debug\netcoreapp3.1\04Grades.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\04Grades\obj\Debug\netcoreapp3.1\04Grades.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\04Grades\obj\Debug\netcoreapp3.1\04Grades.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\04Grades\obj\Debug\netcoreapp3.1\04Grades.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\04Grades\obj\Debug\netcoreapp3.1\04Grades.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\04Grades\obj\Debug\netcoreapp3.1\04Grades.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\04Grades\obj\Debug\netcoreapp3.1\04Grades.genruntimeconfig.cache

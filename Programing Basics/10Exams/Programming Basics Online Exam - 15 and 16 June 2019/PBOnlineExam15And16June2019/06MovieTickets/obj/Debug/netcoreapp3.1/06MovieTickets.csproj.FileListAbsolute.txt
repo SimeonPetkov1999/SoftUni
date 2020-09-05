@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06MovieTickets\bin\Debug\netcoreapp3.1\06MovieTickets.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06MovieTickets\bin\Debug\netcoreapp3.1\06MovieTickets.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06MovieTickets\bin\Debug\netcoreapp3.1\06MovieTickets.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06MovieTickets\bin\Debug\netcoreapp3.1\06MovieTickets.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06MovieTickets\bin\Debug\netcoreapp3.1\06MovieTickets.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06MovieTickets\bin\Debug\netcoreapp3.1\06MovieTickets.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06MovieTickets\obj\Debug\netcoreapp3.1\06MovieTickets.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06MovieTickets\obj\Debug\netcoreapp3.1\06MovieTickets.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06MovieTickets\obj\Debug\netcoreapp3.1\06MovieTickets.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06MovieTickets\obj\Debug\netcoreapp3.1\06MovieTickets.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06MovieTickets\obj\Debug\netcoreapp3.1\06MovieTickets.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06MovieTickets\obj\Debug\netcoreapp3.1\06MovieTickets.genruntimeconfig.cache

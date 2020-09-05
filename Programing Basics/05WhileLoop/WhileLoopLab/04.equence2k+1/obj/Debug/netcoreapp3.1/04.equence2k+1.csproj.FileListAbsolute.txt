@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\04.equence2k+1\bin\Debug\netcoreapp3.1\04.equence2k+1.exe
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\04.equence2k+1\bin\Debug\netcoreapp3.1\04.equence2k+1.deps.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\04.equence2k+1\bin\Debug\netcoreapp3.1\04.equence2k+1.runtimeconfig.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\04.equence2k+1\bin\Debug\netcoreapp3.1\04.equence2k+1.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\04.equence2k+1\bin\Debug\netcoreapp3.1\04.equence2k+1.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\04.equence2k+1\bin\Debug\netcoreapp3.1\04.equence2k+1.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\04.equence2k+1\obj\Debug\netcoreapp3.1\04.equence2k+1.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\04.equence2k+1\obj\Debug\netcoreapp3.1\04.equence2k+1.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\04.equence2k+1\obj\Debug\netcoreapp3.1\04.equence2k+1.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\04.equence2k+1\obj\Debug\netcoreapp3.1\04.equence2k+1.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\04.equence2k+1\obj\Debug\netcoreapp3.1\04.equence2k+1.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\04.equence2k+1\obj\Debug\netcoreapp3.1\04.equence2k+1.genruntimeconfig.cache

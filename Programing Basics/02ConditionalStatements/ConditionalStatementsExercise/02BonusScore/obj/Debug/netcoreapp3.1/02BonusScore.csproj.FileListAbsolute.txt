@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\02BonusScore\bin\Debug\netcoreapp3.1\02BonusScore.exe
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\02BonusScore\bin\Debug\netcoreapp3.1\02BonusScore.deps.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\02BonusScore\bin\Debug\netcoreapp3.1\02BonusScore.runtimeconfig.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\02BonusScore\bin\Debug\netcoreapp3.1\02BonusScore.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\02BonusScore\bin\Debug\netcoreapp3.1\02BonusScore.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\02BonusScore\bin\Debug\netcoreapp3.1\02BonusScore.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.genruntimeconfig.cache

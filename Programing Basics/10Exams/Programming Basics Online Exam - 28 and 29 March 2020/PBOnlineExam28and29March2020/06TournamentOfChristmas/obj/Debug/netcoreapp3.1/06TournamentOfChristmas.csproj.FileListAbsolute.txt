@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\06TournamentOfChristmas\bin\Debug\netcoreapp3.1\06TournamentOfChristmas.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\06TournamentOfChristmas\bin\Debug\netcoreapp3.1\06TournamentOfChristmas.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\06TournamentOfChristmas\bin\Debug\netcoreapp3.1\06TournamentOfChristmas.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\06TournamentOfChristmas\bin\Debug\netcoreapp3.1\06TournamentOfChristmas.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\06TournamentOfChristmas\bin\Debug\netcoreapp3.1\06TournamentOfChristmas.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\06TournamentOfChristmas\bin\Debug\netcoreapp3.1\06TournamentOfChristmas.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\06TournamentOfChristmas\obj\Debug\netcoreapp3.1\06TournamentOfChristmas.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\06TournamentOfChristmas\obj\Debug\netcoreapp3.1\06TournamentOfChristmas.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\06TournamentOfChristmas\obj\Debug\netcoreapp3.1\06TournamentOfChristmas.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\06TournamentOfChristmas\obj\Debug\netcoreapp3.1\06TournamentOfChristmas.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\06TournamentOfChristmas\obj\Debug\netcoreapp3.1\06TournamentOfChristmas.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\06TournamentOfChristmas\obj\Debug\netcoreapp3.1\06TournamentOfChristmas.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\06TournamentOfChristmas\obj\Debug\netcoreapp3.1\06TournamentOfChristmas.genruntimeconfig.cache

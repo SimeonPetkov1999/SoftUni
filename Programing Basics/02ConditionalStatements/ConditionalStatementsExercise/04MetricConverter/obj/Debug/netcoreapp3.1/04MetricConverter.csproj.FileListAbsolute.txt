@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\04MetricConverter\bin\Debug\netcoreapp3.1\04MetricConverter.exe
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\04MetricConverter\bin\Debug\netcoreapp3.1\04MetricConverter.deps.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\04MetricConverter\bin\Debug\netcoreapp3.1\04MetricConverter.runtimeconfig.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\04MetricConverter\bin\Debug\netcoreapp3.1\04MetricConverter.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\04MetricConverter\bin\Debug\netcoreapp3.1\04MetricConverter.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\04MetricConverter\bin\Debug\netcoreapp3.1\04MetricConverter.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.genruntimeconfig.cache

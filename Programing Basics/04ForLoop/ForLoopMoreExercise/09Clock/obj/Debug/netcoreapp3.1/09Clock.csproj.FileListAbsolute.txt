@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\09Clock\bin\Debug\netcoreapp3.1\09Clock.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\09Clock\bin\Debug\netcoreapp3.1\09Clock.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\09Clock\bin\Debug\netcoreapp3.1\09Clock.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\09Clock\bin\Debug\netcoreapp3.1\09Clock.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\09Clock\bin\Debug\netcoreapp3.1\09Clock.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\09Clock\bin\Debug\netcoreapp3.1\09Clock.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\09Clock\obj\Debug\netcoreapp3.1\09Clock.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\09Clock\obj\Debug\netcoreapp3.1\09Clock.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\09Clock\obj\Debug\netcoreapp3.1\09Clock.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\09Clock\obj\Debug\netcoreapp3.1\09Clock.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\09Clock\obj\Debug\netcoreapp3.1\09Clock.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\09Clock\obj\Debug\netcoreapp3.1\09Clock.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\05TennisRanklist\bin\Debug\netcoreapp3.1\05TennisRanklist.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\05TennisRanklist\bin\Debug\netcoreapp3.1\05TennisRanklist.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\05TennisRanklist\bin\Debug\netcoreapp3.1\05TennisRanklist.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\05TennisRanklist\bin\Debug\netcoreapp3.1\05TennisRanklist.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\05TennisRanklist\bin\Debug\netcoreapp3.1\05TennisRanklist.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\05TennisRanklist\bin\Debug\netcoreapp3.1\05TennisRanklist.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\05TennisRanklist\obj\Debug\netcoreapp3.1\05TennisRanklist.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\05TennisRanklist\obj\Debug\netcoreapp3.1\05TennisRanklist.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\05TennisRanklist\obj\Debug\netcoreapp3.1\05TennisRanklist.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\05TennisRanklist\obj\Debug\netcoreapp3.1\05TennisRanklist.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\05TennisRanklist\obj\Debug\netcoreapp3.1\05TennisRanklist.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineExam9and10March2019\05TennisRanklist\obj\Debug\netcoreapp3.1\05TennisRanklist.genruntimeconfig.cache

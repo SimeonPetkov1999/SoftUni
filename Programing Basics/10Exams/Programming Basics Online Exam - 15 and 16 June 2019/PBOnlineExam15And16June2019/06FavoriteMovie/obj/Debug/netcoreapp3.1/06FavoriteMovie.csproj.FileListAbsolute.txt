@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06FavoriteMovie\bin\Debug\netcoreapp3.1\06FavoriteMovie.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06FavoriteMovie\bin\Debug\netcoreapp3.1\06FavoriteMovie.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06FavoriteMovie\bin\Debug\netcoreapp3.1\06FavoriteMovie.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06FavoriteMovie\bin\Debug\netcoreapp3.1\06FavoriteMovie.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06FavoriteMovie\bin\Debug\netcoreapp3.1\06FavoriteMovie.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06FavoriteMovie\bin\Debug\netcoreapp3.1\06FavoriteMovie.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06FavoriteMovie\obj\Debug\netcoreapp3.1\06FavoriteMovie.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06FavoriteMovie\obj\Debug\netcoreapp3.1\06FavoriteMovie.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06FavoriteMovie\obj\Debug\netcoreapp3.1\06FavoriteMovie.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06FavoriteMovie\obj\Debug\netcoreapp3.1\06FavoriteMovie.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06FavoriteMovie\obj\Debug\netcoreapp3.1\06FavoriteMovie.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\06FavoriteMovie\obj\Debug\netcoreapp3.1\06FavoriteMovie.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\03FitnessCard\bin\Debug\netcoreapp3.1\03FitnessCard.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\03FitnessCard\bin\Debug\netcoreapp3.1\03FitnessCard.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\03FitnessCard\bin\Debug\netcoreapp3.1\03FitnessCard.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\03FitnessCard\bin\Debug\netcoreapp3.1\03FitnessCard.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\03FitnessCard\bin\Debug\netcoreapp3.1\03FitnessCard.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\03FitnessCard\bin\Debug\netcoreapp3.1\03FitnessCard.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\03FitnessCard\obj\Debug\netcoreapp3.1\03FitnessCard.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\03FitnessCard\obj\Debug\netcoreapp3.1\03FitnessCard.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\03FitnessCard\obj\Debug\netcoreapp3.1\03FitnessCard.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\03FitnessCard\obj\Debug\netcoreapp3.1\03FitnessCard.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\03FitnessCard\obj\Debug\netcoreapp3.1\03FitnessCard.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\03FitnessCard\obj\Debug\netcoreapp3.1\03FitnessCard.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\03LuckyNumbers\bin\Debug\netcoreapp3.1\03LuckyNumbers.exe
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\03LuckyNumbers\bin\Debug\netcoreapp3.1\03LuckyNumbers.deps.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\03LuckyNumbers\bin\Debug\netcoreapp3.1\03LuckyNumbers.runtimeconfig.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\03LuckyNumbers\bin\Debug\netcoreapp3.1\03LuckyNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\03LuckyNumbers\bin\Debug\netcoreapp3.1\03LuckyNumbers.dll
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\03LuckyNumbers\bin\Debug\netcoreapp3.1\03LuckyNumbers.pdb
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\03LuckyNumbers\obj\Debug\netcoreapp3.1\03LuckyNumbers.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\03LuckyNumbers\obj\Debug\netcoreapp3.1\03LuckyNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\03LuckyNumbers\obj\Debug\netcoreapp3.1\03LuckyNumbers.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\03LuckyNumbers\obj\Debug\netcoreapp3.1\03LuckyNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\03LuckyNumbers\obj\Debug\netcoreapp3.1\03LuckyNumbers.dll
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\03LuckyNumbers\obj\Debug\netcoreapp3.1\03LuckyNumbers.pdb
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\03LuckyNumbers\obj\Debug\netcoreapp3.1\03LuckyNumbers.genruntimeconfig.cache

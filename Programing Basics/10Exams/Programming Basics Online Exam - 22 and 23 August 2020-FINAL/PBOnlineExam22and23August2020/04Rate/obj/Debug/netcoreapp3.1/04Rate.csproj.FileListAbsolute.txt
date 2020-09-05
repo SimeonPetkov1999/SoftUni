@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\04Rate\bin\Debug\netcoreapp3.1\04Rate.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\04Rate\bin\Debug\netcoreapp3.1\04Rate.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\04Rate\bin\Debug\netcoreapp3.1\04Rate.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\04Rate\bin\Debug\netcoreapp3.1\04Rate.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\04Rate\bin\Debug\netcoreapp3.1\04Rate.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\04Rate\bin\Debug\netcoreapp3.1\04Rate.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\04Rate\obj\Debug\netcoreapp3.1\04Rate.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\04Rate\obj\Debug\netcoreapp3.1\04Rate.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\04Rate\obj\Debug\netcoreapp3.1\04Rate.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\04Rate\obj\Debug\netcoreapp3.1\04Rate.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\04Rate\obj\Debug\netcoreapp3.1\04Rate.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\04Rate\obj\Debug\netcoreapp3.1\04Rate.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 22 and 23 August 2020-FINAL\PBOnlineExam22and23August2020\04Rate\obj\Debug\netcoreapp3.1\04Rate.genruntimeconfig.cache

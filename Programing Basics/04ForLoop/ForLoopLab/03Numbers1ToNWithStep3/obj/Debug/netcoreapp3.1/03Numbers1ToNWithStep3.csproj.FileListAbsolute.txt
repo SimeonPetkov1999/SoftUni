@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\03Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03Numbers1ToNWithStep3.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\03Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03Numbers1ToNWithStep3.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\03Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03Numbers1ToNWithStep3.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\03Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03Numbers1ToNWithStep3.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\03Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03Numbers1ToNWithStep3.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\03Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\03Numbers1ToNWithStep3.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\03Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03Numbers1ToNWithStep3.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\03Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03Numbers1ToNWithStep3.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\03Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03Numbers1ToNWithStep3.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\03Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03Numbers1ToNWithStep3.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\03Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03Numbers1ToNWithStep3.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\03Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03Numbers1ToNWithStep3.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopLab\03Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\03Numbers1ToNWithStep3.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\04TouristShop\bin\Debug\netcoreapp3.1\04TouristShop.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\04TouristShop\bin\Debug\netcoreapp3.1\04TouristShop.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\04TouristShop\bin\Debug\netcoreapp3.1\04TouristShop.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\04TouristShop\bin\Debug\netcoreapp3.1\04TouristShop.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\04TouristShop\bin\Debug\netcoreapp3.1\04TouristShop.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\04TouristShop\bin\Debug\netcoreapp3.1\04TouristShop.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\04TouristShop\obj\Debug\netcoreapp3.1\04TouristShop.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\04TouristShop\obj\Debug\netcoreapp3.1\04TouristShop.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\04TouristShop\obj\Debug\netcoreapp3.1\04TouristShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\04TouristShop\obj\Debug\netcoreapp3.1\04TouristShop.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\04TouristShop\obj\Debug\netcoreapp3.1\04TouristShop.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\04TouristShop\obj\Debug\netcoreapp3.1\04TouristShop.genruntimeconfig.cache

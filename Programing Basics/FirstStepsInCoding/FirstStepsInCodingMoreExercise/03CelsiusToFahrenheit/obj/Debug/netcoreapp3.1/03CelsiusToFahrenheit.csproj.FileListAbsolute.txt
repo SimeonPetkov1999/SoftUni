@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\03CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\03CelsiusToFahrenheit.exe
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\03CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\03CelsiusToFahrenheit.deps.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\03CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\03CelsiusToFahrenheit.runtimeconfig.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\03CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\03CelsiusToFahrenheit.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\03CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\03CelsiusToFahrenheit.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\03CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\03CelsiusToFahrenheit.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\03CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03CelsiusToFahrenheit.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\03CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03CelsiusToFahrenheit.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\03CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03CelsiusToFahrenheit.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\03CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\03CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03CelsiusToFahrenheit.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\03CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03CelsiusToFahrenheit.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingMoreExercise\03CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03CelsiusToFahrenheit.genruntimeconfig.cache

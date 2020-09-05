@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\01TennisEquipment\bin\Debug\netcoreapp3.1\01TennisEquipment.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\01TennisEquipment\bin\Debug\netcoreapp3.1\01TennisEquipment.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\01TennisEquipment\bin\Debug\netcoreapp3.1\01TennisEquipment.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\01TennisEquipment\bin\Debug\netcoreapp3.1\01TennisEquipment.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\01TennisEquipment\bin\Debug\netcoreapp3.1\01TennisEquipment.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\01TennisEquipment\bin\Debug\netcoreapp3.1\01TennisEquipment.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\01TennisEquipment\obj\Debug\netcoreapp3.1\01TennisEquipment.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\01TennisEquipment\obj\Debug\netcoreapp3.1\01TennisEquipment.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\01TennisEquipment\obj\Debug\netcoreapp3.1\01TennisEquipment.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\01TennisEquipment\obj\Debug\netcoreapp3.1\01TennisEquipment.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\01TennisEquipment\obj\Debug\netcoreapp3.1\01TennisEquipment.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\01TennisEquipment\obj\Debug\netcoreapp3.1\01TennisEquipment.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 9 and 10 March 2019\PBOnlineExam9and10March2019\01TennisEquipment\obj\Debug\netcoreapp3.1\01TennisEquipment.genruntimeconfig.cache

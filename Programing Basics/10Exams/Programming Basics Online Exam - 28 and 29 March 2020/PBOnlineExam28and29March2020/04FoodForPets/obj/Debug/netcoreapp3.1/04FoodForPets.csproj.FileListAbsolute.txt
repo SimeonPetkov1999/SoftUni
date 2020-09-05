@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04FoodForPets\bin\Debug\netcoreapp3.1\04FoodForPets.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04FoodForPets\bin\Debug\netcoreapp3.1\04FoodForPets.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04FoodForPets\bin\Debug\netcoreapp3.1\04FoodForPets.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04FoodForPets\bin\Debug\netcoreapp3.1\04FoodForPets.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04FoodForPets\bin\Debug\netcoreapp3.1\04FoodForPets.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04FoodForPets\bin\Debug\netcoreapp3.1\04FoodForPets.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04FoodForPets\obj\Debug\netcoreapp3.1\04FoodForPets.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04FoodForPets\obj\Debug\netcoreapp3.1\04FoodForPets.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04FoodForPets\obj\Debug\netcoreapp3.1\04FoodForPets.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04FoodForPets\obj\Debug\netcoreapp3.1\04FoodForPets.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04FoodForPets\obj\Debug\netcoreapp3.1\04FoodForPets.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\04FoodForPets\obj\Debug\netcoreapp3.1\04FoodForPets.genruntimeconfig.cache

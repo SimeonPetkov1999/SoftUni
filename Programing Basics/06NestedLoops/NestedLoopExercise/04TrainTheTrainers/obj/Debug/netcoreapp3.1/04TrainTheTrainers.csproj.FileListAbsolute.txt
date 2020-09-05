@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\04TrainTheTrainers\bin\Debug\netcoreapp3.1\04TrainTheTrainers.exe
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\04TrainTheTrainers\bin\Debug\netcoreapp3.1\04TrainTheTrainers.deps.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\04TrainTheTrainers\bin\Debug\netcoreapp3.1\04TrainTheTrainers.runtimeconfig.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\04TrainTheTrainers\bin\Debug\netcoreapp3.1\04TrainTheTrainers.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\04TrainTheTrainers\bin\Debug\netcoreapp3.1\04TrainTheTrainers.dll
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\04TrainTheTrainers\bin\Debug\netcoreapp3.1\04TrainTheTrainers.pdb
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\04TrainTheTrainers\obj\Debug\netcoreapp3.1\04TrainTheTrainers.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\04TrainTheTrainers\obj\Debug\netcoreapp3.1\04TrainTheTrainers.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\04TrainTheTrainers\obj\Debug\netcoreapp3.1\04TrainTheTrainers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\04TrainTheTrainers\obj\Debug\netcoreapp3.1\04TrainTheTrainers.dll
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\04TrainTheTrainers\obj\Debug\netcoreapp3.1\04TrainTheTrainers.pdb
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\04TrainTheTrainers\obj\Debug\netcoreapp3.1\04TrainTheTrainers.genruntimeconfig.cache

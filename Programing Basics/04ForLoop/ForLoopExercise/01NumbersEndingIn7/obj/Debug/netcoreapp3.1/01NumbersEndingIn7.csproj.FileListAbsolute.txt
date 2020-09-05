@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\01NumbersEndingIn7\bin\Debug\netcoreapp3.1\01NumbersEndingIn7.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\01NumbersEndingIn7\bin\Debug\netcoreapp3.1\01NumbersEndingIn7.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\01NumbersEndingIn7\bin\Debug\netcoreapp3.1\01NumbersEndingIn7.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\01NumbersEndingIn7\bin\Debug\netcoreapp3.1\01NumbersEndingIn7.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\01NumbersEndingIn7\bin\Debug\netcoreapp3.1\01NumbersEndingIn7.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\01NumbersEndingIn7\bin\Debug\netcoreapp3.1\01NumbersEndingIn7.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\01NumbersEndingIn7\obj\Debug\netcoreapp3.1\01NumbersEndingIn7.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\01NumbersEndingIn7\obj\Debug\netcoreapp3.1\01NumbersEndingIn7.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\01NumbersEndingIn7\obj\Debug\netcoreapp3.1\01NumbersEndingIn7.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\01NumbersEndingIn7\obj\Debug\netcoreapp3.1\01NumbersEndingIn7.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\01NumbersEndingIn7\obj\Debug\netcoreapp3.1\01NumbersEndingIn7.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\01NumbersEndingIn7\obj\Debug\netcoreapp3.1\01NumbersEndingIn7.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopExercise\01NumbersEndingIn7\obj\Debug\netcoreapp3.1\01NumbersEndingIn7.genruntimeconfig.cache

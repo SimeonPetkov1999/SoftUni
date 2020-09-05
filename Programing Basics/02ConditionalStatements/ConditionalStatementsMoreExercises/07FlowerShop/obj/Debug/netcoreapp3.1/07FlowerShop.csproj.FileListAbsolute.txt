@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\07FlowerShop\bin\Debug\netcoreapp3.1\07FlowerShop.exe
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\07FlowerShop\bin\Debug\netcoreapp3.1\07FlowerShop.deps.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\07FlowerShop\bin\Debug\netcoreapp3.1\07FlowerShop.runtimeconfig.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\07FlowerShop\bin\Debug\netcoreapp3.1\07FlowerShop.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\07FlowerShop\bin\Debug\netcoreapp3.1\07FlowerShop.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\07FlowerShop\bin\Debug\netcoreapp3.1\07FlowerShop.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\07FlowerShop\obj\Debug\netcoreapp3.1\07FlowerShop.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\07FlowerShop\obj\Debug\netcoreapp3.1\07FlowerShop.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\07FlowerShop\obj\Debug\netcoreapp3.1\07FlowerShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\07FlowerShop\obj\Debug\netcoreapp3.1\07FlowerShop.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\07FlowerShop\obj\Debug\netcoreapp3.1\07FlowerShop.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\07FlowerShop\obj\Debug\netcoreapp3.1\07FlowerShop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01SuppliesForSchool\bin\Debug\netcoreapp3.1\01SuppliesForSchool.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01SuppliesForSchool\bin\Debug\netcoreapp3.1\01SuppliesForSchool.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01SuppliesForSchool\bin\Debug\netcoreapp3.1\01SuppliesForSchool.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01SuppliesForSchool\bin\Debug\netcoreapp3.1\01SuppliesForSchool.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01SuppliesForSchool\bin\Debug\netcoreapp3.1\01SuppliesForSchool.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01SuppliesForSchool\bin\Debug\netcoreapp3.1\01SuppliesForSchool.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01SuppliesForSchool\obj\Debug\netcoreapp3.1\01SuppliesForSchool.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01SuppliesForSchool\obj\Debug\netcoreapp3.1\01SuppliesForSchool.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01SuppliesForSchool\obj\Debug\netcoreapp3.1\01SuppliesForSchool.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01SuppliesForSchool\obj\Debug\netcoreapp3.1\01SuppliesForSchool.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01SuppliesForSchool\obj\Debug\netcoreapp3.1\01SuppliesForSchool.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01SuppliesForSchool\obj\Debug\netcoreapp3.1\01SuppliesForSchool.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 28 and 29 March 2020\PBOnlineExam28and29March2020\01SuppliesForSchool\obj\Debug\netcoreapp3.1\01SuppliesForSchool.genruntimeconfig.cache

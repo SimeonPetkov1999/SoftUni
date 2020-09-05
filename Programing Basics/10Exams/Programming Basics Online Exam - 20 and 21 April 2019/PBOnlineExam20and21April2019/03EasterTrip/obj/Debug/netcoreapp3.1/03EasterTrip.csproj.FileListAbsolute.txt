@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03EasterTrip\bin\Debug\netcoreapp3.1\03EasterTrip.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03EasterTrip\bin\Debug\netcoreapp3.1\03EasterTrip.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03EasterTrip\bin\Debug\netcoreapp3.1\03EasterTrip.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03EasterTrip\bin\Debug\netcoreapp3.1\03EasterTrip.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03EasterTrip\bin\Debug\netcoreapp3.1\03EasterTrip.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03EasterTrip\bin\Debug\netcoreapp3.1\03EasterTrip.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03EasterTrip\obj\Debug\netcoreapp3.1\03EasterTrip.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03EasterTrip\obj\Debug\netcoreapp3.1\03EasterTrip.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03EasterTrip\obj\Debug\netcoreapp3.1\03EasterTrip.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03EasterTrip\obj\Debug\netcoreapp3.1\03EasterTrip.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03EasterTrip\obj\Debug\netcoreapp3.1\03EasterTrip.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03EasterTrip\obj\Debug\netcoreapp3.1\03EasterTrip.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 20 and 21 April 2019\PBOnlineExam20and21April2019\03EasterTrip\obj\Debug\netcoreapp3.1\03EasterTrip.genruntimeconfig.cache

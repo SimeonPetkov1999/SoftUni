@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\06VetParking\bin\Debug\netcoreapp3.1\06VetParking.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\06VetParking\bin\Debug\netcoreapp3.1\06VetParking.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\06VetParking\bin\Debug\netcoreapp3.1\06VetParking.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\06VetParking\bin\Debug\netcoreapp3.1\06VetParking.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\06VetParking\bin\Debug\netcoreapp3.1\06VetParking.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\06VetParking\bin\Debug\netcoreapp3.1\06VetParking.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\06VetParking\obj\Debug\netcoreapp3.1\06VetParking.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\06VetParking\obj\Debug\netcoreapp3.1\06VetParking.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\06VetParking\obj\Debug\netcoreapp3.1\06VetParking.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\06VetParking\obj\Debug\netcoreapp3.1\06VetParking.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\06VetParking\obj\Debug\netcoreapp3.1\06VetParking.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\06VetParking\obj\Debug\netcoreapp3.1\06VetParking.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Retake Exam - 2 and 3 May 2019\PBOnlineRetakeExam2And3May2019\06VetParking\obj\Debug\netcoreapp3.1\06VetParking.genruntimeconfig.cache

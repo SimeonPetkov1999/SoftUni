@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\02ReportSystem\bin\Debug\netcoreapp3.1\02ReportSystem.exe
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\02ReportSystem\bin\Debug\netcoreapp3.1\02ReportSystem.deps.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\02ReportSystem\bin\Debug\netcoreapp3.1\02ReportSystem.runtimeconfig.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\02ReportSystem\bin\Debug\netcoreapp3.1\02ReportSystem.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\02ReportSystem\bin\Debug\netcoreapp3.1\02ReportSystem.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\02ReportSystem\bin\Debug\netcoreapp3.1\02ReportSystem.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\02ReportSystem\obj\Debug\netcoreapp3.1\02ReportSystem.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\02ReportSystem\obj\Debug\netcoreapp3.1\02ReportSystem.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\02ReportSystem\obj\Debug\netcoreapp3.1\02ReportSystem.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\02ReportSystem\obj\Debug\netcoreapp3.1\02ReportSystem.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\02ReportSystem\obj\Debug\netcoreapp3.1\02ReportSystem.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\02ReportSystem\obj\Debug\netcoreapp3.1\02ReportSystem.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopMoreExercise\02ReportSystem\obj\Debug\netcoreapp3.1\02ReportSystem.genruntimeconfig.cache

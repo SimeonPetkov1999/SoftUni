@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\03SumNumbers\bin\Debug\netcoreapp3.1\03SumNumbers.exe
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\03SumNumbers\bin\Debug\netcoreapp3.1\03SumNumbers.deps.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\03SumNumbers\bin\Debug\netcoreapp3.1\03SumNumbers.runtimeconfig.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\03SumNumbers\bin\Debug\netcoreapp3.1\03SumNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\03SumNumbers\bin\Debug\netcoreapp3.1\03SumNumbers.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\03SumNumbers\bin\Debug\netcoreapp3.1\03SumNumbers.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\03SumNumbers\obj\Debug\netcoreapp3.1\03SumNumbers.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\03SumNumbers\obj\Debug\netcoreapp3.1\03SumNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\03SumNumbers\obj\Debug\netcoreapp3.1\03SumNumbers.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\03SumNumbers\obj\Debug\netcoreapp3.1\03SumNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\03SumNumbers\obj\Debug\netcoreapp3.1\03SumNumbers.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\03SumNumbers\obj\Debug\netcoreapp3.1\03SumNumbers.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\03SumNumbers\obj\Debug\netcoreapp3.1\03SumNumbers.genruntimeconfig.cache

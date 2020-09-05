@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\03Combinations\bin\Debug\netcoreapp3.1\03Combinations.exe
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\03Combinations\bin\Debug\netcoreapp3.1\03Combinations.deps.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\03Combinations\bin\Debug\netcoreapp3.1\03Combinations.runtimeconfig.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\03Combinations\bin\Debug\netcoreapp3.1\03Combinations.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\03Combinations\bin\Debug\netcoreapp3.1\03Combinations.dll
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\03Combinations\bin\Debug\netcoreapp3.1\03Combinations.pdb
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\03Combinations\obj\Debug\netcoreapp3.1\03Combinations.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\03Combinations\obj\Debug\netcoreapp3.1\03Combinations.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\03Combinations\obj\Debug\netcoreapp3.1\03Combinations.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\03Combinations\obj\Debug\netcoreapp3.1\03Combinations.dll
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\03Combinations\obj\Debug\netcoreapp3.1\03Combinations.pdb
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsLab\03Combinations\obj\Debug\netcoreapp3.1\03Combinations.genruntimeconfig.cache

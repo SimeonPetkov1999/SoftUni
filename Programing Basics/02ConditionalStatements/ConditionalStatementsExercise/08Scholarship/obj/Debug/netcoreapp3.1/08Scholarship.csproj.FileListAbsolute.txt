@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\08Scholarship\bin\Debug\netcoreapp3.1\08Scholarship.exe
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\08Scholarship\bin\Debug\netcoreapp3.1\08Scholarship.deps.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\08Scholarship\bin\Debug\netcoreapp3.1\08Scholarship.runtimeconfig.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\08Scholarship\bin\Debug\netcoreapp3.1\08Scholarship.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\08Scholarship\bin\Debug\netcoreapp3.1\08Scholarship.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\08Scholarship\bin\Debug\netcoreapp3.1\08Scholarship.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\08Scholarship\obj\Debug\netcoreapp3.1\08Scholarship.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\08Scholarship\obj\Debug\netcoreapp3.1\08Scholarship.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\08Scholarship\obj\Debug\netcoreapp3.1\08Scholarship.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\08Scholarship\obj\Debug\netcoreapp3.1\08Scholarship.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\08Scholarship\obj\Debug\netcoreapp3.1\08Scholarship.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\08Scholarship\obj\Debug\netcoreapp3.1\08Scholarship.genruntimeconfig.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsExercise\08Scholarship\obj\Debug\netcoreapp3.1\08Scholarship.csprojAssemblyReference.cache

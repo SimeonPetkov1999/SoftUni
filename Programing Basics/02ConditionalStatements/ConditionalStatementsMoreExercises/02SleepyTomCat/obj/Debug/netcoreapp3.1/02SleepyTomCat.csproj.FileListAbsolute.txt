@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\02SleepyTomCat\bin\Debug\netcoreapp3.1\02SleepyTomCat.exe
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\02SleepyTomCat\bin\Debug\netcoreapp3.1\02SleepyTomCat.deps.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\02SleepyTomCat\bin\Debug\netcoreapp3.1\02SleepyTomCat.runtimeconfig.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\02SleepyTomCat\bin\Debug\netcoreapp3.1\02SleepyTomCat.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\02SleepyTomCat\bin\Debug\netcoreapp3.1\02SleepyTomCat.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\02SleepyTomCat\bin\Debug\netcoreapp3.1\02SleepyTomCat.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\02SleepyTomCat\obj\Debug\netcoreapp3.1\02SleepyTomCat.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\02SleepyTomCat\obj\Debug\netcoreapp3.1\02SleepyTomCat.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\02SleepyTomCat\obj\Debug\netcoreapp3.1\02SleepyTomCat.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\02SleepyTomCat\obj\Debug\netcoreapp3.1\02SleepyTomCat.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\02SleepyTomCat\obj\Debug\netcoreapp3.1\02SleepyTomCat.dll
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\02SleepyTomCat\obj\Debug\netcoreapp3.1\02SleepyTomCat.pdb
+D:\SoftUni\Programing Basics\02ConditionalStatements\ConditionalStatementsMoreExercises\02SleepyTomCat\obj\Debug\netcoreapp3.1\02SleepyTomCat.genruntimeconfig.cache

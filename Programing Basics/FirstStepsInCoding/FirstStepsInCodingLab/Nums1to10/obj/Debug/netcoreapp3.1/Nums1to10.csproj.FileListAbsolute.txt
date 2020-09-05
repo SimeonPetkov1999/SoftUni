@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\Nums1to10\bin\Debug\netcoreapp3.1\Nums1to10.exe
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\Nums1to10\bin\Debug\netcoreapp3.1\Nums1to10.deps.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\Nums1to10\bin\Debug\netcoreapp3.1\Nums1to10.runtimeconfig.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\Nums1to10\bin\Debug\netcoreapp3.1\Nums1to10.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\Nums1to10\bin\Debug\netcoreapp3.1\Nums1to10.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\Nums1to10\bin\Debug\netcoreapp3.1\Nums1to10.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.dll
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.pdb
+D:\SoftUni\Programing Basics\FirstStepsInCoding\FirstStepsInCodingLab\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.genruntimeconfig.cache

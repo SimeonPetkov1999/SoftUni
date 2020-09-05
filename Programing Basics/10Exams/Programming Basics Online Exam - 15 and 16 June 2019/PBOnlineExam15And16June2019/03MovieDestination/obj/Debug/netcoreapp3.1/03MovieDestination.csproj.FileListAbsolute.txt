@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\03MovieDestination\bin\Debug\netcoreapp3.1\03MovieDestination.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\03MovieDestination\bin\Debug\netcoreapp3.1\03MovieDestination.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\03MovieDestination\bin\Debug\netcoreapp3.1\03MovieDestination.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\03MovieDestination\bin\Debug\netcoreapp3.1\03MovieDestination.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\03MovieDestination\bin\Debug\netcoreapp3.1\03MovieDestination.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\03MovieDestination\bin\Debug\netcoreapp3.1\03MovieDestination.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\03MovieDestination\obj\Debug\netcoreapp3.1\03MovieDestination.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\03MovieDestination\obj\Debug\netcoreapp3.1\03MovieDestination.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\03MovieDestination\obj\Debug\netcoreapp3.1\03MovieDestination.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\03MovieDestination\obj\Debug\netcoreapp3.1\03MovieDestination.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\03MovieDestination\obj\Debug\netcoreapp3.1\03MovieDestination.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\03MovieDestination\obj\Debug\netcoreapp3.1\03MovieDestination.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 15 and 16 June 2019\PBOnlineExam15And16June2019\03MovieDestination\obj\Debug\netcoreapp3.1\03MovieDestination.genruntimeconfig.cache

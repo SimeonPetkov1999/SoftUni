@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\10Profit\bin\Debug\netcoreapp3.1\10Profit.exe
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\10Profit\bin\Debug\netcoreapp3.1\10Profit.deps.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\10Profit\bin\Debug\netcoreapp3.1\10Profit.runtimeconfig.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\10Profit\bin\Debug\netcoreapp3.1\10Profit.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\10Profit\bin\Debug\netcoreapp3.1\10Profit.dll
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\10Profit\bin\Debug\netcoreapp3.1\10Profit.pdb
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\10Profit\obj\Debug\netcoreapp3.1\10Profit.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\10Profit\obj\Debug\netcoreapp3.1\10Profit.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\10Profit\obj\Debug\netcoreapp3.1\10Profit.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\10Profit\obj\Debug\netcoreapp3.1\10Profit.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\10Profit\obj\Debug\netcoreapp3.1\10Profit.dll
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\10Profit\obj\Debug\netcoreapp3.1\10Profit.pdb
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopsMoreExercises\10Profit\obj\Debug\netcoreapp3.1\10Profit.genruntimeconfig.cache

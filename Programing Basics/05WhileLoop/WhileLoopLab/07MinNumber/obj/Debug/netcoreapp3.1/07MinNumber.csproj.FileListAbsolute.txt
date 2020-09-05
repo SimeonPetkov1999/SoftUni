@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\07MinNumber\bin\Debug\netcoreapp3.1\07MinNumber.exe
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\07MinNumber\bin\Debug\netcoreapp3.1\07MinNumber.deps.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\07MinNumber\bin\Debug\netcoreapp3.1\07MinNumber.runtimeconfig.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\07MinNumber\bin\Debug\netcoreapp3.1\07MinNumber.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\07MinNumber\bin\Debug\netcoreapp3.1\07MinNumber.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\07MinNumber\bin\Debug\netcoreapp3.1\07MinNumber.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\07MinNumber\obj\Debug\netcoreapp3.1\07MinNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\07MinNumber\obj\Debug\netcoreapp3.1\07MinNumber.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\07MinNumber\obj\Debug\netcoreapp3.1\07MinNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\07MinNumber\obj\Debug\netcoreapp3.1\07MinNumber.dll
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\07MinNumber\obj\Debug\netcoreapp3.1\07MinNumber.pdb
+D:\SoftUni\Programing Basics\05WhileLoop\WhileLoopLab\07MinNumber\obj\Debug\netcoreapp3.1\07MinNumber.genruntimeconfig.cache

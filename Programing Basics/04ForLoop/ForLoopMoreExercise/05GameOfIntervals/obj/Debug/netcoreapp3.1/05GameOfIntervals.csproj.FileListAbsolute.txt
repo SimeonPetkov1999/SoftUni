@@ -1,0 +1,12 @@
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\05GameOfIntervals\bin\Debug\netcoreapp3.1\05GameOfIntervals.exe
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\05GameOfIntervals\bin\Debug\netcoreapp3.1\05GameOfIntervals.deps.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\05GameOfIntervals\bin\Debug\netcoreapp3.1\05GameOfIntervals.runtimeconfig.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\05GameOfIntervals\bin\Debug\netcoreapp3.1\05GameOfIntervals.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\05GameOfIntervals\bin\Debug\netcoreapp3.1\05GameOfIntervals.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\05GameOfIntervals\bin\Debug\netcoreapp3.1\05GameOfIntervals.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\05GameOfIntervals\obj\Debug\netcoreapp3.1\05GameOfIntervals.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\05GameOfIntervals\obj\Debug\netcoreapp3.1\05GameOfIntervals.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\05GameOfIntervals\obj\Debug\netcoreapp3.1\05GameOfIntervals.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\05GameOfIntervals\obj\Debug\netcoreapp3.1\05GameOfIntervals.dll
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\05GameOfIntervals\obj\Debug\netcoreapp3.1\05GameOfIntervals.pdb
+D:\SoftUni\Programing Basics\04ForLoop\ForLoopMoreExercise\05GameOfIntervals\obj\Debug\netcoreapp3.1\05GameOfIntervals.genruntimeconfig.cache

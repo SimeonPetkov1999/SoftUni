@@ -1,0 +1,23 @@
+﻿using System;
+
+namespace _01MovieProfit
+{
+    class P01_MovieProfit
+    {
+        static void Main(string[] args)
+        {
+            string movieName = Console.ReadLine();
+            int days = int.Parse(Console.ReadLine());
+            int tickets = int.Parse(Console.ReadLine());
+            double ticketPrice = double.Parse(Console.ReadLine());
+            int percent = int.Parse(Console.ReadLine());
+
+            double profitForDay = tickets * ticketPrice; //печалба за 1 ден
+            double totalProfit = profitForDay * days; //печалба за всички дни
+            double profitForCinema = totalProfit * (percent / 100.0); //печалба за киното 
+            double studioProfit = totalProfit - profitForCinema;//печалба за студиото
+
+            Console.WriteLine($"The profit from the movie {movieName} is {studioProfit:F2} lv.");
+        }
+    }
+}

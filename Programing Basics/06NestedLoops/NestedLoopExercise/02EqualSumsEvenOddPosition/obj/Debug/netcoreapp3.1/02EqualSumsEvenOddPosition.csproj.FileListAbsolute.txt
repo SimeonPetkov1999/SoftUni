@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\02EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02EqualSumsEvenOddPosition.exe
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\02EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02EqualSumsEvenOddPosition.deps.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\02EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02EqualSumsEvenOddPosition.runtimeconfig.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\02EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02EqualSumsEvenOddPosition.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\02EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02EqualSumsEvenOddPosition.dll
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\02EqualSumsEvenOddPosition\bin\Debug\netcoreapp3.1\02EqualSumsEvenOddPosition.pdb
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\02EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02EqualSumsEvenOddPosition.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\02EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02EqualSumsEvenOddPosition.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\02EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02EqualSumsEvenOddPosition.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\02EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02EqualSumsEvenOddPosition.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\02EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02EqualSumsEvenOddPosition.dll
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\02EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02EqualSumsEvenOddPosition.pdb
+D:\SoftUni\Programing Basics\06NestedLoops\NestedLoopExercise\02EqualSumsEvenOddPosition\obj\Debug\netcoreapp3.1\02EqualSumsEvenOddPosition.genruntimeconfig.cache

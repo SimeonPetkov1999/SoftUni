@@ -1,0 +1,13 @@
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\02TravelAgency\bin\Debug\netcoreapp3.1\02TravelAgency.exe
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\02TravelAgency\bin\Debug\netcoreapp3.1\02TravelAgency.deps.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\02TravelAgency\bin\Debug\netcoreapp3.1\02TravelAgency.runtimeconfig.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\02TravelAgency\bin\Debug\netcoreapp3.1\02TravelAgency.runtimeconfig.dev.json
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\02TravelAgency\bin\Debug\netcoreapp3.1\02TravelAgency.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\02TravelAgency\bin\Debug\netcoreapp3.1\02TravelAgency.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\02TravelAgency\obj\Debug\netcoreapp3.1\02TravelAgency.csprojAssemblyReference.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\02TravelAgency\obj\Debug\netcoreapp3.1\02TravelAgency.AssemblyInfoInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\02TravelAgency\obj\Debug\netcoreapp3.1\02TravelAgency.AssemblyInfo.cs
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\02TravelAgency\obj\Debug\netcoreapp3.1\02TravelAgency.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\02TravelAgency\obj\Debug\netcoreapp3.1\02TravelAgency.dll
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\02TravelAgency\obj\Debug\netcoreapp3.1\02TravelAgency.pdb
+D:\SoftUni\Programing Basics\10Exams\Programming Basics Online Exam - 29 and 30 August 2020-FINAL\PBOnlineExam29and30August2020\02TravelAgency\obj\Debug\netcoreapp3.1\02TravelAgency.genruntimeconfig.cache
