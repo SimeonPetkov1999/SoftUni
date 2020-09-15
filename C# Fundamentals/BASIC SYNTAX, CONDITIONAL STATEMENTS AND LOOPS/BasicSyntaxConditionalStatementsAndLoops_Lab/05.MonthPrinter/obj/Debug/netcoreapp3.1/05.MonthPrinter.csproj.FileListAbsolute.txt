@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\05.MonthPrinter\bin\Debug\netcoreapp3.1\05.MonthPrinter.exe
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\05.MonthPrinter\bin\Debug\netcoreapp3.1\05.MonthPrinter.deps.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\05.MonthPrinter\bin\Debug\netcoreapp3.1\05.MonthPrinter.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\05.MonthPrinter\bin\Debug\netcoreapp3.1\05.MonthPrinter.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\05.MonthPrinter\bin\Debug\netcoreapp3.1\05.MonthPrinter.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\05.MonthPrinter\bin\Debug\netcoreapp3.1\05.MonthPrinter.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\05.MonthPrinter\obj\Debug\netcoreapp3.1\05.MonthPrinter.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\05.MonthPrinter\obj\Debug\netcoreapp3.1\05.MonthPrinter.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\05.MonthPrinter\obj\Debug\netcoreapp3.1\05.MonthPrinter.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\05.MonthPrinter\obj\Debug\netcoreapp3.1\05.MonthPrinter.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\05.MonthPrinter\obj\Debug\netcoreapp3.1\05.MonthPrinter.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\05.MonthPrinter\obj\Debug\netcoreapp3.1\05.MonthPrinter.genruntimeconfig.cache

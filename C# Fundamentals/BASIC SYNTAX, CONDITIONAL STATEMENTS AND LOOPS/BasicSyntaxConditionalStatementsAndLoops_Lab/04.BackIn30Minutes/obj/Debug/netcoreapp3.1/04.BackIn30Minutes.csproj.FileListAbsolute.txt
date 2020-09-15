@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\04.BackIn30Minutes\bin\Debug\netcoreapp3.1\04.BackIn30Minutes.exe
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\04.BackIn30Minutes\bin\Debug\netcoreapp3.1\04.BackIn30Minutes.deps.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\04.BackIn30Minutes\bin\Debug\netcoreapp3.1\04.BackIn30Minutes.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\04.BackIn30Minutes\bin\Debug\netcoreapp3.1\04.BackIn30Minutes.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\04.BackIn30Minutes\bin\Debug\netcoreapp3.1\04.BackIn30Minutes.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\04.BackIn30Minutes\bin\Debug\netcoreapp3.1\04.BackIn30Minutes.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\04.BackIn30Minutes\obj\Debug\netcoreapp3.1\04.BackIn30Minutes.genruntimeconfig.cache

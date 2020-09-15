@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\06.ForeignLanguages\bin\Debug\netcoreapp3.1\06.ForeignLanguages.exe
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\06.ForeignLanguages\bin\Debug\netcoreapp3.1\06.ForeignLanguages.deps.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\06.ForeignLanguages\bin\Debug\netcoreapp3.1\06.ForeignLanguages.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\06.ForeignLanguages\bin\Debug\netcoreapp3.1\06.ForeignLanguages.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\06.ForeignLanguages\bin\Debug\netcoreapp3.1\06.ForeignLanguages.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\06.ForeignLanguages\bin\Debug\netcoreapp3.1\06.ForeignLanguages.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\06.ForeignLanguages\obj\Debug\netcoreapp3.1\06.ForeignLanguages.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\06.ForeignLanguages\obj\Debug\netcoreapp3.1\06.ForeignLanguages.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\06.ForeignLanguages\obj\Debug\netcoreapp3.1\06.ForeignLanguages.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\06.ForeignLanguages\obj\Debug\netcoreapp3.1\06.ForeignLanguages.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\06.ForeignLanguages\obj\Debug\netcoreapp3.1\06.ForeignLanguages.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\06.ForeignLanguages\obj\Debug\netcoreapp3.1\06.ForeignLanguages.genruntimeconfig.cache
