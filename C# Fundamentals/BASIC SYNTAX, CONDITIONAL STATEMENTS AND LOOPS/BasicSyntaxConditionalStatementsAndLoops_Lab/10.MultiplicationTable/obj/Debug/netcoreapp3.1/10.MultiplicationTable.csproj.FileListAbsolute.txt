@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\10.MultiplicationTable\bin\Debug\netcoreapp3.1\10.MultiplicationTable.exe
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\10.MultiplicationTable\bin\Debug\netcoreapp3.1\10.MultiplicationTable.deps.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\10.MultiplicationTable\bin\Debug\netcoreapp3.1\10.MultiplicationTable.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\10.MultiplicationTable\bin\Debug\netcoreapp3.1\10.MultiplicationTable.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\10.MultiplicationTable\bin\Debug\netcoreapp3.1\10.MultiplicationTable.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\10.MultiplicationTable\bin\Debug\netcoreapp3.1\10.MultiplicationTable.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\10.MultiplicationTable\obj\Debug\netcoreapp3.1\10.MultiplicationTable.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\10.MultiplicationTable\obj\Debug\netcoreapp3.1\10.MultiplicationTable.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\10.MultiplicationTable\obj\Debug\netcoreapp3.1\10.MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\10.MultiplicationTable\obj\Debug\netcoreapp3.1\10.MultiplicationTable.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\10.MultiplicationTable\obj\Debug\netcoreapp3.1\10.MultiplicationTable.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\10.MultiplicationTable\obj\Debug\netcoreapp3.1\10.MultiplicationTable.genruntimeconfig.cache

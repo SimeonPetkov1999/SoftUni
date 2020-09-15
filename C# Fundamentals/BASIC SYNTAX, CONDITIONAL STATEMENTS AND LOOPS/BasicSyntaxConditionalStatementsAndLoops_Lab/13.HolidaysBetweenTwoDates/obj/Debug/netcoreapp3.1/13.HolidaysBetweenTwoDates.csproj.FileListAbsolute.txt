@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.exe
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.deps.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13.HolidaysBetweenTwoDates.genruntimeconfig.cache

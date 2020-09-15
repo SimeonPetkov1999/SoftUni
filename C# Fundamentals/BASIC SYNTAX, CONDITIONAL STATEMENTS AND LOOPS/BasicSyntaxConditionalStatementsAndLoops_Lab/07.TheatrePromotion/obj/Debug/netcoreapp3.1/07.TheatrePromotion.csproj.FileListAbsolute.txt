@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\07.TheatrePromotion\bin\Debug\netcoreapp3.1\07.TheatrePromotion.exe
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\07.TheatrePromotion\bin\Debug\netcoreapp3.1\07.TheatrePromotion.deps.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\07.TheatrePromotion\bin\Debug\netcoreapp3.1\07.TheatrePromotion.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\07.TheatrePromotion\bin\Debug\netcoreapp3.1\07.TheatrePromotion.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\07.TheatrePromotion\bin\Debug\netcoreapp3.1\07.TheatrePromotion.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\07.TheatrePromotion\bin\Debug\netcoreapp3.1\07.TheatrePromotion.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\07.TheatrePromotion\obj\Debug\netcoreapp3.1\07.TheatrePromotion.genruntimeconfig.cache

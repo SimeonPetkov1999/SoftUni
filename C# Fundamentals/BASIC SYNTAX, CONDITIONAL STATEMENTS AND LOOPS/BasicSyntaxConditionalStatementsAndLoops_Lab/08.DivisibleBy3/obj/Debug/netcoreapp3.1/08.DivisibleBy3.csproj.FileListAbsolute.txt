@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\08.DivisibleBy3\bin\Debug\netcoreapp3.1\08.DivisibleBy3.exe
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\08.DivisibleBy3\bin\Debug\netcoreapp3.1\08.DivisibleBy3.deps.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\08.DivisibleBy3\bin\Debug\netcoreapp3.1\08.DivisibleBy3.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\08.DivisibleBy3\bin\Debug\netcoreapp3.1\08.DivisibleBy3.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\08.DivisibleBy3\bin\Debug\netcoreapp3.1\08.DivisibleBy3.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\08.DivisibleBy3\bin\Debug\netcoreapp3.1\08.DivisibleBy3.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\08.DivisibleBy3\obj\Debug\netcoreapp3.1\08.DivisibleBy3.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\08.DivisibleBy3\obj\Debug\netcoreapp3.1\08.DivisibleBy3.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\08.DivisibleBy3\obj\Debug\netcoreapp3.1\08.DivisibleBy3.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\08.DivisibleBy3\obj\Debug\netcoreapp3.1\08.DivisibleBy3.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\08.DivisibleBy3\obj\Debug\netcoreapp3.1\08.DivisibleBy3.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\08.DivisibleBy3\obj\Debug\netcoreapp3.1\08.DivisibleBy3.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Lab\08.DivisibleBy3\obj\Debug\netcoreapp3.1\08.DivisibleBy3.genruntimeconfig.cache
