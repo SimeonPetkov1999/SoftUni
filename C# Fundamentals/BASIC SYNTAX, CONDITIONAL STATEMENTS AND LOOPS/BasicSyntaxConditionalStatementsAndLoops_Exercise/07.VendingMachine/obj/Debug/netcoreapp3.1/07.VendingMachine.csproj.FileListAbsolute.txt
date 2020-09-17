@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.exe
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.deps.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\07.VendingMachine\bin\Debug\netcoreapp3.1\07.VendingMachine.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\07.VendingMachine\obj\Debug\netcoreapp3.1\07.VendingMachine.genruntimeconfig.cache

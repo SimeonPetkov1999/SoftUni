@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.exe
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.deps.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\08.TriangleOfNumbers\bin\Debug\netcoreapp3.1\08.TriangleOfNumbers.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\08.TriangleOfNumbers\obj\Debug\netcoreapp3.1\08.TriangleOfNumbers.genruntimeconfig.cache

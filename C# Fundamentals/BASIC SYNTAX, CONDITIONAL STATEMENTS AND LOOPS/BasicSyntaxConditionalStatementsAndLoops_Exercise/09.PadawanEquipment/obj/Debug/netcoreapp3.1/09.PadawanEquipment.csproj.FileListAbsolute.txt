@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.exe
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.deps.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\09.PadawanEquipment\bin\Debug\netcoreapp3.1\09.PadawanEquipment.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.genruntimeconfig.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\09.PadawanEquipment\obj\Debug\netcoreapp3.1\09.PadawanEquipment.csprojAssemblyReference.cache

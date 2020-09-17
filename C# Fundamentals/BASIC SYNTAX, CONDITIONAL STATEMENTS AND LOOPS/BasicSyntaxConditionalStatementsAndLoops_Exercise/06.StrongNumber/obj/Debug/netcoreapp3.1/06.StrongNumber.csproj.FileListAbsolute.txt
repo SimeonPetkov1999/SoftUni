@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.exe
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.deps.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\06.StrongNumber\bin\Debug\netcoreapp3.1\06.StrongNumber.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\06.StrongNumber\obj\Debug\netcoreapp3.1\06.StrongNumber.genruntimeconfig.cache
