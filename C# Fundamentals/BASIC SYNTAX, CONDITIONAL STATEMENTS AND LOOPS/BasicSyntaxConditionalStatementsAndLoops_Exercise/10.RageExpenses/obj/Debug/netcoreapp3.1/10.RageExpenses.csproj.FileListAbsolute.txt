@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.exe
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.deps.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\10.RageExpenses\bin\Debug\netcoreapp3.1\10.RageExpenses.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_Exercise\10.RageExpenses\obj\Debug\netcoreapp3.1\10.RageExpenses.genruntimeconfig.cache

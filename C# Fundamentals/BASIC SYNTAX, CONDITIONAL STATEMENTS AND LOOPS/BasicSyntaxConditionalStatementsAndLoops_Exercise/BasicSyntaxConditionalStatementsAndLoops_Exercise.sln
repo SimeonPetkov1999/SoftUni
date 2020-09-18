@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Ages", "01.Ages\01.Ages.csproj", "{3D182B39-14A9-4F19-9F65-DEB5FA3E1BC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Ages", "01.Ages\01.Ages.csproj", "{3D182B39-14A9-4F19-9F65-DEB5FA3E1BC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Division", "02.Division\02.Division.csproj", "{0CE84094-A2C9-49D9-A72B-2BE964D63EF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Division", "02.Division\02.Division.csproj", "{0CE84094-A2C9-49D9-A72B-2BE964D63EF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Vacation", "03.Vacation\03.Vacation.csproj", "{FD3DF254-01F6-495B-9A2D-B3A4A4012068}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Vacation", "03.Vacation\03.Vacation.csproj", "{FD3DF254-01F6-495B-9A2D-B3A4A4012068}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PrintAndSum", "04.PrintAndSum\04.PrintAndSum.csproj", "{4C1CC93D-F4AD-49AF-BBCD-579C0AD8584A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.PrintAndSum", "04.PrintAndSum\04.PrintAndSum.csproj", "{4C1CC93D-F4AD-49AF-BBCD-579C0AD8584A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Login", "05.Login\05.Login.csproj", "{CD6995BB-D055-4E9F-8FB2-2226A08D7CBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Login", "05.Login\05.Login.csproj", "{CD6995BB-D055-4E9F-8FB2-2226A08D7CBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.StrongNumber", "06.StrongNumber\06.StrongNumber.csproj", "{EEBB80C9-B348-4851-8DCC-11863309AFA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.StrongNumber", "06.StrongNumber\06.StrongNumber.csproj", "{EEBB80C9-B348-4851-8DCC-11863309AFA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.VendingMachine", "07.VendingMachine\07.VendingMachine.csproj", "{A95A7296-A0C7-4E2A-9068-C61FA44A4142}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.VendingMachine", "07.VendingMachine\07.VendingMachine.csproj", "{A95A7296-A0C7-4E2A-9068-C61FA44A4142}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.TriangleOfNumbers", "08.TriangleOfNumbers\08.TriangleOfNumbers.csproj", "{367DE47F-1E7F-439B-9CA2-52547E515C72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.TriangleOfNumbers", "08.TriangleOfNumbers\08.TriangleOfNumbers.csproj", "{367DE47F-1E7F-439B-9CA2-52547E515C72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PadawanEquipment", "09.PadawanEquipment\09.PadawanEquipment.csproj", "{F3587078-0A9A-466C-9133-E7FC1A288CCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.PadawanEquipment", "09.PadawanEquipment\09.PadawanEquipment.csproj", "{F3587078-0A9A-466C-9133-E7FC1A288CCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.RageExpenses", "10.RageExpenses\10.RageExpenses.csproj", "{D8204BD9-72DB-4799-8967-BA5E03D0D200}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{F3587078-0A9A-466C-9133-E7FC1A288CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3587078-0A9A-466C-9133-E7FC1A288CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3587078-0A9A-466C-9133-E7FC1A288CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8204BD9-72DB-4799-8967-BA5E03D0D200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8204BD9-72DB-4799-8967-BA5E03D0D200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8204BD9-72DB-4799-8967-BA5E03D0D200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8204BD9-72DB-4799-8967-BA5E03D0D200}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
