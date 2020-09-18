@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\05.CharacterStats\bin\Debug\netcoreapp3.1\05.CharacterStats.exe
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\05.CharacterStats\bin\Debug\netcoreapp3.1\05.CharacterStats.deps.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\05.CharacterStats\bin\Debug\netcoreapp3.1\05.CharacterStats.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\05.CharacterStats\bin\Debug\netcoreapp3.1\05.CharacterStats.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\05.CharacterStats\bin\Debug\netcoreapp3.1\05.CharacterStats.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\05.CharacterStats\bin\Debug\netcoreapp3.1\05.CharacterStats.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\05.CharacterStats\obj\Debug\netcoreapp3.1\05.CharacterStats.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\05.CharacterStats\obj\Debug\netcoreapp3.1\05.CharacterStats.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\05.CharacterStats\obj\Debug\netcoreapp3.1\05.CharacterStats.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\05.CharacterStats\obj\Debug\netcoreapp3.1\05.CharacterStats.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\05.CharacterStats\obj\Debug\netcoreapp3.1\05.CharacterStats.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\05.CharacterStats\obj\Debug\netcoreapp3.1\05.CharacterStats.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\05.CharacterStats\obj\Debug\netcoreapp3.1\05.CharacterStats.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\01.DebitCardNumber\bin\Debug\netcoreapp3.1\01.DebitCardNumber.exe
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\01.DebitCardNumber\bin\Debug\netcoreapp3.1\01.DebitCardNumber.deps.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\01.DebitCardNumber\bin\Debug\netcoreapp3.1\01.DebitCardNumber.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\01.DebitCardNumber\bin\Debug\netcoreapp3.1\01.DebitCardNumber.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\01.DebitCardNumber\bin\Debug\netcoreapp3.1\01.DebitCardNumber.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\01.DebitCardNumber\bin\Debug\netcoreapp3.1\01.DebitCardNumber.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\01.DebitCardNumber\obj\Debug\netcoreapp3.1\01.DebitCardNumber.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\01.DebitCardNumber\obj\Debug\netcoreapp3.1\01.DebitCardNumber.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\01.DebitCardNumber\obj\Debug\netcoreapp3.1\01.DebitCardNumber.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\01.DebitCardNumber\obj\Debug\netcoreapp3.1\01.DebitCardNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\01.DebitCardNumber\obj\Debug\netcoreapp3.1\01.DebitCardNumber.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\01.DebitCardNumber\obj\Debug\netcoreapp3.1\01.DebitCardNumber.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\IntroAndBasicSyntaxExercises\01.DebitCardNumber\obj\Debug\netcoreapp3.1\01.DebitCardNumber.genruntimeconfig.cache
