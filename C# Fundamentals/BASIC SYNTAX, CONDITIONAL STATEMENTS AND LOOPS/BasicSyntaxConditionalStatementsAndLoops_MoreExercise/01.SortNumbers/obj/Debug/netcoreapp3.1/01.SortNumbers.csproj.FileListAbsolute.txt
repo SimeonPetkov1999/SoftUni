@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\01.SortNumbers\bin\Debug\netcoreapp3.1\01.SortNumbers.exe
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\01.SortNumbers\bin\Debug\netcoreapp3.1\01.SortNumbers.deps.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\01.SortNumbers\bin\Debug\netcoreapp3.1\01.SortNumbers.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\01.SortNumbers\bin\Debug\netcoreapp3.1\01.SortNumbers.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\01.SortNumbers\bin\Debug\netcoreapp3.1\01.SortNumbers.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\01.SortNumbers\bin\Debug\netcoreapp3.1\01.SortNumbers.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\01.SortNumbers\obj\Debug\netcoreapp3.1\01.SortNumbers.genruntimeconfig.cache

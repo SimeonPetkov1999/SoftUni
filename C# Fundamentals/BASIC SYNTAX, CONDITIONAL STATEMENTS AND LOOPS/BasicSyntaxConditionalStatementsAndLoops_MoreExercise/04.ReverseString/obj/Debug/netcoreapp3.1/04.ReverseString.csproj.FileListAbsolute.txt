@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\04.ReverseString\bin\Debug\netcoreapp3.1\04.ReverseString.exe
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\04.ReverseString\bin\Debug\netcoreapp3.1\04.ReverseString.deps.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\04.ReverseString\bin\Debug\netcoreapp3.1\04.ReverseString.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\04.ReverseString\bin\Debug\netcoreapp3.1\04.ReverseString.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\04.ReverseString\bin\Debug\netcoreapp3.1\04.ReverseString.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\04.ReverseString\bin\Debug\netcoreapp3.1\04.ReverseString.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.dll
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.pdb
+D:\SoftUni\C# Fundamentals\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\BasicSyntaxConditionalStatementsAndLoops_MoreExercise\04.ReverseString\obj\Debug\netcoreapp3.1\04.ReverseString.genruntimeconfig.cache
