@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\C# Fundamentals\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\IntroAndBasicSyntaxExercises\\05.CharacterStats\\05.CharacterStats.csproj": {}
+    "D:\\SoftUni\\C# Fundamentals\\Exams\\ProgFundMidExamRetake12August2020\\ExamSolutions\\01.ComputerStore\\01.ComputerStore.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\C# Fundamentals\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\IntroAndBasicSyntaxExercises\\05.CharacterStats\\05.CharacterStats.csproj": {
+    "D:\\SoftUni\\C# Fundamentals\\Exams\\ProgFundMidExamRetake12August2020\\ExamSolutions\\01.ComputerStore\\01.ComputerStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\C# Fundamentals\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\IntroAndBasicSyntaxExercises\\05.CharacterStats\\05.CharacterStats.csproj",
-        "projectName": "05.CharacterStats",
-        "projectPath": "D:\\SoftUni\\C# Fundamentals\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\IntroAndBasicSyntaxExercises\\05.CharacterStats\\05.CharacterStats.csproj",
+        "projectUniqueName": "D:\\SoftUni\\C# Fundamentals\\Exams\\ProgFundMidExamRetake12August2020\\ExamSolutions\\01.ComputerStore\\01.ComputerStore.csproj",
+        "projectName": "01.ComputerStore",
+        "projectPath": "D:\\SoftUni\\C# Fundamentals\\Exams\\ProgFundMidExamRetake12August2020\\ExamSolutions\\01.ComputerStore\\01.ComputerStore.csproj",
         "packagesPath": "C:\\Users\\Simeo\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\C# Fundamentals\\BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\\IntroAndBasicSyntaxExercises\\05.CharacterStats\\obj\\",
+        "outputPath": "D:\\SoftUni\\C# Fundamentals\\Exams\\ProgFundMidExamRetake12August2020\\ExamSolutions\\01.ComputerStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simeo\\AppData\\Roaming\\NuGet\\NuGet.Config",

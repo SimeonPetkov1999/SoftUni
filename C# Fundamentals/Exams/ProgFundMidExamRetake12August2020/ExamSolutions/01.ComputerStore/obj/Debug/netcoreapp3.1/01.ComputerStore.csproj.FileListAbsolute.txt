@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\01.ComputerStore\bin\Debug\netcoreapp3.1\01.ComputerStore.exe
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\01.ComputerStore\bin\Debug\netcoreapp3.1\01.ComputerStore.deps.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\01.ComputerStore\bin\Debug\netcoreapp3.1\01.ComputerStore.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\01.ComputerStore\bin\Debug\netcoreapp3.1\01.ComputerStore.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\01.ComputerStore\bin\Debug\netcoreapp3.1\01.ComputerStore.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\01.ComputerStore\bin\Debug\netcoreapp3.1\01.ComputerStore.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\01.ComputerStore\obj\Debug\netcoreapp3.1\01.ComputerStore.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\01.ComputerStore\obj\Debug\netcoreapp3.1\01.ComputerStore.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\01.ComputerStore\obj\Debug\netcoreapp3.1\01.ComputerStore.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\01.ComputerStore\obj\Debug\netcoreapp3.1\01.ComputerStore.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\01.ComputerStore\obj\Debug\netcoreapp3.1\01.ComputerStore.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\01.ComputerStore\obj\Debug\netcoreapp3.1\01.ComputerStore.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\01.ComputerStore\obj\Debug\netcoreapp3.1\01.ComputerStore.genruntimeconfig.cache
