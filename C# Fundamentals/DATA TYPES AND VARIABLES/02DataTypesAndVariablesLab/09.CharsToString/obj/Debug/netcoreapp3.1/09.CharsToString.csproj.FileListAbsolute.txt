@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.exe
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.deps.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\09.CharsToString\bin\Debug\netcoreapp3.1\09.CharsToString.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\09.CharsToString\obj\Debug\netcoreapp3.1\09.CharsToString.genruntimeconfig.cache

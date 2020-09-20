@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\12.RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.exe
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\12.RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.deps.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\12.RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\12.RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\12.RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\12.RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\12.RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\12.RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\12.RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\12.RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\12.RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\12.RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12.RefactorSpecialNumbers.genruntimeconfig.cache
