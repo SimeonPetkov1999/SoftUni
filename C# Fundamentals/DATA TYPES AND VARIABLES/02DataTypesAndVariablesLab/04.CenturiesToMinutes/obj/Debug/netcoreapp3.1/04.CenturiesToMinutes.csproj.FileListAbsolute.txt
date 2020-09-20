@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.exe
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.deps.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\04.CenturiesToMinutes\bin\Debug\netcoreapp3.1\04.CenturiesToMinutes.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\04.CenturiesToMinutes\obj\Debug\netcoreapp3.1\04.CenturiesToMinutes.genruntimeconfig.cache

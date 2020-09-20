@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.exe
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.deps.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\03.ExactSumOfRealNumbers\bin\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\03.ExactSumOfRealNumbers\obj\Debug\netcoreapp3.1\03.ExactSumOfRealNumbers.genruntimeconfig.cache

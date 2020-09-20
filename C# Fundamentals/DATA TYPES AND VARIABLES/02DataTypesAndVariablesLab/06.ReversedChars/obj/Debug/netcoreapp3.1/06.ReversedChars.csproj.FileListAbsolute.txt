@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\06.ReversedChars\bin\Debug\netcoreapp3.1\06.ReversedChars.exe
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\06.ReversedChars\bin\Debug\netcoreapp3.1\06.ReversedChars.deps.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\06.ReversedChars\bin\Debug\netcoreapp3.1\06.ReversedChars.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\06.ReversedChars\bin\Debug\netcoreapp3.1\06.ReversedChars.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\06.ReversedChars\bin\Debug\netcoreapp3.1\06.ReversedChars.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\06.ReversedChars\bin\Debug\netcoreapp3.1\06.ReversedChars.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\06.ReversedChars\obj\Debug\netcoreapp3.1\06.ReversedChars.genruntimeconfig.cache

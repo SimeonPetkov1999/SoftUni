@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\02.PoundsToDollars\bin\Debug\netcoreapp3.1\02.PoundsToDollars.exe
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\02.PoundsToDollars\bin\Debug\netcoreapp3.1\02.PoundsToDollars.deps.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\02.PoundsToDollars\bin\Debug\netcoreapp3.1\02.PoundsToDollars.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\02.PoundsToDollars\bin\Debug\netcoreapp3.1\02.PoundsToDollars.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\02.PoundsToDollars\bin\Debug\netcoreapp3.1\02.PoundsToDollars.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\02.PoundsToDollars\bin\Debug\netcoreapp3.1\02.PoundsToDollars.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\02.PoundsToDollars\obj\Debug\netcoreapp3.1\02.PoundsToDollars.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\02.PoundsToDollars\obj\Debug\netcoreapp3.1\02.PoundsToDollars.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\02.PoundsToDollars\obj\Debug\netcoreapp3.1\02.PoundsToDollars.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\02.PoundsToDollars\obj\Debug\netcoreapp3.1\02.PoundsToDollars.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\02.PoundsToDollars\obj\Debug\netcoreapp3.1\02.PoundsToDollars.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\02.PoundsToDollars\obj\Debug\netcoreapp3.1\02.PoundsToDollars.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\02.PoundsToDollars\obj\Debug\netcoreapp3.1\02.PoundsToDollars.genruntimeconfig.cache

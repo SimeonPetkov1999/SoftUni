@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.exe
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.deps.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\01.ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesLab\01.ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\01.ConvertMetersToKilometers.genruntimeconfig.cache
