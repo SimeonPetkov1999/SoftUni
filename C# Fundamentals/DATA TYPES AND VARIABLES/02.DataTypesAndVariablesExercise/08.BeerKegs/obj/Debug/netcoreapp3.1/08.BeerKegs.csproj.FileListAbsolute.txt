@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\08.BeerKegs\bin\Debug\netcoreapp3.1\08.BeerKegs.exe
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\08.BeerKegs\bin\Debug\netcoreapp3.1\08.BeerKegs.deps.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\08.BeerKegs\bin\Debug\netcoreapp3.1\08.BeerKegs.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\08.BeerKegs\bin\Debug\netcoreapp3.1\08.BeerKegs.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\08.BeerKegs\bin\Debug\netcoreapp3.1\08.BeerKegs.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\08.BeerKegs\bin\Debug\netcoreapp3.1\08.BeerKegs.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\08.BeerKegs\obj\Debug\netcoreapp3.1\08.BeerKegs.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\08.BeerKegs\obj\Debug\netcoreapp3.1\08.BeerKegs.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\08.BeerKegs\obj\Debug\netcoreapp3.1\08.BeerKegs.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\08.BeerKegs\obj\Debug\netcoreapp3.1\08.BeerKegs.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\08.BeerKegs\obj\Debug\netcoreapp3.1\08.BeerKegs.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\08.BeerKegs\obj\Debug\netcoreapp3.1\08.BeerKegs.genruntimeconfig.cache

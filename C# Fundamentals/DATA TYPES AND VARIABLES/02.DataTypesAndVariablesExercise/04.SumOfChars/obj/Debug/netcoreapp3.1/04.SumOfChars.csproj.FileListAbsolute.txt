@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\04.SumOfChars\bin\Debug\netcoreapp3.1\04.SumOfChars.exe
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\04.SumOfChars\bin\Debug\netcoreapp3.1\04.SumOfChars.deps.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\04.SumOfChars\bin\Debug\netcoreapp3.1\04.SumOfChars.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\04.SumOfChars\bin\Debug\netcoreapp3.1\04.SumOfChars.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\04.SumOfChars\bin\Debug\netcoreapp3.1\04.SumOfChars.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\04.SumOfChars\bin\Debug\netcoreapp3.1\04.SumOfChars.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\04.SumOfChars\obj\Debug\netcoreapp3.1\04.SumOfChars.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\04.SumOfChars\obj\Debug\netcoreapp3.1\04.SumOfChars.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\04.SumOfChars\obj\Debug\netcoreapp3.1\04.SumOfChars.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\04.SumOfChars\obj\Debug\netcoreapp3.1\04.SumOfChars.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\04.SumOfChars\obj\Debug\netcoreapp3.1\04.SumOfChars.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\04.SumOfChars\obj\Debug\netcoreapp3.1\04.SumOfChars.genruntimeconfig.cache

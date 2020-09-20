@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\11.Snowballs\bin\Debug\netcoreapp3.1\11.Snowballs.exe
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\11.Snowballs\bin\Debug\netcoreapp3.1\11.Snowballs.deps.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\11.Snowballs\bin\Debug\netcoreapp3.1\11.Snowballs.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\11.Snowballs\bin\Debug\netcoreapp3.1\11.Snowballs.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\11.Snowballs\bin\Debug\netcoreapp3.1\11.Snowballs.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\11.Snowballs\bin\Debug\netcoreapp3.1\11.Snowballs.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\11.Snowballs\obj\Debug\netcoreapp3.1\11.Snowballs.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\11.Snowballs\obj\Debug\netcoreapp3.1\11.Snowballs.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\11.Snowballs\obj\Debug\netcoreapp3.1\11.Snowballs.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\11.Snowballs\obj\Debug\netcoreapp3.1\11.Snowballs.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\11.Snowballs\obj\Debug\netcoreapp3.1\11.Snowballs.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\11.Snowballs\obj\Debug\netcoreapp3.1\11.Snowballs.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.exe
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.deps.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\03.Elevator\bin\Debug\netcoreapp3.1\03.Elevator.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\03.Elevator\obj\Debug\netcoreapp3.1\03.Elevator.genruntimeconfig.cache

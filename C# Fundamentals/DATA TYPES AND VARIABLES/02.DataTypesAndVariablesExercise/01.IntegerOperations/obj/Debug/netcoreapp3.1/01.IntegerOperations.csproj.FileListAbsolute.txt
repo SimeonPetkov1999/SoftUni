@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\01.IntegerOperations\bin\Debug\netcoreapp3.1\01.IntegerOperations.exe
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\01.IntegerOperations\bin\Debug\netcoreapp3.1\01.IntegerOperations.deps.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\01.IntegerOperations\bin\Debug\netcoreapp3.1\01.IntegerOperations.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\01.IntegerOperations\bin\Debug\netcoreapp3.1\01.IntegerOperations.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\01.IntegerOperations\bin\Debug\netcoreapp3.1\01.IntegerOperations.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\01.IntegerOperations\bin\Debug\netcoreapp3.1\01.IntegerOperations.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\01.IntegerOperations\obj\Debug\netcoreapp3.1\01.IntegerOperations.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\01.IntegerOperations\obj\Debug\netcoreapp3.1\01.IntegerOperations.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\01.IntegerOperations\obj\Debug\netcoreapp3.1\01.IntegerOperations.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\01.IntegerOperations\obj\Debug\netcoreapp3.1\01.IntegerOperations.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\01.IntegerOperations\obj\Debug\netcoreapp3.1\01.IntegerOperations.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\01.IntegerOperations\obj\Debug\netcoreapp3.1\01.IntegerOperations.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\01.IntegerOperations\obj\Debug\netcoreapp3.1\01.IntegerOperations.genruntimeconfig.cache

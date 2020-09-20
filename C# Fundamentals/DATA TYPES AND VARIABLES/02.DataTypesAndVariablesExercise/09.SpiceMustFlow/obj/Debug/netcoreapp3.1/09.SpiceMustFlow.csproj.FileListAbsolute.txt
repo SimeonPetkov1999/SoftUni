@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.exe
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.deps.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\09.SpiceMustFlow\bin\Debug\netcoreapp3.1\09.SpiceMustFlow.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02.DataTypesAndVariablesExercise\09.SpiceMustFlow\obj\Debug\netcoreapp3.1\09.SpiceMustFlow.genruntimeconfig.cache
