@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\03.FloatingEquality\bin\Debug\netcoreapp3.1\03.FloatingEquality.exe
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\03.FloatingEquality\bin\Debug\netcoreapp3.1\03.FloatingEquality.deps.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\03.FloatingEquality\bin\Debug\netcoreapp3.1\03.FloatingEquality.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\03.FloatingEquality\bin\Debug\netcoreapp3.1\03.FloatingEquality.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\03.FloatingEquality\bin\Debug\netcoreapp3.1\03.FloatingEquality.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\03.FloatingEquality\bin\Debug\netcoreapp3.1\03.FloatingEquality.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\03.FloatingEquality\obj\Debug\netcoreapp3.1\03.FloatingEquality.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\03.FloatingEquality\obj\Debug\netcoreapp3.1\03.FloatingEquality.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\03.FloatingEquality\obj\Debug\netcoreapp3.1\03.FloatingEquality.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\03.FloatingEquality\obj\Debug\netcoreapp3.1\03.FloatingEquality.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\03.FloatingEquality\obj\Debug\netcoreapp3.1\03.FloatingEquality.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\03.FloatingEquality\obj\Debug\netcoreapp3.1\03.FloatingEquality.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\03.FloatingEquality\obj\Debug\netcoreapp3.1\03.FloatingEquality.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.exe
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.deps.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp3.1\01.DataTypeFinder.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp3.1\01.DataTypeFinder.genruntimeconfig.cache

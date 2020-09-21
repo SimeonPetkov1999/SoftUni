@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\05.DecryptingMessage\bin\Debug\netcoreapp3.1\05.DecryptingMessage.exe
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\05.DecryptingMessage\bin\Debug\netcoreapp3.1\05.DecryptingMessage.deps.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\05.DecryptingMessage\bin\Debug\netcoreapp3.1\05.DecryptingMessage.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\05.DecryptingMessage\bin\Debug\netcoreapp3.1\05.DecryptingMessage.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\05.DecryptingMessage\bin\Debug\netcoreapp3.1\05.DecryptingMessage.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\05.DecryptingMessage\bin\Debug\netcoreapp3.1\05.DecryptingMessage.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\05.DecryptingMessage\obj\Debug\netcoreapp3.1\05.DecryptingMessage.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\05.DecryptingMessage\obj\Debug\netcoreapp3.1\05.DecryptingMessage.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\05.DecryptingMessage\obj\Debug\netcoreapp3.1\05.DecryptingMessage.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\05.DecryptingMessage\obj\Debug\netcoreapp3.1\05.DecryptingMessage.dll
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\05.DecryptingMessage\obj\Debug\netcoreapp3.1\05.DecryptingMessage.pdb
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\05.DecryptingMessage\obj\Debug\netcoreapp3.1\05.DecryptingMessage.genruntimeconfig.cache
