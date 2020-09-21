@@ -49,6 +49,7 @@ namespace _06.BalancedBrackets
             {
                 Console.WriteLine("UNBALANCED");
             }
+            ;
         }
     }
 }
