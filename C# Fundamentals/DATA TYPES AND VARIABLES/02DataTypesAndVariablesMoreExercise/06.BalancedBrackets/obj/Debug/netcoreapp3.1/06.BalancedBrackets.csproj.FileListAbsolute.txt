@@ -10,3 +10,4 @@ D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreE
 D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.dll
 D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.pdb
 D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.genruntimeconfig.cache
+D:\SoftUni\C# Fundamentals\DATA TYPES AND VARIABLES\02DataTypesAndVariablesMoreExercise\06.BalancedBrackets\obj\Debug\netcoreapp3.1\06.BalancedBrackets.csprojAssemblyReference.cache
