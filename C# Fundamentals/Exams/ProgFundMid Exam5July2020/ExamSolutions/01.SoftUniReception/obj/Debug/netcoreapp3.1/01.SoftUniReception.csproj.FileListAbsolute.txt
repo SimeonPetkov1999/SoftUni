@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.exe
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.deps.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.genruntimeconfig.cache
