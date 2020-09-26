@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysExercises\03ZigZagArrays\bin\Debug\netcoreapp3.1\03ZigZagArrays.exe
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysExercises\03ZigZagArrays\bin\Debug\netcoreapp3.1\03ZigZagArrays.deps.json
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysExercises\03ZigZagArrays\bin\Debug\netcoreapp3.1\03ZigZagArrays.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysExercises\03ZigZagArrays\bin\Debug\netcoreapp3.1\03ZigZagArrays.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysExercises\03ZigZagArrays\bin\Debug\netcoreapp3.1\03ZigZagArrays.dll
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysExercises\03ZigZagArrays\bin\Debug\netcoreapp3.1\03ZigZagArrays.pdb
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysExercises\03ZigZagArrays\obj\Debug\netcoreapp3.1\03ZigZagArrays.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysExercises\03ZigZagArrays\obj\Debug\netcoreapp3.1\03ZigZagArrays.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysExercises\03ZigZagArrays\obj\Debug\netcoreapp3.1\03ZigZagArrays.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysExercises\03ZigZagArrays\obj\Debug\netcoreapp3.1\03ZigZagArrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysExercises\03ZigZagArrays\obj\Debug\netcoreapp3.1\03ZigZagArrays.dll
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysExercises\03ZigZagArrays\obj\Debug\netcoreapp3.1\03ZigZagArrays.pdb
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysExercises\03ZigZagArrays\obj\Debug\netcoreapp3.1\03ZigZagArrays.genruntimeconfig.cache
