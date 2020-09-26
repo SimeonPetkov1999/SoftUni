@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.exe
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.deps.json
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.dll
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.pdb
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.dll
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.pdb
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.genruntimeconfig.cache
