@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.exe
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.deps.json
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.dll
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\04.ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.pdb
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.dll
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.pdb
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysLab\04.ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04.ReverseArrayOfStrings.genruntimeconfig.cache
