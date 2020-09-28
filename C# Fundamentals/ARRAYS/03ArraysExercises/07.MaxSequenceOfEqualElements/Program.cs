@@ -12,25 +12,35 @@ namespace _07.MaxSequenceOfEqualElements
                 .Select(int.Parse)
                 .ToArray();
 
-            int number=int.MinValue;
-            int count = 0;
+            int maxSequencedNum = int.MinValue;
+            int maxSequence = int.MinValue;
+
+            int currentSequencedNum = 1;
+            int currentMaxSequence = 1;
  
             for (int i = 0; i < numbers.Length-1; i++)
             {
-                if (numbers[i] == numbers[i+1])
+                if (numbers[i]==numbers[i+1])
                 {
-                    number = numbers[i];
-                    count++;
+                    currentMaxSequence++;
+                    currentSequencedNum = numbers[i];
                 }
                 else
                 {
+                    currentMaxSequence = 1;
+                }
 
+
+                if (currentMaxSequence>maxSequence)
+                {
+                    maxSequence = currentMaxSequence;
+                    maxSequencedNum = currentSequencedNum;
                 }
             }
 
-            for (int i = 0; i <count ; i++)
+            for (int i = 0; i < maxSequence; i++)
             {
-                Console.Write($"{number} ");
+                Console.Write(maxSequencedNum + " ");
             }
         }
     }

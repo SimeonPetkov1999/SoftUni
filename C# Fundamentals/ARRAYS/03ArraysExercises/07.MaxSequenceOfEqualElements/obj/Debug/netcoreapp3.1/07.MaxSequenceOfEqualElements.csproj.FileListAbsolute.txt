@@ -10,3 +10,4 @@ D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysExercises\07.MaxSequenceOfEqualElement
 D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysExercises\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.dll
 D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysExercises\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.pdb
 D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysExercises\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.genruntimeconfig.cache
+D:\SoftUni\C# Fundamentals\ARRAYS\03ArraysExercises\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.csprojAssemblyReference.cache
