@@ -72,6 +72,8 @@ namespace _10.LadyBugs
                 }               
             }
             Console.WriteLine(string.Join(" ", field));
+
+            Console.WriteLine();
          }
     }
 }
