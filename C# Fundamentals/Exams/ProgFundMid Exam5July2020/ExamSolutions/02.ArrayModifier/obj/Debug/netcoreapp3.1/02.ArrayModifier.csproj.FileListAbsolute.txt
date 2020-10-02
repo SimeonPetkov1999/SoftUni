@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.exe
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.deps.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMid Exam5July2020\ExamSolutions\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.genruntimeconfig.cache
