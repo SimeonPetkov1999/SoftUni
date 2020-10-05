@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\01SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01SignOfIntegerNumbers.exe
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\01SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01SignOfIntegerNumbers.deps.json
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\01SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01SignOfIntegerNumbers.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\01SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01SignOfIntegerNumbers.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\01SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01SignOfIntegerNumbers.dll
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\01SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01SignOfIntegerNumbers.pdb
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\01SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01SignOfIntegerNumbers.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\01SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01SignOfIntegerNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\01SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01SignOfIntegerNumbers.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\01SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\01SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01SignOfIntegerNumbers.dll
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\01SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01SignOfIntegerNumbers.pdb
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\01SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01SignOfIntegerNumbers.genruntimeconfig.cache

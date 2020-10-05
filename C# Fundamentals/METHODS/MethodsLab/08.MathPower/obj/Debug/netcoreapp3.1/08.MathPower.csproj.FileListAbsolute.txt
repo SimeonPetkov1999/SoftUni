@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.exe
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.deps.json
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.dll
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\08.MathPower\bin\Debug\netcoreapp3.1\08.MathPower.pdb
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.dll
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.pdb
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\08.MathPower\obj\Debug\netcoreapp3.1\08.MathPower.genruntimeconfig.cache
