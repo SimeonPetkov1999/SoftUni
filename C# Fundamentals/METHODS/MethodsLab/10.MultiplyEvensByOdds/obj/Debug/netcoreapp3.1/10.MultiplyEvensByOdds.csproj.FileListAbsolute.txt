@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\10.MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.exe
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\10.MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.deps.json
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\10.MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\10.MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\10.MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.dll
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\10.MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.pdb
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.dll
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.pdb
+D:\SoftUni\C# Fundamentals\METHODS\MethodsLab\10.MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\10.MultiplyEvensByOdds.genruntimeconfig.cache
