@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\METHODS\MethodsExercise\05.AddAndSubtract\bin\Debug\netcoreapp3.1\05.AddAndSubtract.exe
+D:\SoftUni\C# Fundamentals\METHODS\MethodsExercise\05.AddAndSubtract\bin\Debug\netcoreapp3.1\05.AddAndSubtract.deps.json
+D:\SoftUni\C# Fundamentals\METHODS\MethodsExercise\05.AddAndSubtract\bin\Debug\netcoreapp3.1\05.AddAndSubtract.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\METHODS\MethodsExercise\05.AddAndSubtract\bin\Debug\netcoreapp3.1\05.AddAndSubtract.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\METHODS\MethodsExercise\05.AddAndSubtract\bin\Debug\netcoreapp3.1\05.AddAndSubtract.dll
+D:\SoftUni\C# Fundamentals\METHODS\MethodsExercise\05.AddAndSubtract\bin\Debug\netcoreapp3.1\05.AddAndSubtract.pdb
+D:\SoftUni\C# Fundamentals\METHODS\MethodsExercise\05.AddAndSubtract\obj\Debug\netcoreapp3.1\05.AddAndSubtract.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\METHODS\MethodsExercise\05.AddAndSubtract\obj\Debug\netcoreapp3.1\05.AddAndSubtract.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\METHODS\MethodsExercise\05.AddAndSubtract\obj\Debug\netcoreapp3.1\05.AddAndSubtract.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\METHODS\MethodsExercise\05.AddAndSubtract\obj\Debug\netcoreapp3.1\05.AddAndSubtract.dll
+D:\SoftUni\C# Fundamentals\METHODS\MethodsExercise\05.AddAndSubtract\obj\Debug\netcoreapp3.1\05.AddAndSubtract.pdb
+D:\SoftUni\C# Fundamentals\METHODS\MethodsExercise\05.AddAndSubtract\obj\Debug\netcoreapp3.1\05.AddAndSubtract.genruntimeconfig.cache
