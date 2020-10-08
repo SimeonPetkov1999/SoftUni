@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.NxNMatrix", "07.NxNMatri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.FactorialDivision", "08.FactorialDivision\08.FactorialDivision.csproj", "{379DDFBF-EBAE-48C1-9103-8C3FDDDCB190}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PalindromeIntegers", "09.PalindromeIntegers\09.PalindromeIntegers.csproj", "{EEFCA6E7-0735-4508-B6C5-E740C3EB028F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.PalindromeIntegers", "09.PalindromeIntegers\09.PalindromeIntegers.csproj", "{EEFCA6E7-0735-4508-B6C5-E740C3EB028F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.TopNumber", "10.TopNumber\10.TopNumber.csproj", "{9600A02E-4BDE-49DF-91B2-1509C341AE57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.TopNumber", "10.TopNumber\10.TopNumber.csproj", "{9600A02E-4BDE-49DF-91B2-1509C341AE57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.ArrayManipulator", "11.ArrayManipulator\11.ArrayManipulator.csproj", "{A406D991-ED56-46F8-ACEC-54C221E53583}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{9600A02E-4BDE-49DF-91B2-1509C341AE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9600A02E-4BDE-49DF-91B2-1509C341AE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9600A02E-4BDE-49DF-91B2-1509C341AE57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A406D991-ED56-46F8-ACEC-54C221E53583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A406D991-ED56-46F8-ACEC-54C221E53583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A406D991-ED56-46F8-ACEC-54C221E53583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A406D991-ED56-46F8-ACEC-54C221E53583}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
