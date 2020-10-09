@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\01.DataTypes\bin\Debug\netcoreapp3.1\01.DataTypes.exe
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\01.DataTypes\bin\Debug\netcoreapp3.1\01.DataTypes.deps.json
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\01.DataTypes\bin\Debug\netcoreapp3.1\01.DataTypes.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\01.DataTypes\bin\Debug\netcoreapp3.1\01.DataTypes.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\01.DataTypes\bin\Debug\netcoreapp3.1\01.DataTypes.dll
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\01.DataTypes\bin\Debug\netcoreapp3.1\01.DataTypes.pdb
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\01.DataTypes\obj\Debug\netcoreapp3.1\01.DataTypes.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\01.DataTypes\obj\Debug\netcoreapp3.1\01.DataTypes.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\01.DataTypes\obj\Debug\netcoreapp3.1\01.DataTypes.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\01.DataTypes\obj\Debug\netcoreapp3.1\01.DataTypes.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\01.DataTypes\obj\Debug\netcoreapp3.1\01.DataTypes.dll
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\01.DataTypes\obj\Debug\netcoreapp3.1\01.DataTypes.pdb
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\01.DataTypes\obj\Debug\netcoreapp3.1\01.DataTypes.genruntimeconfig.cache
