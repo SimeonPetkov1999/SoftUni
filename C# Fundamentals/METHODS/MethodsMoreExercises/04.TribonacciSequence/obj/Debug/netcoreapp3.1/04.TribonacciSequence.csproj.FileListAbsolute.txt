@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\04.TribonacciSequence\bin\Debug\netcoreapp3.1\04.TribonacciSequence.exe
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\04.TribonacciSequence\bin\Debug\netcoreapp3.1\04.TribonacciSequence.deps.json
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\04.TribonacciSequence\bin\Debug\netcoreapp3.1\04.TribonacciSequence.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\04.TribonacciSequence\bin\Debug\netcoreapp3.1\04.TribonacciSequence.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\04.TribonacciSequence\bin\Debug\netcoreapp3.1\04.TribonacciSequence.dll
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\04.TribonacciSequence\bin\Debug\netcoreapp3.1\04.TribonacciSequence.pdb
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\04.TribonacciSequence\obj\Debug\netcoreapp3.1\04.TribonacciSequence.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\04.TribonacciSequence\obj\Debug\netcoreapp3.1\04.TribonacciSequence.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\04.TribonacciSequence\obj\Debug\netcoreapp3.1\04.TribonacciSequence.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\04.TribonacciSequence\obj\Debug\netcoreapp3.1\04.TribonacciSequence.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\04.TribonacciSequence\obj\Debug\netcoreapp3.1\04.TribonacciSequence.dll
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\04.TribonacciSequence\obj\Debug\netcoreapp3.1\04.TribonacciSequence.pdb
+D:\SoftUni\C# Fundamentals\METHODS\MethodsMoreExercises\04.TribonacciSequence\obj\Debug\netcoreapp3.1\04.TribonacciSequence.genruntimeconfig.cache
