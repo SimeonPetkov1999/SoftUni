@@ -21,7 +21,7 @@ namespace _11.ArrayManipulator
                 if (command[0] == "exchange")
                 {
                     int index = int.Parse(command[1]);
-                    if (index > array.Length)
+                    if (index > array.Length || index < 0)
                     {
                         Console.WriteLine("Invalid index");
                     }
@@ -88,11 +88,12 @@ namespace _11.ArrayManipulator
                 }
                 if (command[0] == "min")
                 {
-                    int indexMinEven = int.MaxValue;
-                    int minEven = int.MaxValue;
-                    int minOdd = int.MaxValue;
+                    
+                   
                     if (command[1] == "even")
                     {
+                        int indexMinEven = int.MaxValue;
+                        int minEven = int.MaxValue;
                         for (int i = 0; i < array.Length; i++)
                         {
                             if (array[i] % 2 == 0)
@@ -117,6 +118,7 @@ namespace _11.ArrayManipulator
 
                     else if (command[1] == "odd")
                     {
+                        int minOdd = int.MaxValue;
                         int indexMinOdd = int.MaxValue;
                         for (int i = 0; i < array.Length; i++)
                         {
@@ -144,8 +146,7 @@ namespace _11.ArrayManipulator
                 if (command[0] == "first")
                 {
                     int count = int.Parse(command[1]);
-                    string[] result = new string[count];
-                    int indexString = 0;
+                    string result = string.Empty;
                     if (count > array.Length)
                     {
                         Console.WriteLine("Invalid count");
@@ -165,25 +166,25 @@ namespace _11.ArrayManipulator
                                 }
                                 if (array[i] % 2 == 0)
                                 {
-                                    result[indexString++] = array[i].ToString();
+                                    result += array[i] + " ";
                                     currentEvens++;
                                 }
                             }
+                            var resultStringar = result.Split(' ', StringSplitOptions.RemoveEmptyEntries);
                             if (currentEvens == 0)
                             {
                                 Console.WriteLine("[]");
                             }
                             else
                             {
-                                Console.WriteLine("[" + string.Join(", ", result) + "]");
+                                Console.WriteLine("[" + string.Join(", ", resultStringar) + "]");
                             }
                         }
 
 
                         if (command[2] == "odd")
                         {
-                            indexString = 0;
-                            result = new string[count];
+                            result = string.Empty;
                             for (int i = 0; i < array.Length; i++)
                             {
                                 if (currentOdds >= count)
@@ -192,18 +193,19 @@ namespace _11.ArrayManipulator
                                 }
                                 if (array[i] % 2 != 0)
                                 {
-                                    result[indexString++] = array[i].ToString();
+                                    result += array[i] + " ";
                                     currentOdds++;
                                 }
                             }
                         }
+                        var resultStringarr = result.Split(' ', StringSplitOptions.RemoveEmptyEntries);
                         if (currentOdds == 0)
                         {
                             Console.WriteLine("[]");
                         }
                         else
                         {
-                            Console.WriteLine("[" + string.Join(", ", result) + "]");
+                            Console.WriteLine("[" + string.Join(", ", resultStringarr) + "]");
                         }
                     }
                 }
@@ -212,19 +214,16 @@ namespace _11.ArrayManipulator
                 if (command[0] == "last")
                 {
                     int count = int.Parse(command[1]);
-                    string[] result = new string[count];
-                    int indexString = 0;
+                    string result = string.Empty;
                     if (count > array.Length)
                     {
                         Console.WriteLine("Invalid count");
                     }
                     else
-                    {
-                        int currentEvens = 0;
-                        int currentOdds = 0;
+                    {                    
                         if (command[2] == "even")
                         {
-
+                            int currentEvens = 0;
                             for (int i = array.Length - 1; i >= 0; i--)
                             {
                                 if (currentEvens >= count)
@@ -233,25 +232,26 @@ namespace _11.ArrayManipulator
                                 }
                                 if (array[i] % 2 == 0)
                                 {
-                                    result[indexString++] = array[i].ToString();
+                                    result += array[i] + " ";
                                     currentEvens++;
                                 }
                             }
+                            var resultStringarr = result.Split(' ', StringSplitOptions.RemoveEmptyEntries);
                             if (currentEvens == 0)
                             {
                                 Console.WriteLine("[]");
                             }
                             else
                             {
-                                Console.WriteLine("[" + string.Join(", ", result) + "]");
+                                Console.WriteLine("[" + string.Join(", ", resultStringarr) + "]");
                             }
                         }
 
 
                         else if (command[2] == "odd")
                         {
-                            indexString = 0;
-                            result = new string[count];
+                            int currentOdds = 0;
+                            result = string.Empty;
                             for (int i = array.Length - 1; i >= 0; i--)
                             {
                                 if (currentOdds >= count)
@@ -260,18 +260,18 @@ namespace _11.ArrayManipulator
                                 }
                                 if (array[i] % 2 != 0)
                                 {
-                                    result[indexString++] = array[i].ToString();
+                                    result += array[i] + " ";
                                     currentOdds++;
                                 }
                             }
+                            var resultStringarr = result.Split(' ', StringSplitOptions.RemoveEmptyEntries).Reverse();
                             if (currentOdds == 0)
                             {
                                 Console.WriteLine("[]");
                             }
                             else
                             {
-                                Array.Reverse(result);
-                                Console.WriteLine("[" + string.Join(", ", result) + "]");
+                                Console.WriteLine("[" + string.Join(", ", resultStringarr) + "]");
                             }
                         }
                     }

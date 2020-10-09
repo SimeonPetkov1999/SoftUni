@@ -10,3 +10,4 @@ D:\SoftUni\C# Fundamentals\METHODS\MethodsExercise\05.AddAndSubtract\obj\Debug\n
 D:\SoftUni\C# Fundamentals\METHODS\MethodsExercise\05.AddAndSubtract\obj\Debug\netcoreapp3.1\05.AddAndSubtract.dll
 D:\SoftUni\C# Fundamentals\METHODS\MethodsExercise\05.AddAndSubtract\obj\Debug\netcoreapp3.1\05.AddAndSubtract.pdb
 D:\SoftUni\C# Fundamentals\METHODS\MethodsExercise\05.AddAndSubtract\obj\Debug\netcoreapp3.1\05.AddAndSubtract.genruntimeconfig.cache
+D:\SoftUni\C# Fundamentals\METHODS\MethodsExercise\05.AddAndSubtract\obj\Debug\netcoreapp3.1\05.AddAndSubtract.csprojAssemblyReference.cache
