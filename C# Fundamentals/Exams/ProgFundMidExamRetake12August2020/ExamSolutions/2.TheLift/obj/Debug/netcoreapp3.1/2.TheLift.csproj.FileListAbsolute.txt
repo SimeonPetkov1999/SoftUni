@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\2.TheLift\bin\Debug\netcoreapp3.1\2.TheLift.exe
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\2.TheLift\bin\Debug\netcoreapp3.1\2.TheLift.deps.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\2.TheLift\bin\Debug\netcoreapp3.1\2.TheLift.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\2.TheLift\bin\Debug\netcoreapp3.1\2.TheLift.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\2.TheLift\bin\Debug\netcoreapp3.1\2.TheLift.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\2.TheLift\bin\Debug\netcoreapp3.1\2.TheLift.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\2.TheLift\obj\Debug\netcoreapp3.1\2.TheLift.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\2.TheLift\obj\Debug\netcoreapp3.1\2.TheLift.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\2.TheLift\obj\Debug\netcoreapp3.1\2.TheLift.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\2.TheLift\obj\Debug\netcoreapp3.1\2.TheLift.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\2.TheLift\obj\Debug\netcoreapp3.1\2.TheLift.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\2.TheLift\obj\Debug\netcoreapp3.1\2.TheLift.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake12August2020\ExamSolutions\2.TheLift\obj\Debug\netcoreapp3.1\2.TheLift.genruntimeconfig.cache
