@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.exe
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.deps.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.exe
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.deps.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.genruntimeconfig.cache
