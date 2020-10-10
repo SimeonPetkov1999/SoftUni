@@ -12,17 +12,18 @@ namespace _2.TheLift
             int peopleOnTheCurrentWagon = 0;
             int peopleonTheLyft = 0;
             bool NoMorePeople = false;
+
             for (int i = 0; i < wagon.Length; i++)
             {
                 while (wagon[i] < 4)
                 {
+                    wagon[i]++;
+                    peopleOnTheCurrentWagon++;
                     if (peopleonTheLyft + peopleOnTheCurrentWagon == peopleWaitingForLyft)
                     {
                         NoMorePeople = true;
                         break;
                     }
-                    wagon[i]++;
-                    peopleOnTheCurrentWagon++;
                 }
                 peopleonTheLyft += peopleOnTheCurrentWagon;
                 if (NoMorePeople)
@@ -31,17 +32,18 @@ namespace _2.TheLift
                 }
                 peopleOnTheCurrentWagon = 0;
             }
+
             if (peopleWaitingForLyft > peopleonTheLyft)
             {
                 Console.WriteLine($"There isn't enough space! {peopleWaitingForLyft - peopleonTheLyft} people in a queue!");
                 Console.WriteLine(string.Join(" ", wagon));
-            }          
-            else if (peopleonTheLyft < wagon.Length * 4)
+            }
+            else if (peopleWaitingForLyft < wagon.Length * 4 && wagon.Any(w => w < 4))
             {
                 Console.WriteLine("The lift has empty spots!");
                 Console.WriteLine(string.Join(" ", wagon));
-            }
-            else if (peopleonTheLyft == peopleWaitingForLyft && NoMorePeople == true)
+            }     
+            else if (wagon.All(w => w == 4) && NoMorePeople == true)
             {
                 Console.WriteLine(string.Join(" ", wagon));
             }
