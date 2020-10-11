@@ -9,12 +9,25 @@ namespace _02.GaussTrick
         static void Main(string[] args)
         {
             List<int> numbers = Console.ReadLine().Split().Select(int.Parse).ToList();
-            for (int i = 0; i <= numbers.Count / 2; i++)
+
+
+            Console.WriteLine(string.Join(" ",SumPairs(numbers)));
+
+        }
+
+        static List<int> SumPairs(List<int> numbers) 
+        {
+            List<int> result = new List<int>();
+
+            for (int i = 0; i < numbers.Count/2; i++)
             {
-                numbers[i] = numbers[i] + numbers[numbers.Count - 1];
-                numbers.RemoveAt(numbers.Count - 1);
+                result.Add(numbers[i] + numbers[numbers.Count-i-1]);
             }
-            Console.WriteLine(string.Join(" ", numbers));
+            if (numbers.Count%2!=0)
+            {
+                result.Add(numbers[numbers.Count / 2]);
+            }
+            return result;
         }
     }
 }

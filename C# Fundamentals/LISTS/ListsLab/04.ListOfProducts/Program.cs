@@ -17,7 +17,7 @@ namespace _04.ListOfProducts
                 products.Add(input);
             }
 
-            products.Reverse();
+            products.Sort();
             for (int i = 0; i < products.Count; i++)
             {
                 Console.WriteLine($"{i+1}.{products[i]}");

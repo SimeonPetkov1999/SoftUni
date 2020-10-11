@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SumAdjacentEqualNumbers", "01.SumAdjacentEqualNumbers\01.SumAdjacentEqualNumbers.csproj", "{D6B0A2C3-ABEC-45B6-85DB-C56C084AA32D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SumAdjacentEqualNumbers", "01.SumAdjacentEqualNumbers\01.SumAdjacentEqualNumbers.csproj", "{D6B0A2C3-ABEC-45B6-85DB-C56C084AA32D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GaussTrick", "02.GaussTrick\02.GaussTrick.csproj", "{0B6AE2DA-EFB1-4209-9BDF-42D188FC4F5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.GaussTrick", "02.GaussTrick\02.GaussTrick.csproj", "{0B6AE2DA-EFB1-4209-9BDF-42D188FC4F5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MergingLists", "03.MergingLists\03.MergingLists.csproj", "{25CE3ABA-C31E-41B0-B17E-B692A1FC7334}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.MergingLists", "03.MergingLists\03.MergingLists.csproj", "{25CE3ABA-C31E-41B0-B17E-B692A1FC7334}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ListOfProducts", "04.ListOfProducts\04.ListOfProducts.csproj", "{B1988659-BBED-4E71-96E5-6CCAAA08AA25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.ListOfProducts", "04.ListOfProducts\04.ListOfProducts.csproj", "{B1988659-BBED-4E71-96E5-6CCAAA08AA25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.RemoveNegativesAndReverse", "05.RemoveNegativesAndReverse\05.RemoveNegativesAndReverse.csproj", "{ED84CEAB-00AA-462A-974B-B8F241C9B29B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ListManipulationBasics", "06.ListManipulationBasics\06.ListManipulationBasics.csproj", "{A36A1EC3-848C-41C1-B4A9-5C69D16AC502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ListManipulationAdvanced", "07.ListManipulationAdvanced\07.ListManipulationAdvanced.csproj", "{B7D3B32D-1473-4A02-B124-1E84C7FEF225}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{B1988659-BBED-4E71-96E5-6CCAAA08AA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1988659-BBED-4E71-96E5-6CCAAA08AA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1988659-BBED-4E71-96E5-6CCAAA08AA25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED84CEAB-00AA-462A-974B-B8F241C9B29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED84CEAB-00AA-462A-974B-B8F241C9B29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED84CEAB-00AA-462A-974B-B8F241C9B29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED84CEAB-00AA-462A-974B-B8F241C9B29B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A36A1EC3-848C-41C1-B4A9-5C69D16AC502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36A1EC3-848C-41C1-B4A9-5C69D16AC502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36A1EC3-848C-41C1-B4A9-5C69D16AC502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36A1EC3-848C-41C1-B4A9-5C69D16AC502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D3B32D-1473-4A02-B124-1E84C7FEF225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D3B32D-1473-4A02-B124-1E84C7FEF225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D3B32D-1473-4A02-B124-1E84C7FEF225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D3B32D-1473-4A02-B124-1E84C7FEF225}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
