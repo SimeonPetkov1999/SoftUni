@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\03.HouseParty\bin\Debug\netcoreapp3.1\03.HouseParty.exe
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\03.HouseParty\bin\Debug\netcoreapp3.1\03.HouseParty.deps.json
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\03.HouseParty\bin\Debug\netcoreapp3.1\03.HouseParty.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\03.HouseParty\bin\Debug\netcoreapp3.1\03.HouseParty.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\03.HouseParty\bin\Debug\netcoreapp3.1\03.HouseParty.dll
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\03.HouseParty\bin\Debug\netcoreapp3.1\03.HouseParty.pdb
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.dll
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.pdb
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.genruntimeconfig.cache

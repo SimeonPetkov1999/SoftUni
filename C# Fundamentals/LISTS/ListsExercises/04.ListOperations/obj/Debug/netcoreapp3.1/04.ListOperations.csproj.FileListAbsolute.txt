@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\04.ListOperations\bin\Debug\netcoreapp3.1\04.ListOperations.exe
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\04.ListOperations\bin\Debug\netcoreapp3.1\04.ListOperations.deps.json
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\04.ListOperations\bin\Debug\netcoreapp3.1\04.ListOperations.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\04.ListOperations\bin\Debug\netcoreapp3.1\04.ListOperations.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\04.ListOperations\bin\Debug\netcoreapp3.1\04.ListOperations.dll
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\04.ListOperations\bin\Debug\netcoreapp3.1\04.ListOperations.pdb
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.dll
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.pdb
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\04.ListOperations\obj\Debug\netcoreapp3.1\04.ListOperations.genruntimeconfig.cache

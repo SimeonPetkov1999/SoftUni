@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\02.ChangeList\bin\Debug\netcoreapp3.1\02.ChangeList.exe
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\02.ChangeList\bin\Debug\netcoreapp3.1\02.ChangeList.deps.json
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\02.ChangeList\bin\Debug\netcoreapp3.1\02.ChangeList.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\02.ChangeList\bin\Debug\netcoreapp3.1\02.ChangeList.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\02.ChangeList\bin\Debug\netcoreapp3.1\02.ChangeList.dll
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\02.ChangeList\bin\Debug\netcoreapp3.1\02.ChangeList.pdb
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.dll
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.pdb
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\02.ChangeList\obj\Debug\netcoreapp3.1\02.ChangeList.genruntimeconfig.cache

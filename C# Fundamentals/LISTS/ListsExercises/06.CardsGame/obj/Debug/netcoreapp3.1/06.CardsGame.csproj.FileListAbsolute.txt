@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.exe
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.deps.json
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.dll
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\06.CardsGame\bin\Debug\netcoreapp3.1\06.CardsGame.pdb
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.dll
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.pdb
+D:\SoftUni\C# Fundamentals\LISTS\ListsExercises\06.CardsGame\obj\Debug\netcoreapp3.1\06.CardsGame.genruntimeconfig.cache

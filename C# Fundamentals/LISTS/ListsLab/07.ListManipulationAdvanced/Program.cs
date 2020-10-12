@@ -93,8 +93,6 @@ namespace _06.ListManipulationBasics
                 PrintList(numbers);
             }
         }
-
-        
         static void PrintList(List<int> numbers)
         {
             Console.WriteLine(string.Join(" ", numbers));
