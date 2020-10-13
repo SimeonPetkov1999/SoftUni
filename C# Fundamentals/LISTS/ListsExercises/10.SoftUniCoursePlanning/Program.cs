@@ -60,13 +60,13 @@ namespace _10.SoftUniCoursePlanning
                             {
                                 indexTwo = i;
                             }
-                        }                   
+                        }
                         string temp = schedule[indexOne];
                         schedule[indexOne] = schedule[indexTwo];
                         schedule[indexTwo] = temp;
 
                         if (Exist(schedule, $"{lesonTittleOne}-Exercise"))
-                        {  
+                        {
                             schedule.RemoveAt(indexOne + 1);
                             schedule.Insert(indexTwo + 1, $"{lesonTittleOne}-Exercise");
                         }
@@ -79,11 +79,11 @@ namespace _10.SoftUniCoursePlanning
                     }
                 }
 
-                else if (command[0]=="Exercise")
+                else if (command[0] == "Exercise")
                 {
                     string lesonTittle = command[1];
                     int indexLesson = -1;
-                    if (Exist(schedule,lesonTittle))
+                    if (Exist(schedule, lesonTittle))
                     {
                         if (!Exist(schedule, $"{lesonTittle}-Exercise"))
                         {
@@ -108,14 +108,14 @@ namespace _10.SoftUniCoursePlanning
 
             for (int i = 0; i < schedule.Count; i++)
             {
-                Console.WriteLine($"{i+1}.{schedule[i]}");
+                Console.WriteLine($"{i + 1}.{schedule[i]}");
             }
         }
         static bool Exist(List<string> schedule, string lesson)
         {
             for (int i = 0; i < schedule.Count; i++)
             {
-                if (lesson==schedule[i])
+                if (lesson == schedule[i])
                 {
                     return true;
                 }
