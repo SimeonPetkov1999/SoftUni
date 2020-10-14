@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SoftUniReception", "01.SoftUniReception\01.SoftUniReception.csproj", "{52F4684C-9AC6-48F8-A589-B95F18C5D552}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ArrayModifier", "02.ArrayModifier\02.ArrayModifier.csproj", "{ABD0D957-F8F0-49DC-8A20-EDF9D8D41421}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.ArrayModifier", "02.ArrayModifier\02.ArrayModifier.csproj", "{ABD0D957-F8F0-49DC-8A20-EDF9D8D41421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Numbers", "03.Numbers\03.Numbers.csproj", "{E7DAD533-08A0-46C9-9952-4BC15E67E6C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{ABD0D957-F8F0-49DC-8A20-EDF9D8D41421}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABD0D957-F8F0-49DC-8A20-EDF9D8D41421}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABD0D957-F8F0-49DC-8A20-EDF9D8D41421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7DAD533-08A0-46C9-9952-4BC15E67E6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DAD533-08A0-46C9-9952-4BC15E67E6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DAD533-08A0-46C9-9952-4BC15E67E6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DAD533-08A0-46C9-9952-4BC15E67E6C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

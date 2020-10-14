@@ -21,7 +21,6 @@ namespace _02.ArrayModifier
                 int index2 = 0;
                 if (input != "decrease")
                 {
-
                     command = commands[0];
                     index1 = int.Parse(commands[1]);
                     index2 = int.Parse(commands[2]);
