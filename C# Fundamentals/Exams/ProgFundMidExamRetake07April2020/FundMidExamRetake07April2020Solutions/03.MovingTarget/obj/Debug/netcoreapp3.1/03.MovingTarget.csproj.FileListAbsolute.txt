@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\03.MovingTarget\bin\Debug\netcoreapp3.1\03.MovingTarget.exe
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\03.MovingTarget\bin\Debug\netcoreapp3.1\03.MovingTarget.deps.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\03.MovingTarget\bin\Debug\netcoreapp3.1\03.MovingTarget.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\03.MovingTarget\bin\Debug\netcoreapp3.1\03.MovingTarget.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\03.MovingTarget\bin\Debug\netcoreapp3.1\03.MovingTarget.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\03.MovingTarget\bin\Debug\netcoreapp3.1\03.MovingTarget.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake07April2020\FundMidExamRetake07April2020Solutions\03.MovingTarget\obj\Debug\netcoreapp3.1\03.MovingTarget.genruntimeconfig.cache
