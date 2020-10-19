@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\01.DisneylandJourney\bin\Debug\netcoreapp3.1\01.DisneylandJourney.exe
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\01.DisneylandJourney\bin\Debug\netcoreapp3.1\01.DisneylandJourney.deps.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\01.DisneylandJourney\bin\Debug\netcoreapp3.1\01.DisneylandJourney.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\01.DisneylandJourney\bin\Debug\netcoreapp3.1\01.DisneylandJourney.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\01.DisneylandJourney\bin\Debug\netcoreapp3.1\01.DisneylandJourney.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\01.DisneylandJourney\bin\Debug\netcoreapp3.1\01.DisneylandJourney.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\01.DisneylandJourney\obj\Debug\netcoreapp3.1\01.DisneylandJourney.genruntimeconfig.cache

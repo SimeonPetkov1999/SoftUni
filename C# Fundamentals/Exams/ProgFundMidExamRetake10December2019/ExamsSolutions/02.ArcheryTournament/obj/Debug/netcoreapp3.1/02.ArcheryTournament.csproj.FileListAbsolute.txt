@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\02.ArcheryTournament\bin\Debug\netcoreapp3.1\02.ArcheryTournament.exe
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\02.ArcheryTournament\bin\Debug\netcoreapp3.1\02.ArcheryTournament.deps.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\02.ArcheryTournament\bin\Debug\netcoreapp3.1\02.ArcheryTournament.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\02.ArcheryTournament\bin\Debug\netcoreapp3.1\02.ArcheryTournament.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\02.ArcheryTournament\bin\Debug\netcoreapp3.1\02.ArcheryTournament.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\02.ArcheryTournament\bin\Debug\netcoreapp3.1\02.ArcheryTournament.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\02.ArcheryTournament\obj\Debug\netcoreapp3.1\02.ArcheryTournament.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\02.ArcheryTournament\obj\Debug\netcoreapp3.1\02.ArcheryTournament.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\02.ArcheryTournament\obj\Debug\netcoreapp3.1\02.ArcheryTournament.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\02.ArcheryTournament\obj\Debug\netcoreapp3.1\02.ArcheryTournament.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\02.ArcheryTournament\obj\Debug\netcoreapp3.1\02.ArcheryTournament.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\02.ArcheryTournament\obj\Debug\netcoreapp3.1\02.ArcheryTournament.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\02.ArcheryTournament\obj\Debug\netcoreapp3.1\02.ArcheryTournament.genruntimeconfig.cache

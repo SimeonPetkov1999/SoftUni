@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\03.SchoolLibrary\bin\Debug\netcoreapp3.1\03.SchoolLibrary.exe
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\03.SchoolLibrary\bin\Debug\netcoreapp3.1\03.SchoolLibrary.deps.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\03.SchoolLibrary\bin\Debug\netcoreapp3.1\03.SchoolLibrary.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\03.SchoolLibrary\bin\Debug\netcoreapp3.1\03.SchoolLibrary.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\03.SchoolLibrary\bin\Debug\netcoreapp3.1\03.SchoolLibrary.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\03.SchoolLibrary\bin\Debug\netcoreapp3.1\03.SchoolLibrary.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\03.SchoolLibrary\obj\Debug\netcoreapp3.1\03.SchoolLibrary.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\03.SchoolLibrary\obj\Debug\netcoreapp3.1\03.SchoolLibrary.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\03.SchoolLibrary\obj\Debug\netcoreapp3.1\03.SchoolLibrary.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\03.SchoolLibrary\obj\Debug\netcoreapp3.1\03.SchoolLibrary.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\03.SchoolLibrary\obj\Debug\netcoreapp3.1\03.SchoolLibrary.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\03.SchoolLibrary\obj\Debug\netcoreapp3.1\03.SchoolLibrary.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExamRetake10December2019\ExamsSolutions\03.SchoolLibrary\obj\Debug\netcoreapp3.1\03.SchoolLibrary.genruntimeconfig.cache
