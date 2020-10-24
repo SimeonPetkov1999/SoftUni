@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.exe
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.deps.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\03.Inventory\bin\Debug\netcoreapp3.1\03.Inventory.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\03.Inventory\obj\Debug\netcoreapp3.1\03.Inventory.genruntimeconfig.cache

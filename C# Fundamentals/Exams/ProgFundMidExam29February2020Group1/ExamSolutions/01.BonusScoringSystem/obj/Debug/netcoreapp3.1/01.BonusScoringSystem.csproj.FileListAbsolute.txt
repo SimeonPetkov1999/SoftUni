@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.exe
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.deps.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\01.BonusScoringSystem\bin\Debug\netcoreapp3.1\01.BonusScoringSystem.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group1\ExamSolutions\01.BonusScoringSystem\obj\Debug\netcoreapp3.1\01.BonusScoringSystem.genruntimeconfig.cache
