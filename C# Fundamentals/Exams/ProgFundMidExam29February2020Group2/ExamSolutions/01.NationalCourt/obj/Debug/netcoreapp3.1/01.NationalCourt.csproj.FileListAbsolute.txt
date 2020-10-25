@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\01.NationalCourt\bin\Debug\netcoreapp3.1\01.NationalCourt.exe
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\01.NationalCourt\bin\Debug\netcoreapp3.1\01.NationalCourt.deps.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\01.NationalCourt\bin\Debug\netcoreapp3.1\01.NationalCourt.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\01.NationalCourt\bin\Debug\netcoreapp3.1\01.NationalCourt.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\01.NationalCourt\bin\Debug\netcoreapp3.1\01.NationalCourt.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\01.NationalCourt\bin\Debug\netcoreapp3.1\01.NationalCourt.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\01.NationalCourt\obj\Debug\netcoreapp3.1\01.NationalCourt.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\01.NationalCourt\obj\Debug\netcoreapp3.1\01.NationalCourt.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\01.NationalCourt\obj\Debug\netcoreapp3.1\01.NationalCourt.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\01.NationalCourt\obj\Debug\netcoreapp3.1\01.NationalCourt.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\01.NationalCourt\obj\Debug\netcoreapp3.1\01.NationalCourt.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\01.NationalCourt\obj\Debug\netcoreapp3.1\01.NationalCourt.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\01.NationalCourt\obj\Debug\netcoreapp3.1\01.NationalCourt.genruntimeconfig.cache

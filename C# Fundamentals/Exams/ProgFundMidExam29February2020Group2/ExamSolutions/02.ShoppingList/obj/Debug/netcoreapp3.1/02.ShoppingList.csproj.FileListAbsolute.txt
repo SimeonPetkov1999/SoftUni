@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.exe
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.deps.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.dll
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.pdb
+D:\SoftUni\C# Fundamentals\Exams\ProgFundMidExam29February2020Group2\ExamSolutions\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.genruntimeconfig.cache
