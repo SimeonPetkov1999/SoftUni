@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\01.EasterCozonacs\bin\Debug\netcoreapp3.1\01.EasterCozonacs.exe
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\01.EasterCozonacs\bin\Debug\netcoreapp3.1\01.EasterCozonacs.deps.json
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\01.EasterCozonacs\bin\Debug\netcoreapp3.1\01.EasterCozonacs.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\01.EasterCozonacs\bin\Debug\netcoreapp3.1\01.EasterCozonacs.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\01.EasterCozonacs\bin\Debug\netcoreapp3.1\01.EasterCozonacs.dll
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\01.EasterCozonacs\bin\Debug\netcoreapp3.1\01.EasterCozonacs.pdb
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\01.EasterCozonacs\obj\Debug\netcoreapp3.1\01.EasterCozonacs.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\01.EasterCozonacs\obj\Debug\netcoreapp3.1\01.EasterCozonacs.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\01.EasterCozonacs\obj\Debug\netcoreapp3.1\01.EasterCozonacs.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\01.EasterCozonacs\obj\Debug\netcoreapp3.1\01.EasterCozonacs.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\01.EasterCozonacs\obj\Debug\netcoreapp3.1\01.EasterCozonacs.dll
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\01.EasterCozonacs\obj\Debug\netcoreapp3.1\01.EasterCozonacs.pdb
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\01.EasterCozonacs\obj\Debug\netcoreapp3.1\01.EasterCozonacs.genruntimeconfig.cache
