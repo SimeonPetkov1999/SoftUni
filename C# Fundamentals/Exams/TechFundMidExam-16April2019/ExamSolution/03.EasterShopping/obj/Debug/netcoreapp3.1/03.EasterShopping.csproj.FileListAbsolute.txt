@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\03.EasterShopping\bin\Debug\netcoreapp3.1\03.EasterShopping.exe
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\03.EasterShopping\bin\Debug\netcoreapp3.1\03.EasterShopping.deps.json
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\03.EasterShopping\bin\Debug\netcoreapp3.1\03.EasterShopping.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\03.EasterShopping\bin\Debug\netcoreapp3.1\03.EasterShopping.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\03.EasterShopping\bin\Debug\netcoreapp3.1\03.EasterShopping.dll
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\03.EasterShopping\bin\Debug\netcoreapp3.1\03.EasterShopping.pdb
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\03.EasterShopping\obj\Debug\netcoreapp3.1\03.EasterShopping.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\03.EasterShopping\obj\Debug\netcoreapp3.1\03.EasterShopping.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\03.EasterShopping\obj\Debug\netcoreapp3.1\03.EasterShopping.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\03.EasterShopping\obj\Debug\netcoreapp3.1\03.EasterShopping.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\03.EasterShopping\obj\Debug\netcoreapp3.1\03.EasterShopping.dll
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\03.EasterShopping\obj\Debug\netcoreapp3.1\03.EasterShopping.pdb
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\03.EasterShopping\obj\Debug\netcoreapp3.1\03.EasterShopping.genruntimeconfig.cache

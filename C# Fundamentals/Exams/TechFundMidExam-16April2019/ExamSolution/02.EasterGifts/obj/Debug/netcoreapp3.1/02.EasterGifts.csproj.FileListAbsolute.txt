@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\02.EasterGifts\bin\Debug\netcoreapp3.1\02.EasterGifts.exe
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\02.EasterGifts\bin\Debug\netcoreapp3.1\02.EasterGifts.deps.json
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\02.EasterGifts\bin\Debug\netcoreapp3.1\02.EasterGifts.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\02.EasterGifts\bin\Debug\netcoreapp3.1\02.EasterGifts.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\02.EasterGifts\bin\Debug\netcoreapp3.1\02.EasterGifts.dll
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\02.EasterGifts\bin\Debug\netcoreapp3.1\02.EasterGifts.pdb
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\02.EasterGifts\obj\Debug\netcoreapp3.1\02.EasterGifts.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\02.EasterGifts\obj\Debug\netcoreapp3.1\02.EasterGifts.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\02.EasterGifts\obj\Debug\netcoreapp3.1\02.EasterGifts.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\02.EasterGifts\obj\Debug\netcoreapp3.1\02.EasterGifts.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\02.EasterGifts\obj\Debug\netcoreapp3.1\02.EasterGifts.dll
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\02.EasterGifts\obj\Debug\netcoreapp3.1\02.EasterGifts.pdb
+D:\SoftUni\C# Fundamentals\Exams\TechFundMidExam-16April2019\ExamSolution\02.EasterGifts\obj\Debug\netcoreapp3.1\02.EasterGifts.genruntimeconfig.cache
