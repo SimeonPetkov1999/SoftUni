@@ -20,13 +20,14 @@ namespace _02.EasterGifts
                     case "OutOfStock":
                         if (giftsList.Contains(gift))
                         {
-                            for (int i = 0; i < giftsList.Length; i++)
-                            {
-                                if (giftsList[i] == gift)
-                                {
-                                    giftsList[i] = "None";
-                                }
-                            }                       
+                            giftsList = giftsList.Select(item =>
+                           {
+                               if (item == gift)
+                               {
+                                   return "None";
+                               }
+                               return item;
+                           }).ToArray();
                         }
                         break;
                     case "Required":
