@@ -1,0 +1,13 @@
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Exercise\02.MinerTask\bin\Debug\netcoreapp3.1\02.MinerTask.exe
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Exercise\02.MinerTask\bin\Debug\netcoreapp3.1\02.MinerTask.deps.json
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Exercise\02.MinerTask\bin\Debug\netcoreapp3.1\02.MinerTask.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Exercise\02.MinerTask\bin\Debug\netcoreapp3.1\02.MinerTask.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Exercise\02.MinerTask\bin\Debug\netcoreapp3.1\02.MinerTask.dll
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Exercise\02.MinerTask\bin\Debug\netcoreapp3.1\02.MinerTask.pdb
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Exercise\02.MinerTask\obj\Debug\netcoreapp3.1\02.MinerTask.csprojAssemblyReference.cache
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Exercise\02.MinerTask\obj\Debug\netcoreapp3.1\02.MinerTask.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Exercise\02.MinerTask\obj\Debug\netcoreapp3.1\02.MinerTask.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Exercise\02.MinerTask\obj\Debug\netcoreapp3.1\02.MinerTask.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Exercise\02.MinerTask\obj\Debug\netcoreapp3.1\02.MinerTask.dll
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Exercise\02.MinerTask\obj\Debug\netcoreapp3.1\02.MinerTask.pdb
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Exercise\02.MinerTask\obj\Debug\netcoreapp3.1\02.MinerTask.genruntimeconfig.cache
