@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\04.Largest3Numbers\bin\Debug\netcoreapp3.1\04.Largest3Numbers.exe
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\04.Largest3Numbers\bin\Debug\netcoreapp3.1\04.Largest3Numbers.deps.json
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\04.Largest3Numbers\bin\Debug\netcoreapp3.1\04.Largest3Numbers.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\04.Largest3Numbers\bin\Debug\netcoreapp3.1\04.Largest3Numbers.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\04.Largest3Numbers\bin\Debug\netcoreapp3.1\04.Largest3Numbers.dll
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\04.Largest3Numbers\bin\Debug\netcoreapp3.1\04.Largest3Numbers.pdb
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\04.Largest3Numbers\obj\Debug\netcoreapp3.1\04.Largest3Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\04.Largest3Numbers\obj\Debug\netcoreapp3.1\04.Largest3Numbers.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\04.Largest3Numbers\obj\Debug\netcoreapp3.1\04.Largest3Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\04.Largest3Numbers\obj\Debug\netcoreapp3.1\04.Largest3Numbers.dll
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\04.Largest3Numbers\obj\Debug\netcoreapp3.1\04.Largest3Numbers.pdb
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\04.Largest3Numbers\obj\Debug\netcoreapp3.1\04.Largest3Numbers.genruntimeconfig.cache

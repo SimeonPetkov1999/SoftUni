@@ -1,0 +1,12 @@
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.exe
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.deps.json
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.runtimeconfig.json
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.runtimeconfig.dev.json
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.dll
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\03.WordSynonyms\bin\Debug\netcoreapp3.1\03.WordSynonyms.pdb
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.dll
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.pdb
+D:\SoftUni\C# Fundamentals\ASSOCIATIVE ARRAYS\AssociativeArraysLambaLinq-Lab\03.WordSynonyms\obj\Debug\netcoreapp3.1\03.WordSynonyms.genruntimeconfig.cache
