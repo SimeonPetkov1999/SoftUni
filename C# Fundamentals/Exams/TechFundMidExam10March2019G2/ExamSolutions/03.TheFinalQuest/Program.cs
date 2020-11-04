@@ -60,7 +60,7 @@ namespace _03.TheFinalQuest
                     }
                 }
 
-                else if (command=="Sort")
+                else if (command == "Sort")
                 {
                     input = input.OrderByDescending(x => x).ToList();
                 }
