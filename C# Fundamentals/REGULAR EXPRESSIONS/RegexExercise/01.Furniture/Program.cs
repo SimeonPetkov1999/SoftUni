@@ -1,39 +1,39 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace _01.Furniture
+namespace _01._Furniture
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string regex = @">>(?<name>[A-Za-z\s]+)<<(?<price>[0-9]*(.\d+)?)[0-9]*!(?<quantity>\d+)";
+            string regex = @">>(?<name>\w+)<<(?<price>\d+\.?\d*)!(?<qty>\d+)\b";
 
             string input = Console.ReadLine();
-
-            Dictionary<string, double> allMatches = new Dictionary<string, double>();
+            var items = new List<string>();
+            double totalPrice = 0.0;
 
             while (input != "Purchase")
             {
-                Match match = Regex.Match(input, regex);
-                if (match.Success)
+                Match m = Regex.Match(input, regex);
+                if (m.Success)
                 {
-                    var type = match.Groups["name"].ToString();
-                    double money = double.Parse(match.Groups["price"].Value) * int.Parse(match.Groups["quantity"].Value);
-                    allMatches.Add(type, money);
+                    var name = m.Groups["name"].Value;
+                    var price = double.Parse(m.Groups["price"].Value);
+                    var quant = int.Parse(m.Groups["qty"].Value);
+                    items.Add(name);
+                    totalPrice += price * quant;
                 }
                 input = Console.ReadLine();
             }
 
-            Console.WriteLine($"Bought furniture: ");
-            foreach (var item in allMatches)
+            Console.WriteLine($"Bought furniture:");
+            if (items.Count > 0)
             {
-                Console.WriteLine(item.Key);
+                Console.WriteLine($"{string.Join(Environment.NewLine, items)}");
             }
-            double totalSum = allMatches.Values.Sum();
-            Console.WriteLine($"Total money spend: {totalSum:f2}");
+            Console.WriteLine($"Total money spend: {totalPrice:F2}");
         }
     }
 }
