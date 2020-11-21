@@ -21,7 +21,6 @@ namespace _04.StarEnigma
                 {"Destroyed", new List<string>()}
             };
 
-
             int count = int.Parse(Console.ReadLine());
             for (int i = 0; i < count; i++)
             {
