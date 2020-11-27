@@ -50,6 +50,7 @@ namespace _02.MirrorWords
             }
         }
 
+
         public static string ReverseString(string s)
         {
             char[] arr = s.ToCharArray();
