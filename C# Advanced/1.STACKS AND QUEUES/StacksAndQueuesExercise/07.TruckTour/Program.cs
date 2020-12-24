@@ -19,36 +19,31 @@ namespace _07.TruckTour
                 queue.Enqueue(infoForPump);
             }
 
-            var currentBestPosition = 0;
-            var Bestposition = 0;
-            var shifts = 0;
-            var fuel = 0;
+            int bestPosition = 0;
             while (true)
             {
-                var currentPump = queue.Dequeue();
-                fuel += currentPump[0];
-                if (fuel - currentPump[1] < 0)//?
+                bool isFound = true;
+                int[] currentPump;
+                int fuel = 0;
+                for (int i = 0; i < n; i++)
                 {
-                    queue.Enqueue(currentPump);
-                    fuel = 0;
-                    shifts = 0;
-                    Bestposition = ++currentBestPosition;
-                    currentBestPosition = 0; ;
-                }
-                else
-                {
+                    currentPump = queue.Dequeue();
+                    fuel += currentPump[0];
+                    if (fuel < currentPump[1])
+                    {
+                        isFound = false;
+                    }
                     fuel -= currentPump[1];
                     queue.Enqueue(currentPump);
-                    shifts++;
-                    currentBestPosition++;
-                    if (shifts == n)
-                    {
-                        break;
-                    }
                 }
+                if (isFound)
+                {
+                    break;
+                }
+                bestPosition++;
+                queue.Enqueue(queue.Dequeue());
             }
-
-            Console.WriteLine(Bestposition);
+            Console.WriteLine(bestPosition);
         }
     }
 }
