@@ -29,100 +29,96 @@ namespace _9.Miner
                 }
             }
 
+            bool gameFinished = false;
             for (int i = 0; i < commands.Length; i++)
             {
                 string currentCommand = commands[i];
-                string charOnScreen = string.Empty;
+                string charOnScreen = string.Empty;         
                 if (currentCommand == "up" && currentPositionRow - 1 >= 0)
                 {
                     charOnScreen = matrix[currentPositionRow - 1, currentPositionCol];
+                    currentPositionRow--;
                     if (charOnScreen=="c")
                     {
-                        numberOfCoals--;
-                        matrix[currentPositionRow - 1, currentPositionCol]="*";
-                        if (numberOfCoals==0)
-                        {
-                            Console.WriteLine($"Win {currentPositionRow}{currentPositionCol}");//?
-                            return;
-                        }
+                        onCoal(ref numberOfCoals, ref currentPositionRow, ref currentPositionCol, matrix);
                     }
                     else if (charOnScreen=="e")
                     {
-                        Console.WriteLine($"you died {currentPositionRow}{currentPositionCol}");
-                        return;
+                        gameFinished = true;
+                        break;
                     }
                     matrix[currentPositionRow, currentPositionCol]="*";
-                    currentPositionRow--;
+                   
                 }
                 else if (currentCommand == "down" && currentPositionRow + 1 < size)
                 {
                     charOnScreen = matrix[currentPositionRow + 1, currentPositionCol];
+                    currentPositionRow++;
                     if (charOnScreen == "c")
                     {
-                        numberOfCoals--;
-                        matrix[currentPositionRow + 1, currentPositionCol] = "*";
-                        if (numberOfCoals == 0)
-                        {
-                            Console.WriteLine($"Win {currentPositionRow}{currentPositionCol}");//?
-                            return;
-                        }
+                        onCoal(ref numberOfCoals, ref currentPositionRow, ref currentPositionCol, matrix);
                     }
                     else if (charOnScreen == "e")
                     {
-                        Console.WriteLine($"you died {currentPositionRow}{currentPositionCol}");
-                        return;
+                        gameFinished = true;
+                        break;
                     }
                     matrix[currentPositionRow, currentPositionCol] = "*";
-                    currentPositionRow++;
+                   
                 }
                 else if (currentCommand == "left" && currentPositionCol - 1 >= 0)
                 {
                     charOnScreen = matrix[currentPositionRow, currentPositionCol-1];
+                    currentPositionCol--;
                     if (charOnScreen == "c")
                     {
-                        numberOfCoals--;
-                        matrix[currentPositionRow, currentPositionCol-1] = "*";
-                        if (numberOfCoals == 0)
-                        {
-                            Console.WriteLine($"Win {currentPositionRow}{currentPositionCol}");//?
-                            return;
-                        }
+                        onCoal(ref numberOfCoals, ref currentPositionRow, ref currentPositionCol, matrix);
                     }
                     else if (charOnScreen == "e")
                     {
-                        Console.WriteLine($"you died {currentPositionRow}{currentPositionCol}");
-                        return;
+                        gameFinished = true;
+                        break;
                     }
                     matrix[currentPositionRow, currentPositionCol] = "*";
-                    currentPositionCol--;
+                   
                 }
                 else if (currentCommand=="right" && currentPositionCol + 1 <size)
                 {
                      charOnScreen = matrix[currentPositionRow, currentPositionCol+1];
+                    currentPositionCol++;
                     if (charOnScreen == "c")
                     {
-                        numberOfCoals--;
-                        matrix[currentPositionRow, currentPositionCol+1] = "*";
-                        if (numberOfCoals == 0)
-                        {
-                            Console.WriteLine($"Win {currentPositionRow}{currentPositionCol}");//?
-                            return;
-                        }
+                        onCoal(ref numberOfCoals, ref currentPositionRow, ref currentPositionCol, matrix);
                     }
                     else if (charOnScreen == "e")
                     {
-                        Console.WriteLine($"you died {currentPositionRow}{currentPositionCol}");
-                        return;
+                        gameFinished = true;
+                        break;
                     }
-                    matrix[currentPositionRow, currentPositionCol] = "*";
-                    currentPositionCol++;
+                    matrix[currentPositionRow, currentPositionCol] = "*";            
                 }
-
             }
-
-            Console.WriteLine($"coals left {numberOfCoals}");
+            if (gameFinished)
+            {
+                Console.WriteLine($"Game over! ({currentPositionRow}, {currentPositionCol})");
+            }
+            else
+            {
+                Console.WriteLine($"{numberOfCoals} coals left. ({currentPositionRow}, {currentPositionCol})");
+            }   
         }
 
+        public static void onCoal(ref int numberOfCoals, ref int currentPositionRow, ref int currentPositionCol, string[,]matrix) 
+        {
+            numberOfCoals--;
+            matrix[currentPositionRow, currentPositionCol] = "*";
+            if (numberOfCoals == 0)
+            {
+                Console.WriteLine($"You collected all coals! ({currentPositionRow}, {currentPositionCol})");//?
+                Environment.Exit(0);
+            }
+
+        }
         public static int GetNumberOfCoals(string[,] matrix, int numberOfCoals)
         {
             foreach (var item in matrix)
