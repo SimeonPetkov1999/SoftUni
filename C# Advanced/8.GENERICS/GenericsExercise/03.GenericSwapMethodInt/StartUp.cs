@@ -8,12 +8,12 @@ namespace _03.GenericSwapMethodString
     {
         static void Main(string[] args)
         {
-            var list = new List<string>();
+            var list = new List<int>();
             int n = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < n; i++)
             {
-                list.Add(Console.ReadLine());
+                list.Add(int.Parse(Console.ReadLine()));
             }
 
             var indexes = Console.ReadLine()
@@ -31,7 +31,7 @@ namespace _03.GenericSwapMethodString
             }
         }
 
-        static void Swap<T>(List<T> list, int index1, int index2)
+        static void Swap<T>(List<T> list, int index1, int index2) 
         {
             var temp = list[index1];
             list[index1] = list[index2];
@@ -39,4 +39,3 @@ namespace _03.GenericSwapMethodString
         }
     }
 }
-

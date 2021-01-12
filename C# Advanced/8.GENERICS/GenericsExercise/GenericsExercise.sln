@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.GenericBoxOfInt", "01.GenericBoxOfString\01.GenericBoxOfInt.csproj", "{2269ECC2-380C-4657-81E1-31483910551C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.GenericCountMethodDoubles", "05.GenericCountMethodDoubles\05.GenericCountMethodDoubles.csproj", "{C761622C-263B-4E4E-9BE1-A95388FE4906}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GenericSwapMethodInt", "03.GenericSwapMethodString\03.GenericSwapMethodInt.csproj", "{AAF4302E-35D3-421B-B8D0-3F320BACACFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.Tuple", "07.Tuple\07.Tuple.csproj", "{64835328-A930-4410-923C-3316305A47D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.GenericCountMethodDoubles", "05.GenericCountMethodDoubles\05.GenericCountMethodDoubles.csproj", "{C761622C-263B-4E4E-9BE1-A95388FE4906}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.Threeuple", "08.Threeuple\08.Threeuple.csproj", "{30FEE2FE-3180-4ABB-BAFF-8CF2FBFA7DF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Tuple", "07.Tuple\07.Tuple.csproj", "{64835328-A930-4410-923C-3316305A47D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomDoublyLinkedList", "LinkedList\CustomDoublyLinkedList.csproj", "{108CE27E-0A3F-400C-9D56-1D5398970EA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Threeuple", "08.Threeuple\08.Threeuple.csproj", "{30FEE2FE-3180-4ABB-BAFF-8CF2FBFA7DF4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GenericBoxOfInteger", "02.GenericBoxOfInteger\02.GenericBoxOfInteger.csproj", "{24BAD3C1-701C-4A8B-B688-3CA179CACE19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomDoublyLinkedList", "LinkedList\CustomDoublyLinkedList.csproj", "{108CE27E-0A3F-400C-9D56-1D5398970EA6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GenericSwapMethodString", "03.GenericSwapMethodString\03.GenericSwapMethodString.csproj", "{3D79582D-0411-429A-93E8-EF77D625CC98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,14 +21,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2269ECC2-380C-4657-81E1-31483910551C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2269ECC2-380C-4657-81E1-31483910551C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2269ECC2-380C-4657-81E1-31483910551C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2269ECC2-380C-4657-81E1-31483910551C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AAF4302E-35D3-421B-B8D0-3F320BACACFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AAF4302E-35D3-421B-B8D0-3F320BACACFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AAF4302E-35D3-421B-B8D0-3F320BACACFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AAF4302E-35D3-421B-B8D0-3F320BACACFB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C761622C-263B-4E4E-9BE1-A95388FE4906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C761622C-263B-4E4E-9BE1-A95388FE4906}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C761622C-263B-4E4E-9BE1-A95388FE4906}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -45,6 +37,14 @@ Global
 		{108CE27E-0A3F-400C-9D56-1D5398970EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{108CE27E-0A3F-400C-9D56-1D5398970EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{108CE27E-0A3F-400C-9D56-1D5398970EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24BAD3C1-701C-4A8B-B688-3CA179CACE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24BAD3C1-701C-4A8B-B688-3CA179CACE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24BAD3C1-701C-4A8B-B688-3CA179CACE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24BAD3C1-701C-4A8B-B688-3CA179CACE19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D79582D-0411-429A-93E8-EF77D625CC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D79582D-0411-429A-93E8-EF77D625CC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D79582D-0411-429A-93E8-EF77D625CC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D79582D-0411-429A-93E8-EF77D625CC98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
