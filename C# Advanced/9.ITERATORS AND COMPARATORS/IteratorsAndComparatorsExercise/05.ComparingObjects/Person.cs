@@ -11,8 +11,6 @@ namespace _05.ComparingObjects
         public int Age { get; set; }
         public string Town { get; set; }
 
-        public int CountMatches { get; private set; }
-
         public Person(string name, int age, string town)
         {
             this.Name = name;
@@ -26,20 +24,15 @@ namespace _05.ComparingObjects
             var result = other.Name.CompareTo(this.Name);
             if (result == 0)
             {
-                this.CountMatches++;
-                return result;
-            }
-            result = other.Age.CompareTo(this.Age);
-
-            if (result == 0)
-            {
-                this.CountMatches++;
-                return result;
-            }
-            result = other.Town.CompareTo(this.Town);
-            if (result == 0)
-            {
-                this.CountMatches++;
+                result = other.Age.CompareTo(this.Age);
+                if (result == 0)
+                {
+                    result = other.Town.CompareTo(this.Town);
+                    if (result == 0)
+                    {
+                        return result;
+                    }
+                }
             }
             return result;
         }

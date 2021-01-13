@@ -20,22 +20,22 @@ namespace _05.ComparingObjects
             }
 
             int n = int.Parse(Console.ReadLine());
+            int matches = 0;
             var personToCompare = list[n - 1];
 
 
-            for (int i = 0; i < list.Count; i++)
+            foreach (var currentPerson in list)
             {
-                if (i + 1 == n)
+                if (personToCompare.CompareTo(currentPerson) == 0)
                 {
-                    continue;
+                    matches++;
                 }
-                var currentPerson = list[i];
-                personToCompare.CompareTo(currentPerson);
+              
             }
 
-            if (personToCompare.CountMatches>1)
+            if (matches>1)
             {
-                Console.WriteLine($"{personToCompare.CountMatches} {list.Count - personToCompare.CountMatches} {list.Count}");
+                Console.WriteLine($"{matches} {list.Count - matches} {list.Count}");
             }
             else
             {
