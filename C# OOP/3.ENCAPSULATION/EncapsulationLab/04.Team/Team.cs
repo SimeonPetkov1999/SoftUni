@@ -29,21 +29,8 @@ namespace PersonsInfo
             }
         }
 
-        public IReadOnlyList<Person> FirstTeam 
-        {
-            get 
-            {
-                return this.firstTeam.AsReadOnly(); 
-            } 
-
-        }
-        public IReadOnlyList<Person> ReserveTeam
-        {
-            get 
-            {
-                return this.reserveTeam.AsReadOnly();
-            }         
-        }
+        public IReadOnlyList<Person> FirstTeam => this.firstTeam.AsReadOnly();
+        public IReadOnlyList<Person> ReserveTeam => this.reserveTeam.AsReadOnly();
 
         public void AddPlayer(Person person) 
         {
