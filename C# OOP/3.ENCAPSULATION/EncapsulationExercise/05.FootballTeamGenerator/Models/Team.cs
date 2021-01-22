@@ -23,7 +23,7 @@ namespace _05.FootballTeamGenerator
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new InvalidOperationException("A name should not be empty.");
+                    throw new InvalidOperationException(Global.nameExeptionMessage);
                 }
                 this.name = value;
             }
@@ -38,7 +38,7 @@ namespace _05.FootballTeamGenerator
         {
             if (!this.players.Any(p=>p.Name==playerName))
             {
-                throw new InvalidOperationException($"Player {playerName} is not in {this.Name} team.");
+                throw new InvalidOperationException(String.Format(Global.removePlayerExeptionMessage,playerName,this.Name));
             }
             var toRemove = players.FirstOrDefault(p => p.Name == playerName);
             this.players.Remove(toRemove);
@@ -49,7 +49,7 @@ namespace _05.FootballTeamGenerator
             var rating = 0.0;
             foreach (var player in players)
             {
-                rating += player.SkillLevel();
+                rating += player.SkillLevel;
             }
             if (this.players.Count>0)
             {
@@ -61,6 +61,5 @@ namespace _05.FootballTeamGenerator
             }
             return (int)Math.Round(rating);
         }
-
     }
 }
