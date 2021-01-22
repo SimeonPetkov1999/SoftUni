@@ -14,4 +14,4 @@
 |**Course**|**Link**| 
 |---|---|
 |<a href="https://softuni.bg/trainings/3038/programming-basics-with-c-sharp-july-2020" > Programming Basics with C# </a> | <a href="https://softuni.bg/certificates/details/88222/47b6a368"> Link</a> |
-|<a href="https://softuni.bg/trainings/3135/csharp-fundamentals-september-2020"> C# Fundamentals  </a>| <a href="https://softuni.bg/certificates/details/94184/c48f27ec"> Link</a> |
+|<a href="https://softuni.bg/trainings/3135/csharp-fundamentals-september-2020"> C# Fundamentals  </a>| <a href="https://softuni.bg/certificates/details/96442/56ed7015"> Link</a> |
