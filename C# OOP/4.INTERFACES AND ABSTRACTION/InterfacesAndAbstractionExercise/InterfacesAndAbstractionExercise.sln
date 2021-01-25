@@ -3,15 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.PersonInfo", "PersonInfo\01.PersonInfo.csproj", "{0718B6EF-C5AD-4C34-967E-18071076D6EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.PersonInfo", "PersonInfo\01.PersonInfo.csproj", "{0718B6EF-C5AD-4C34-967E-18071076D6EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MultipleImplementation", "02.MultipleImplementation\02.MultipleImplementation.csproj", "{748CB750-208A-486D-A665-EC4B3EC0E7CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.MultipleImplementation", "02.MultipleImplementation\02.MultipleImplementation.csproj", "{748CB750-208A-486D-A665-EC4B3EC0E7CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Telephony", "03.Telephony\03.Telephony.csproj", "{86982EC4-BE72-4BB9-A7F2-6099F0A714FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Telephony", "03.Telephony\03.Telephony.csproj", "{86982EC4-BE72-4BB9-A7F2-6099F0A714FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.BorderControl", "04.BorderControl\04.BorderControl.csproj", "{BABCBF46-56F3-4488-9136-F4380DC82D50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.BorderControl", "04.BorderControl\04.BorderControl.csproj", "{BABCBF46-56F3-4488-9136-F4380DC82D50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BirthdayCelebrations", "05.BirthdayCelebrations\05.BirthdayCelebrations.csproj", "{F32C62F0-F4D9-4AF3-8A8E-4B75878BF915}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.BirthdayCelebrations", "05.BirthdayCelebrations\05.BirthdayCelebrations.csproj", "{F32C62F0-F4D9-4AF3-8A8E-4B75878BF915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.FoodShortage", "06.FoodShortage\06.FoodShortage.csproj", "{01951895-3DA9-443B-AE71-55E2B7479593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.MilitaryElite", "07.MilitaryElite\07.MilitaryElite.csproj", "{CE106041-4AD8-459A-AE6B-58D47B191E16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CollectionHierarchy", "08.CollectionHierarchy\08.CollectionHierarchy.csproj", "{EF927E7A-1F00-4BDA-AE1C-C50A0E58519A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.ExplicitInterfaces", "09.ExplicitInterfaces\09.ExplicitInterfaces.csproj", "{100EC837-B8A7-4F68-B806-E34998FDDB2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +47,22 @@ Global
 		{F32C62F0-F4D9-4AF3-8A8E-4B75878BF915}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F32C62F0-F4D9-4AF3-8A8E-4B75878BF915}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F32C62F0-F4D9-4AF3-8A8E-4B75878BF915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01951895-3DA9-443B-AE71-55E2B7479593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01951895-3DA9-443B-AE71-55E2B7479593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01951895-3DA9-443B-AE71-55E2B7479593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01951895-3DA9-443B-AE71-55E2B7479593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE106041-4AD8-459A-AE6B-58D47B191E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE106041-4AD8-459A-AE6B-58D47B191E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE106041-4AD8-459A-AE6B-58D47B191E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE106041-4AD8-459A-AE6B-58D47B191E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF927E7A-1F00-4BDA-AE1C-C50A0E58519A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF927E7A-1F00-4BDA-AE1C-C50A0E58519A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF927E7A-1F00-4BDA-AE1C-C50A0E58519A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF927E7A-1F00-4BDA-AE1C-C50A0E58519A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100EC837-B8A7-4F68-B806-E34998FDDB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100EC837-B8A7-4F68-B806-E34998FDDB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100EC837-B8A7-4F68-B806-E34998FDDB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100EC837-B8A7-4F68-B806-E34998FDDB2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
