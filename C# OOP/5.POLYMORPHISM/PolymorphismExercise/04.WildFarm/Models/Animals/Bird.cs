@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace _04.WildFarm.Models.Animals
+﻿namespace _04.WildFarm.Models.Animals
 {
     abstract class Bird : Animal
     {

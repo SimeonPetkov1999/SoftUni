@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using _04.WildFarm.Models.FoodModels.Interfaces;
 
 namespace _04.WildFarm.Models.Animals.Interfaces
 {
@@ -9,7 +7,7 @@ namespace _04.WildFarm.Models.Animals.Interfaces
         public string Name { get;}
         public double Weight { get;}
         public int FoodEaten { get;}
-
         public string ProduceSound();
+        public void Eat(IFood food);
     }
 }

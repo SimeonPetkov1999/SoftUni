@@ -7,13 +7,13 @@ namespace _01.Vehicles.Models
     class Car : Vehicle
     {
         private const double carAdditionalConsumption = 0.9;
-        public Car(double fuelQuantity, double fuelConsumption, double tankCapacity)
-            : base(fuelQuantity, fuelConsumption,tankCapacity)
+        public Car(double fuelQuantity, double fuelConsumption)
+            : base(fuelQuantity, fuelConsumption)
         {
 
         }
-        public override double FuelConsuptionPerKm
-        {
+        public override double FuelConsuptionPerKm 
+        { 
             get => base.FuelConsuptionPerKm;
             protected set
             {

@@ -10,11 +10,12 @@ namespace _01.Vehicles.Models
         private double fuelQuantity;
         private double fuelConsuption;
         private double tankCapacity;
-        public Vehicle(double fuelQuantity, double fuelConsuption,double tankCapacity)
+        public Vehicle(double fuelQuantity, double fuelConsuption, double tankCapacity)
         {
             this.TankCapacity = tankCapacity;
             this.FuelQuantity = fuelQuantity;
-            this.FuelConsuptionPerKm = fuelConsuption;            
+            this.FuelConsuptionPerKm = fuelConsuption;
+            this.Multiplier = 1;
         }
 
         public double FuelQuantity
@@ -32,7 +33,8 @@ namespace _01.Vehicles.Models
                 }
             }
         }
-        public double FuelConsuptionPerKm
+
+        public virtual double FuelConsuptionPerKm
         {
             get => this.fuelConsuption;
             protected set
@@ -50,6 +52,8 @@ namespace _01.Vehicles.Models
             }
         }
 
+        protected virtual double Multiplier { get; set; }
+
         public virtual string Drive(double km)
         {
             double fuelNeeded = km * this.FuelConsuptionPerKm;
@@ -66,11 +70,11 @@ namespace _01.Vehicles.Models
             {
                 throw new InvalidOperationException($"Fuel must be a positive number");
             }
-            if (this.TankCapacity < this.FuelQuantity + liters)
+            if (liters > this.TankCapacity)
             {
                 throw new InvalidOperationException($"Cannot fit {liters} fuel in the tank");
             }
-            this.FuelQuantity += liters;
+            this.FuelQuantity += liters * Multiplier;
         }
 
         public override string ToString()

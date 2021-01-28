@@ -7,18 +7,29 @@ namespace _01.Vehicles.Models
 {
     class Bus : Vehicle
     {
-        public Bus(double fuelQuantity, double fuelConsuption, double tankCapacity) 
-            : base(fuelQuantity, fuelConsuption+=1.4, tankCapacity)
+        private const double busAdditionalConsumption = 1.4;
+        public Bus(double fuelQuantity, double fuelConsuption, double tankCapacity)
+            : base(fuelQuantity, fuelConsuption, tankCapacity)
         {
         }
 
-        public string DriveEmpty(double km) 
+        public override double FuelConsuptionPerKm
         {
-            if (km > this.FuelQuantity)
+            get => base.FuelConsuptionPerKm;
+            protected set
+            {
+                base.FuelConsuptionPerKm = value + busAdditionalConsumption;
+            }
+        }
+
+        public string DriveEmpty(double km)
+        {
+            double fuelNeeded = (this.FuelConsuptionPerKm - busAdditionalConsumption) * km;
+            if (fuelNeeded > this.FuelQuantity)
             {
                 throw new InvalidOperationException(string.Format(ExeptionMessages.refuelExeption, this.GetType().Name));
             }
-            this.FuelQuantity -= km;
+            this.FuelQuantity -= fuelNeeded;
             return $"{this.GetType().Name} travelled {km} km";
         }
     }

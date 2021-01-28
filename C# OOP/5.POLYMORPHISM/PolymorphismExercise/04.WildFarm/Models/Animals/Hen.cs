@@ -1,8 +1,9 @@
-﻿using _04.WildFarm.Common;
-using _04.WildFarm.Models.FoodModels;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Text;
+
+using _04.WildFarm.Common;
+using _04.WildFarm.Models.FoodModels;
+
 
 namespace _04.WildFarm.Models.Animals
 {
@@ -13,12 +14,17 @@ namespace _04.WildFarm.Models.Animals
         {
         }
 
-        public override void Eat(Food food)
+        public override double WeightMultiplier => GlobalConstants.HenWeightIncreaseValue;
+
+        public override ICollection<Type> FoodForAnimal
         {
-            int foodQuantity = food.Quantity;
-            string foodName = food.GetType().Name;
-            this.Weight += foodQuantity * GlobalConstants.HenWeightIncreaseValue;
-            this.FoodEaten += foodQuantity;
+            get => new List<Type>
+            {
+                typeof(Meat),
+                typeof(Seeds),
+                typeof(Fruit),
+                typeof(Vegetable)
+            };
         }
 
         public override string ProduceSound()

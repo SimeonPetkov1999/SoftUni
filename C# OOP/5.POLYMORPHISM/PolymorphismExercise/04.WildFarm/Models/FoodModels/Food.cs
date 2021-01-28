@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using _04.WildFarm.Models.FoodModels.Interfaces;
 
 namespace _04.WildFarm.Models.FoodModels
 {
-    abstract class Food
+    abstract class Food : IFood
     {
         public Food(int quantity)
         {

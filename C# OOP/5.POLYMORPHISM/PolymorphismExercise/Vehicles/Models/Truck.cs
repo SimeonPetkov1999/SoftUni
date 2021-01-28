@@ -9,12 +9,11 @@ namespace _01.Vehicles.Models
         private const double truckAdditionalConsumption = 1.6;
         private const double truckFuelMultiplier = 0.95;
 
-        public Truck(double fuelQuantity, double fuelConsumption, double tankCapacity)
-            : base(fuelQuantity, fuelConsumption, tankCapacity)
+        public Truck(double fuelQuantity, double fuelConsumption)
+            : base(fuelQuantity, fuelConsumption)
         {
 
         }
-
         public override double FuelConsuptionPerKm
         {
             get => base.FuelConsuptionPerKm;
@@ -23,11 +22,9 @@ namespace _01.Vehicles.Models
                 base.FuelConsuptionPerKm = value + truckAdditionalConsumption;
             }
         }
-
-        protected override double Multiplier 
-        { 
-            get => base.Multiplier; 
-            set => base.Multiplier = truckFuelMultiplier;
+        public override void Refuel(double liters)
+        {
+            base.Refuel(liters * truckFuelMultiplier);
         }
     }
 }
