@@ -11,8 +11,7 @@ namespace _02.Snake
             var matrix = new char[size, size];
             int snakeRow = -1;
             int snakeCol = -1;
-            int firstBurrowRow = -1;
-            int firstBurrowCol = -1;
+            int burrowsFound = 0;
             int secondBurrowRow = -1;
             int secondBurrowCol = -1;
             for (int row = 0; row < size; row++)
@@ -25,12 +24,11 @@ namespace _02.Snake
                         snakeRow = row;
                         snakeCol = col;
                     }
-                    else if (currentRow[col] == 'B' && firstBurrowRow == -1)
+                    else if (currentRow[col] == 'B')
                     {
-                        firstBurrowRow = row;
-                        firstBurrowCol = col;
+                        burrowsFound++;
                     }
-                    else if (currentRow[col] == 'B' && firstBurrowRow != -1)
+                    if (currentRow[col] == 'B' && burrowsFound >= 1)
                     {
                         secondBurrowRow = row;
                         secondBurrowCol = col;
@@ -38,138 +36,76 @@ namespace _02.Snake
                     matrix[row, col] = currentRow[col];
                 }
             }
-            // ------------------------------------------
 
             int foodEaten = 0;
-
             while (true)
             {
                 var command = Console.ReadLine();
-                if (command == "up")
+                matrix[snakeRow, snakeCol] = '.';
+                switch (command)
                 {
-                    if (IsPossibleToMoveUp(snakeRow))
-                    {
-                        matrix[snakeRow, snakeCol] = '.';
-                        if (matrix[snakeRow - 1, snakeCol] == '*')
-                        {
-                            foodEaten++;
-                            snakeRow--;
-                        }
-                        else if (matrix[snakeRow - 1, snakeCol] == 'B')
-                        {
-                            matrix[snakeRow - 1, snakeCol] = '.';
-                            snakeRow = secondBurrowRow;
-                            snakeCol = secondBurrowCol;
-                        }
-                        else
-                        {
-                            snakeRow--;
-                        }                     
-                    }
-                    else
-                    {
-                        matrix[snakeRow, snakeCol] = '.';
+                    case "up":
+                        snakeRow--;
                         break;
+                    case "down":
+                        snakeRow++;
+                        break;
+                    case "left":
+                        snakeCol--;
+                        break;
+                    case "right":
+                        snakeCol++;
+                        break;
+                }
+                if (IsSnakeIsOutside(snakeRow, snakeCol, matrix))
+                {
+                    PrintGameOver(matrix, foodEaten);
+                }
+                if (matrix[snakeRow, snakeCol] == '*')
+                {
+                    foodEaten++;
+                    if (foodEaten == 10)
+                    {
+                        PrintWonGame(matrix, snakeRow, snakeCol, foodEaten);
                     }
                 }
-                else if (command == "down")
+                else if (matrix[snakeRow, snakeCol] == 'B')
                 {
-                    if (IsPossibleToMoveDown(snakeRow, size))
-                    {
-                        matrix[snakeRow, snakeCol] = '.';
-                        if (matrix[snakeRow + 1, snakeCol] == '*')
-                        {
-                            foodEaten++;
-                            snakeRow++;
-                        }
-                        else if (matrix[snakeRow + 1, snakeCol] == 'B')
-                        {
-                            matrix[snakeRow + 1, snakeCol] = '.';
-                            snakeRow = secondBurrowRow;
-                            snakeCol = secondBurrowCol;
-                        }
-                        else
-                        {
-                            snakeRow++;
-                        }
-                    }
-                    else
-                    {
-                        matrix[snakeRow, snakeCol] = '.';
-                        break;
-                    }
-                }
-                else if (command == "left")
-                {
-                    if (IsPossibleToMoveLeft(snakeCol))
-                    {
-                        matrix[snakeRow, snakeCol] = '.';
-                        if (matrix[snakeRow, snakeCol - 1] == '*')
-                        {
-                            foodEaten++;
-                            snakeCol--;
-                        }
-                        else if (matrix[snakeRow, snakeCol - 1] == 'B')
-                        {
-                            matrix[snakeRow, snakeCol - 1] = '.';
-                            snakeRow = secondBurrowRow;
-                            snakeCol = secondBurrowCol;
-                        }
-                        else
-                        {
-                            snakeCol--;
-                        }
-                    }
-                    else
-                    {
-                        matrix[snakeRow, snakeCol] = '.';
-                        break;
-                    }
-                }
-                else if (command == "right")
-                {
-                    if (IsPossibleToMoveRight(snakeCol, size))
-                    {
-                        matrix[snakeRow, snakeCol] = '.';
-                        if (matrix[snakeRow, snakeCol + 1] == '*')
-                        {
-                            foodEaten++;
-                            snakeCol++;
-                        }
-                        else if (matrix[snakeRow, snakeCol + 1] == 'B')
-                        {
-                            matrix[snakeRow, snakeCol + 1] = '.';
-                            snakeRow = secondBurrowRow;
-                            snakeCol = secondBurrowCol;
-                        }
-                        else
-                        {
-                            snakeCol++;
-                        }
-                    }
-                    else
-                    {
-                        matrix[snakeRow, snakeCol] = '.';
-                        break;
-                    }
-                }
-                matrix[snakeRow, snakeCol] = 'S';
-                if (foodEaten == 10)
-                {
-                    Console.WriteLine("You won! You fed the snake.");
-                    Console.WriteLine($"Food eaten: {foodEaten}");
-                    Print(matrix);
-                    Environment.Exit(0);
+                    matrix[snakeRow, snakeCol] = '.';
+                    snakeRow = secondBurrowRow;
+                    snakeCol = secondBurrowCol;
                 }
             }
-
-            Console.WriteLine("Game over!");
-            Console.WriteLine($"Food eaten: {foodEaten}");
-            Print(matrix);
         }
 
-        private static void Print(char[,] matrix)
+        private static void PrintWonGame(char[,] matrix, int snakeRow, int snakeCol, int foodEaten)
         {
+            Console.WriteLine("You won! You fed the snake.");
+            matrix[snakeRow, snakeCol] = 'S';
+            Print(matrix, foodEaten);
+            Environment.Exit(0);
+        }
+
+        private static void PrintGameOver(char[,] matrix, int foodEaten)
+        {
+            Console.WriteLine("Game over!");
+            Print(matrix, foodEaten);
+            Environment.Exit(0);
+        }
+
+        private static bool IsSnakeIsOutside(int snakeRow, int snakeCol, char[,] matrix)
+        {
+            if (snakeRow < 0 || snakeRow >= matrix.GetLength(0) ||
+                snakeCol < 0 || snakeCol >= matrix.GetLength(1))
+            {
+                return true;
+            }
+            return false;
+        }
+
+        private static void Print(char[,] matrix, int foodEaten)
+        {
+            Console.WriteLine($"Food eaten: {foodEaten}");
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
                 for (int col = 0; col < matrix.GetLength(1); col++)
@@ -178,42 +114,6 @@ namespace _02.Snake
                 }
                 Console.WriteLine();
             }
-        }
-
-        private static bool IsPossibleToMoveRight(int snakeCol, int size)
-        {
-            if (snakeCol + 1 >= size)
-            {
-                return false;
-            }
-            return true;
-        }
-
-        private static bool IsPossibleToMoveLeft(int snakeCol)
-        {
-            if (snakeCol - 1 < 0)
-            {
-                return false;
-            }
-            return true;
-        }
-
-        private static bool IsPossibleToMoveDown(int snakeRow, int size)
-        {
-            if (snakeRow + 1 >= size)
-            {
-                return false;
-            }
-            return true;
-        }
-
-        private static bool IsPossibleToMoveUp(int snakeRow)
-        {
-            if (snakeRow - 1 < 0)
-            {
-                return false;
-            }
-            return true;
         }
     }
 }
