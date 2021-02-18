@@ -1,17 +1,32 @@
 function solve(arr)
 {
-    let max = arr[0];
-    let newArr = [];
+    // let max = arr[0];
+    // let newArr = [];
 
-    for (const num of arr) 
+    // for (const num of arr) 
+    // {
+    //     if (num >= max) 
+    //     {
+    //         newArr.push(num);
+    //         max = num;
+    //     }
+    // }
+    // return newArr;
+
+    return arr.reduce((result, currentValue,index,initial) =>
     {
-        if (num >= max) 
+        if (currentValue >= result[result.length - 1] || result.length === 0) 
         {
-            newArr.push(num);
-            max = num;
+            result.push(currentValue);
         }
-    }
-    return newArr;
+        return result;
+    }, [])
 }
 
-console.log(solve([1, 3, 8, 4, 10, 12, 3, 2, 24]))
+console.log(solve([20,
+    3,
+    2,
+    15,
+    6,
+    1]
+))
