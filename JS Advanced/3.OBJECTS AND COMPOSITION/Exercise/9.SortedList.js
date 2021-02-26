@@ -2,23 +2,26 @@ function createSortedList()
 {
     let data = [];
     return {
-        add(el) { data.push(el); data = data.sort((a, b) => a - b) },
+        add(el) { data.push(el); data = data.sort((a, b) => a - b); this.size++ },
         remove(index)
         {
             if (index>=0 && index<data.length) 
             {
                 data.splice(index, 1); 
                 data = data.sort((a, b) => a - b)   
+                this.size--;
             }
         },
         get(index)
         {
             if (index>=0 && index<data.length) 
             {
-                return data[index];    
+                
+                return data[index];  
+                  
             }  
         },
-        size:data.length
+        size:0
     }
 }
 
