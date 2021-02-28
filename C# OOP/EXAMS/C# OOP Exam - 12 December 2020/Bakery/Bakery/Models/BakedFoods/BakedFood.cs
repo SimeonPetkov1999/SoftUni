@@ -30,8 +30,6 @@ namespace Bakery.Models.BakedFoods
                 this.name = value;
             }
         }
-
-
         public int Portion
         {
             get => this.portion;

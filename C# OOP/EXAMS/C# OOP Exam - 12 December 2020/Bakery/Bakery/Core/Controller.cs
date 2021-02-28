@@ -5,6 +5,7 @@ using Bakery.Models.Drinks;
 using Bakery.Models.Drinks.Contracts;
 using Bakery.Models.Tables;
 using Bakery.Models.Tables.Contracts;
+using Bakery.Utilities.Messages;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -38,7 +39,7 @@ namespace Bakery.Core
                 drink = new Water(name, portion, brand);
             }
             this.drinks.Add(drink);
-            return $"Added {name} ({brand}) to the drink menu";
+            return string.Format(OutputMessages.DrinkAdded, drink.Name, drink.Brand);
         }
 
         public string AddFood(string type, string name, decimal price)
@@ -54,7 +55,7 @@ namespace Bakery.Core
             }
 
             this.bakedFoods.Add(food);
-            return $"Added {name} ({type}) to the menu";
+            return string.Format(OutputMessages.FoodAdded, food.Name, food.GetType().Name);
         }
 
         public string AddTable(string type, int tableNumber, int capacity)
@@ -69,7 +70,7 @@ namespace Bakery.Core
                 table = new OutsideTable(tableNumber, capacity);
             }
             this.tables.Add(table);
-            return $"Added table number {tableNumber} in the bakery";
+            return string.Format(OutputMessages.TableAdded, table.TableNumber);
         }
 
         public string GetFreeTablesInfo()
@@ -86,22 +87,21 @@ namespace Bakery.Core
         }
 
         public string GetTotalIncome()
-        {
-            //var totalIncome = 0m;
-            //foreach (var table in this.tables)
-            //{
-            //    totalIncome += table.GetBill();
-            //}
-            
+        {    
             return $"Total income: {this.income:f2}lv";
         }
 
         public string LeaveTable(int tableNumber)
         {
             var table = this.tables.FirstOrDefault(t => t.TableNumber == tableNumber);
-            var bill = table.GetBill() + table.NumberOfPeople * table.PricePerPerson;
+            if (table == null)
+            {
+                throw new ArgumentException(string.Format(OutputMessages.WrongTableNumber, tableNumber));
+            }
+            var bill = table.GetBill();
             this.income += bill;            
             table.Clear();
+
             var sb = new StringBuilder();
             sb.AppendLine($"Table: {tableNumber}")
                 .AppendLine($"Bill: {bill:f2}");

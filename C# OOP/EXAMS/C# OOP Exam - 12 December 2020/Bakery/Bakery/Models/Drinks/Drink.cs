@@ -59,9 +59,9 @@ namespace Bakery.Models.Drinks
             }
         }
         public string Brand
-        { 
+        {
             get => this.brand;
-            private set 
+            private set
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
@@ -74,6 +74,6 @@ namespace Bakery.Models.Drinks
         public override string ToString()
         {
             return $"{this.Name} {this.Brand} - {this.Portion}ml - {this.Price:f2}lv";
-        }
+        } 
     }
 }

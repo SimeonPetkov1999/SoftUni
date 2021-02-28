@@ -12,5 +12,10 @@ namespace Bakery.Models.Tables
             : base(tableNumber, capacity, InitialPricePerPerson)
         {
         }
+
+        public override decimal GetBill()
+        {
+            return base.GetBill() + this.NumberOfPeople * InitialPricePerPerson;
+        }
     }
 }
