@@ -67,3 +67,51 @@ UPDATE Accounts
 COMMIT
 
 EXEC usp_WithdrawMoney @AccountID = 1,@MoneyAmount = 10
+
+--5.	Money Transfer
+CREATE PROCEDURE usp_TransferMoney(@SenderId INT, @ReceiverId INT, @Amount DECIMAL(10,4))
+AS
+BEGIN TRANSACTION
+	DECLARE @SenderIDCount INT = (SELECT COUNT(*)
+							 FROM AccountHolders a 
+							 WHERE a.Id = @SenderId)
+
+    DECLARE @RecieverIDCount INT = (SELECT COUNT(*)
+							 FROM AccountHolders a 
+							 WHERE a.Id = @ReceiverId)
+
+    DECLARE @SenderMoney DECIMAL = (SELECT Balance 
+									FROM Accounts  
+									WHERE @SenderId = Id)
+								
+	IF(@Amount < 0)
+		BEGIN
+			ROLLBACK;
+			THROW 50001, 'Money must be a positive number!!!',1
+		END	
+	IF(@SenderIDCount < 1)
+		BEGIN
+			ROLLBACK;
+			THROW 50002, 'Ivalid Sender ID',1
+		END
+	IF(@RecieverIDCount < 1)
+		BEGIN
+			ROLLBACK;
+			THROW 50004, 'Ivalid Reciever ID',1
+		END
+	IF(@SenderMoney<@Amount)
+		BEGIN
+			ROLLBACK;
+			THROW 50004, 'Not Enough money',1
+		END
+
+	EXEC usp_DepositMoney @ReceiverId,@Amount
+	EXEC usp_WithdrawMoney @SenderId,@Amount
+COMMIT
+
+EXEC usp_TransferMoney 12,1,100000
+
+SELECT TOP (1000) [Id]
+      ,[AccountHolderId]
+      ,[Balance]
+  FROM [Bank].[dbo].[Accounts]
