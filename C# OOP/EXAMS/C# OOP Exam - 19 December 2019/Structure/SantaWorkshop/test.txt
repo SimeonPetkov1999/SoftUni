@@ -1,0 +1,32 @@
+Successfully added SleepyDwarf named Moony.
+Successfully added SleepyDwarf named Latey.
+Successfully added HappyDwarf named Mikey.
+Successfully added HappyDwarf named Crispy.
+Successfully added instrument with power 20 to dwarf Moony!
+Successfully added instrument with power 180 to dwarf Mikey!
+Successfully added instrument with power 10 to dwarf Moony!
+Successfully added instrument with power 10 to dwarf Latey!
+Successfully added instrument with power 20 to dwarf Crispy!
+Successfully added instrument with power 10 to dwarf Crispy!
+Successfully added instrument with power 10 to dwarf Crispy!
+Successfully added Present: WoodenTrain!
+Successfully added Present: LegoSet!
+Successfully added Present: DinosaurPlush!
+Successfully added Present: Laptop!
+Successfully added Present: Headphones!
+Present WoodenTrain is done.
+Present LegoSet is not done.
+Present DinosaurPlush is not done.
+Present Laptop is not done.
+Present Headphones is not done.
+1 presents are done!
+Dwarfs info:
+Name: Moony
+Energy: 5
+Instruments: 0 not broken left
+Name: Latey
+Energy: 35
+Instruments: 0 not broken left
+Name: Crispy
+Energy: 60
+Instruments: 0 not broken left
