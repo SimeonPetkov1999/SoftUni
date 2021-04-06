@@ -57,6 +57,10 @@ namespace WarCroft.Entities.Characters.Contracts
                 {
                     this.health = 0;
                 }
+                else if (this.health>this.BaseHealth)
+                {
+                    this.health = this.baseHealth;
+                }
             }//?
         }
 
@@ -69,7 +73,15 @@ namespace WarCroft.Entities.Characters.Contracts
         public double Armor
         {
             get => this.armor;
-            private set => this.armor = value;
+            private set
+            {
+                this.armor = value;
+
+                if (this.armor < 0)
+                {
+                    this.armor = 0;
+                }
+            }
         }
 
         public double AbilityPoints
@@ -84,7 +96,9 @@ namespace WarCroft.Entities.Characters.Contracts
             private set { this.bag = value; }
         }
 
-        public bool IsAlive => this.Health > 0;//?
+        //public bool IsAlive => this.Health > 0;//?
+        public bool IsAlive { get; set; } = true;
+
 
         public void TakeDamage(double hitPoints)
         {
@@ -99,6 +113,11 @@ namespace WarCroft.Entities.Characters.Contracts
                 hitPoints -= this.Armor;
                 this.Armor = 0;
                 this.Health -= hitPoints;
+            }
+
+            if (this.Health <= 0)
+            {
+                this.IsAlive = false;
             }
         }
 

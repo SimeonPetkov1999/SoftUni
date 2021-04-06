@@ -139,7 +139,9 @@ namespace WarCroft.Core
                 throw new ArgumentException($"{attacker.Name} cannot attack!");
             }
 
-            attacker.Attack(reciever);
+
+           attacker.Attack(reciever);
+           //reciever.TakeDamage(attacker.AbilityPoints)
 
             var result = new StringBuilder();
 

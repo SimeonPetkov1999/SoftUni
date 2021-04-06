@@ -9,7 +9,7 @@ namespace WarCroft.Entities.Inventory
     public abstract class Bag : IBag
     {
         private int capacity;
-        private List<Item> items;
+        private readonly List<Item> items;
 
         public Bag(int capacity)//?
         {
@@ -20,7 +20,17 @@ namespace WarCroft.Entities.Inventory
         public int Capacity
         {
             get => this.capacity;
-            set { this.capacity = value; }
+            set 
+            {
+                if (value < 0 || value > 100)
+                {
+                    this.capacity = 100;
+                }
+                else
+                {
+                    this.capacity = value;
+                }
+            }
         }
 
         public int Load => this.Items.Sum(x => x.Weight);

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using WarCroft.Constants;
 using WarCroft.Entities.Characters.Contracts;
 using WarCroft.Entities.Inventory;
 
@@ -13,7 +14,7 @@ namespace WarCroft.Entities.Characters
         private const int abilityPoints = 40;
 
 
-        public Warrior(string name) 
+        public Warrior(string name)
             : base(name, baseHeatlh, baseArmor, abilityPoints, new Satchel())
         {
         }
@@ -21,15 +22,18 @@ namespace WarCroft.Entities.Characters
         public void Attack(Character character)
         {
             this.EnsureAlive();
+            if (!character.IsAlive)
+            {
+                throw new InvalidOperationException(ExceptionMessages.AffectedCharacterDead);
+            }
             if (character.Name == this.Name)
             {
                 throw new InvalidOperationException($"Cannot attack self!");
             }
 
-            if (character.IsAlive)
-            {
-                character.TakeDamage(this.AbilityPoints);
-            }
+
+            character.TakeDamage(this.AbilityPoints);
+
         }
     }
 }

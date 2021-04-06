@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using WarCroft.Constants;
 using WarCroft.Entities.Characters.Contracts;
 using WarCroft.Entities.Inventory;
 
@@ -20,10 +21,12 @@ namespace WarCroft.Entities.Characters
         public void Heal(Character character)
         {
             this.EnsureAlive();
-            if (character.IsAlive)
+            if (!character.IsAlive)
             {
-                character.Health += this.AbilityPoints;
+                throw new InvalidOperationException(ExceptionMessages.AffectedCharacterDead);
             }
+
+            character.Health += this.AbilityPoints;
         }
     }
 }
