@@ -34,7 +34,7 @@ namespace CarDealer
             //var salesResult = ImportSales(db, sales);
 
 
-            var result = GetSalesWithAppliedDiscount(db);
+            var result = GetLocalSuppliers(db);
             Console.WriteLine(result);
 
 
@@ -71,7 +71,7 @@ namespace CarDealer
         {
             var sales = context
                 .Customers
-                .Where(x => x.Sales.Count > 1)
+                .Where(x => x.Sales.Count >= 1)
                 .Select(x => new
                 {
                     fullName = x.Name,
@@ -120,7 +120,7 @@ namespace CarDealer
                 {
                     x.Id,
                     x.Name,
-                    x.Parts.Count,
+                    PartsCount=x.Parts.Count,
                 })
                 .ToList();
 
@@ -161,7 +161,7 @@ namespace CarDealer
                     x.IsYoungDriver
                 })
                 .OrderBy(x => x.BirthDate)
-                .ThenBy(x => x.IsYoungDriver == false)
+                .ThenBy(x => x.IsYoungDriver)
                 .ToList();
 
             var jsonSettings = new JsonSerializerSettings

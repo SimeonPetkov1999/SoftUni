@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 using ProductShop.Data;
 using ProductShop.Models;
@@ -26,9 +27,12 @@ namespace ProductShop
 
             var users = context
                 .Users
+                .Include(x=>x.ProductsSold)
+                .ToList()
                 .Where(x => x.ProductsSold.Any(y => y.Buyer != null))
                 .Select(x => new
                 {
+                    firstName=x.FirstName,
                     lastName = x.LastName,
                     age = x.Age,
                     soldProducts = new
