@@ -1,4 +1,5 @@
-﻿using ProductShop.Data;
+﻿using Microsoft.EntityFrameworkCore;
+using ProductShop.Data;
 using ProductShop.Dtos.Export;
 using ProductShop.Dtos.Import;
 using ProductShop.Models;
@@ -34,8 +35,76 @@ namespace ProductShop
             //Console.WriteLine(categoriesProductsResult);
 
 
-            var result = GetSoldProducts(db);
+            var result = GetUsersWithProducts(db);
             Console.WriteLine(result);
+        }
+
+        public static string GetUsersWithProducts(ProductShopContext context) 
+        {
+            var products = context
+                .Users
+                .Include(x => x.ProductsSold)
+                .ToList()
+                .Where(x => x.ProductsSold.Any())
+                .Select(x => new UsersAndProductsDTO
+                {
+                    FirstName = x.FirstName,
+                    LastName = x.LastName,
+                    Age = x.Age,
+                    SoldProducts = new SoldProducts
+                    {
+                        Count = x.ProductsSold.Count,
+                        Products = x.ProductsSold.Select(ps => new ProductsDTO
+                        {
+                            Name = ps.Name,
+                            Price = ps.Price
+                        })
+                        .OrderByDescending(z => z.Price)
+                        .ToList()
+                    }
+                })
+                .OrderByDescending(x => x.SoldProducts.Count)
+                .Take(10)
+                .ToList();
+
+
+            var obj = new FinalUsersDTO
+            {
+                Count = context.Users.Include(x => x.ProductsSold).ToList() .Where(x => x.ProductsSold.Any()).Count(),
+                Users = products
+            };
+
+            var serializer = new XmlSerializer(typeof(FinalUsersDTO), new XmlRootAttribute("Users"));
+            var ns = new XmlSerializerNamespaces();
+            ns.Add("", "");
+            var writer = new StringWriter();
+            serializer.Serialize(writer, obj, ns);
+
+            return writer.ToString();
+        }
+
+        public static string GetCategoriesByProductsCount(ProductShopContext context) 
+        {
+            var categories = context
+                .Categories
+                .Select(x => new CategoriesByProductsDTO
+                {
+                    Name = x.Name,
+                    Count = x.CategoryProducts.Count,
+                    AveragePrice = x.CategoryProducts.Average(cp => cp.Product.Price),
+                    TotalRevenue = x.CategoryProducts.Sum(cp => cp.Product.Price)
+                })
+                .OrderByDescending(x => x.Count)
+                .ThenBy(x => x.TotalRevenue)
+                .ToList();
+
+            var serializer = new XmlSerializer(typeof(List<CategoriesByProductsDTO>), new XmlRootAttribute("Categories"));
+            var ns = new XmlSerializerNamespaces();
+            ns.Add("", "");
+            var writer = new StringWriter();
+            serializer.Serialize(writer, categories, ns);
+
+            return writer.ToString();
         }
 
         public static string GetSoldProducts(ProductShopContext context) 
