@@ -3,6 +3,7 @@ using SUS.HTTP.Contracts;
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
@@ -12,19 +13,11 @@ namespace SUS.HTTP
 {
     public class HttpServer : IHttpServer
     {
-        IDictionary<string, Func<HttpRequest, HttpResponse>>
-            routeTable = new Dictionary<string, Func<HttpRequest, HttpResponse>>();
+        List<Route> routeTable;
 
-        public void AddRoute(string path, Func<HttpRequest, HttpResponse> action)
+        public HttpServer(List<Route> routeTable)
         {
-            if (routeTable.ContainsKey(path))
-            {
-                routeTable[path] = action;
-            }
-            else
-            {
-                routeTable.Add(path, action);
-            }
+            this.routeTable = routeTable;
         }
 
         public async Task StartAsync(int port)
@@ -74,16 +67,15 @@ namespace SUS.HTTP
                     Console.WriteLine($"{request.Method} {request.Path} => {request.Headers.Count} headers");
 
                     HttpResponse response;
-                    if (this.routeTable.ContainsKey(request.Path))
+                    var route = this.routeTable.FirstOrDefault(x => x.Path == request.Path);
+                    if (route != null)
                     {
-                        var action = this.routeTable[request.Path];
-                        response = action(request);
+                        response = route.Action(request);
                     }
                     else
                     {
-                        // Not Found 404
-                        var ErrorPic = File.ReadAllBytes("error404.png");
-                        response = new HttpResponse("image/jpg", ErrorPic, Enums.HttpStatusCode.NotFound);
+                       
+                        response = new HttpResponse("text/html", new byte[0], Enums.HttpStatusCode.NotFound);
                     }
 
                     response.Cookies.Add(new ResponseCookie("sid", Guid.NewGuid().ToString())
