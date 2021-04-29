@@ -19,5 +19,10 @@ namespace SUSApp.Controllers
         {
             return this.View();
         }
+        public HttpResponse DoLogin(HttpRequest request)
+        {
+            
+            return this.Redirect("/");
+        }
     }
 }
