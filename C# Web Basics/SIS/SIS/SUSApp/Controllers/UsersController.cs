@@ -10,18 +10,24 @@ namespace SUSApp.Controllers
 {
     public class UsersController : Controller
     {
-        public HttpResponse Login(HttpRequest request)
+        // GET /users/login
+        public HttpResponse Login()
         {
             return this.View();
         }
 
-        public HttpResponse Register(HttpRequest request)
+        // GET /users/register
+        public HttpResponse Register()
         {
             return this.View();
         }
-        public HttpResponse DoLogin(HttpRequest request)
+
+        [HttpPost]
+        public HttpResponse DoLogin()
         {
-            
+            // TODO: read data
+            // TODO: check user
+            // TODO: log user
             return this.Redirect("/");
         }
     }
