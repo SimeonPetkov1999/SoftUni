@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SUSApp.VIewModels
+namespace SUS.MvcFramework
 {
-    public class AllCardsViewModel
+    public enum IdentityRole
     {
-        public List<CardViewModel> Cards { get; set; }
+        User = 1,
+        Admin = 2,
     }
 }

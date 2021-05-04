@@ -9,27 +9,26 @@ using System.Threading.Tasks;
 
 namespace SUSApp.Controllers
 {
+
     public class HomeController : Controller
     {
         [HttpGet("/")]
         public HttpResponse Index()
         {
-            var viewModel = new IndexViewModel();
-            viewModel.CurrentYear = DateTime.UtcNow.Year;
-            viewModel.Message = "Welcome to Battle Cards";
-            if (this.Request.Session.ContainsKey("about"))
+            if (this.IsUserSignedIn())
             {
-                viewModel.Message += " YOU WERE ON THE ABOUT PAGE!";
+                return this.Redirect("/Cards/All");
             }
 
-            return this.View(viewModel);
+            return this.View();
         }
 
         // GET /home/about
         public HttpResponse About()
         {
-            this.Request.Session["about"] = "yes";
+            this.SignIn("niki");
             return this.View();
         }
     }
+
 }

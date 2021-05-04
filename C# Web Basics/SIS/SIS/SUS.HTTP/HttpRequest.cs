@@ -13,13 +13,11 @@ namespace SUS.HTTP
     {
         public static IDictionary<string, Dictionary<string, string>>
             Sessions = new Dictionary<string, Dictionary<string, string>>();
-
         public HttpRequest(string requestString)
         {
             this.Headers = new List<Header>();
             this.Cookies = new List<Cookie>();
             this.FormData = new Dictionary<string, string>();
-
             var lines = requestString.Split(new string[] { HttpConstants.NewLine },
                 StringSplitOptions.None);
             var headerLine = lines[0];
@@ -58,7 +56,6 @@ namespace SUS.HTTP
                     this.Cookies.Add(new Cookie(cookieAsString));
                 }
             }
-
             var sessionCookie = this.Cookies.FirstOrDefault(x => x.Name == HttpConstants.SessionCookieName);
             if (sessionCookie == null)
             {
@@ -76,12 +73,11 @@ namespace SUS.HTTP
             {
                 this.Session = Sessions[sessionCookie.Value];
             }
-
             this.Body = bodyBuilder.ToString();
             var parameters = this.Body.Split(new char[] { '&' }, StringSplitOptions.RemoveEmptyEntries);
             foreach (var parameter in parameters)
             {
-                var parameterParts = parameter.Split('=');
+                var parameterParts = parameter.Split(new[] { '=' }, 2);
                 var name = parameterParts[0];
                 var value = WebUtility.UrlDecode(parameterParts[1]);
                 if (!this.FormData.ContainsKey(name))
@@ -90,17 +86,12 @@ namespace SUS.HTTP
                 }
             }
         }
-
         public string Path { get; set; }
         public HttpMethod Method { get; set; }
         public ICollection<Header> Headers { get; set; }
-
         public ICollection<Cookie> Cookies { get; set; }
-
         public IDictionary<string, string> FormData { get; set; }
-
         public Dictionary<string, string> Session { get; set; }
-
         public string Body { get; set; }
     }
 

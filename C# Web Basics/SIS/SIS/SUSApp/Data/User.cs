@@ -8,11 +8,12 @@ using System.Threading.Tasks;
 
 namespace SUSApp.Data
 {
-    public class User : UserIdentity
+    public class User : IdentityUser<string>
     {
         public User()
         {
             this.Id = Guid.NewGuid().ToString();
+            this.Role = IdentityRole.User;
             this.Cards = new HashSet<UserCard>();
         }
 
