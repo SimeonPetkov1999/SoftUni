@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SUSApp.VIewModels
+namespace SUSApp.VIewModels.Cards
 {
     public class CardViewModel
     {

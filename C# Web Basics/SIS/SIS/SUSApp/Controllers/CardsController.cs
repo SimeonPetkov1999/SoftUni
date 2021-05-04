@@ -2,6 +2,7 @@
 using SUS.MvcFramework;
 using SUSApp.Data;
 using SUSApp.VIewModels;
+using SUSApp.VIewModels.Cards;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,12 +14,10 @@ namespace SUSApp.Controllers
     public class CardsController : Controller
     {
         private readonly ApplicationDbContext db;
-
         public CardsController(ApplicationDbContext db)
         {
             this.db = db;
         }
-
         // GET /cards/add
         public HttpResponse Add()
         {
@@ -28,14 +27,14 @@ namespace SUSApp.Controllers
             }
             return this.View();
         }
+
         [HttpPost("/Cards/Add")]
-        public HttpResponse DoAdd()
+        public HttpResponse DoAdd(AddCardInputModel model)
         {
             if (!this.IsUserSignedIn())
             {
                 return this.Redirect("/Users/Login");
             }
-
             if (this.Request.FormData["name"].Length < 5)
             {
                 return this.Error("Name should be at least 5 characters long.");
@@ -43,12 +42,12 @@ namespace SUSApp.Controllers
 
             this.db.Cards.Add(new Card
             {
-                Attack = int.Parse(this.Request.FormData["attack"]),
-                Health = int.Parse(this.Request.FormData["health"]),
-                Description = this.Request.FormData["description"],
-                Name = this.Request.FormData["name"],
-                ImageUrl = this.Request.FormData["image"],
-                Keyword = this.Request.FormData["keyword"],
+                Attack = model.Attack,
+                Health = model.Health,
+                Description = model.Description,
+                Name = model.Name,
+                ImageUrl = model.Image,
+                Keyword = model.Keyword,
             });
             this.db.SaveChanges();
 
@@ -61,7 +60,6 @@ namespace SUSApp.Controllers
             {
                 return this.Redirect("/Users/Login");
             }
-
             var cardsViewModel = this.db.Cards.Select(x => new CardViewModel
             {
                 Name = x.Name,
