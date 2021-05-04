@@ -12,13 +12,12 @@ namespace SUSApp.Services
     public class UsersService : IUsersService
     {
         private readonly ApplicationDbContext db;
-
-        public UsersService()
+        public UsersService(ApplicationDbContext db)
         {
-            this.db = new ApplicationDbContext();
+            this.db = db;
         }
 
-        public void CreateUser(string username, string email, string password)
+        public string CreateUser(string username, string email, string password)
         {
             var user = new User
             {
@@ -29,24 +28,28 @@ namespace SUSApp.Services
             };
             this.db.Users.Add(user);
             this.db.SaveChanges();
+            return user.Id;
         }
 
-        public bool IsUserValid(string username, string password)
+        public string GetUserId(string username, string password)
         {
             var user = this.db.Users.FirstOrDefault(x => x.Username == username);
-            return user.Password == ComputeHash(password);
+            if (user?.Password != ComputeHash(password))
+            {
+                return null;
+            }
+
+            return user.Id;
         }
 
         public bool IsEmailAvailable(string email)
         {
             return !this.db.Users.Any(x => x.Email == email);
         }
-
         public bool IsUsernameAvailable(string username)
         {
             return !this.db.Users.Any(x => x.Username == username);
         }
-
         private static string ComputeHash(string input)
         {
             var bytes = Encoding.UTF8.GetBytes(input);

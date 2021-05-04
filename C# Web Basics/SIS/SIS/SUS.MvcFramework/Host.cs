@@ -16,26 +16,25 @@ namespace SUS.MvcFramework
         {
             // TODO: {controller}/{action}/{id}
             List<Route> routeTable = new List<Route>();
+            IServiceCollection serviceCollection = new ServiceCollection();
+
+            application.ConfigureServices(serviceCollection);
+            application.Configure(routeTable);
 
             AutoRegisterStaticFile(routeTable);
-            AutoRegisterRoutes(routeTable, application);
-
-            application.ConfigureServices();
-            application.Configure(routeTable);
+            AutoRegisterRoutes(routeTable, application, serviceCollection);
 
             Console.WriteLine("All registered routes:");
             foreach (var route in routeTable)
             {
                 Console.WriteLine($"{route.Method} {route.Path}");
             }
-
             IHttpServer server = new HttpServer(routeTable);
-
             // Process.Start(@"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe", "http://localhost/");
             await server.StartAsync(port);
         }
 
-        private static void AutoRegisterRoutes(List<Route> routeTable, IMvcApplication application)
+        private static void AutoRegisterRoutes(List<Route> routeTable, IMvcApplication application, IServiceCollection serviceCollection)
         {
             var controllerTypes = application.GetType().Assembly.GetTypes()
                 .Where(x => x.IsClass && !x.IsAbstract && x.IsSubclassOf(typeof(Controller)));
@@ -48,18 +47,14 @@ namespace SUS.MvcFramework
                 {
                     var url = "/" + controllerType.Name.Replace("Controller", string.Empty)
                         + "/" + method.Name;
-
                     var attribute = method.GetCustomAttributes(false)
                         .Where(x => x.GetType().IsSubclassOf(typeof(BaseHttpAttribute)))
                         .FirstOrDefault() as BaseHttpAttribute;
-
                     var httpMethod = HttpMethod.Get;
-
                     if (attribute != null)
                     {
                         httpMethod = attribute.Method;
                     }
-
                     if (!string.IsNullOrEmpty(attribute?.Url))
                     {
                         url = attribute.Url;
@@ -67,7 +62,7 @@ namespace SUS.MvcFramework
 
                     routeTable.Add(new Route(url, httpMethod, (request) =>
                     {
-                        var instance = Activator.CreateInstance(controllerType) as Controller;
+                        var instance = serviceCollection.CreateInstance(controllerType) as Controller;
                         instance.Request = request;
                         var response = method.Invoke(instance, new object[] { }) as HttpResponse;
                         return response;
@@ -75,7 +70,6 @@ namespace SUS.MvcFramework
                 }
             }
         }
-
         private static void AutoRegisterStaticFile(List<Route> routeTable)
         {
             var staticFiles = Directory.GetFiles("wwwroot", "*", SearchOption.AllDirectories);
@@ -100,7 +94,6 @@ namespace SUS.MvcFramework
                         ".html" => "text/html",
                         _ => "text/plain",
                     };
-
                     return new HttpResponse(contentType, fileContent, HttpStatusCode.Ok);
                 }));
             }

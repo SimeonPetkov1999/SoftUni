@@ -8,11 +8,11 @@ namespace SUSApp.Services
 {
     public interface IUsersService
     {
-        void CreateUser(string username, string email, string password);
+        string CreateUser(string username, string email, string password);
 
         bool IsEmailAvailable(string email);
 
-        bool IsUserValid(string username, string password);
+        string GetUserId(string username, string password);
 
         bool IsUsernameAvailable(string username);
     }

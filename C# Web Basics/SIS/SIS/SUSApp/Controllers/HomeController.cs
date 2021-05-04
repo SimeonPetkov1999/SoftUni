@@ -22,13 +22,6 @@ namespace SUSApp.Controllers
 
             return this.View();
         }
-
-        // GET /home/about
-        public HttpResponse About()
-        {
-            this.SignIn("niki");
-            return this.View();
-        }
     }
 
 }
