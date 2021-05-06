@@ -14,12 +14,10 @@ namespace SUSApp.Controllers
     public class UsersController : Controller
     {
         private readonly IUsersService usersService;
-
         public UsersController(IUsersService usersService)
         {
             this.usersService = usersService;
         }
-
         // GET /users/login
         public HttpResponse Login()
         {
@@ -29,14 +27,14 @@ namespace SUSApp.Controllers
             }
             return this.View();
         }
-        [HttpPost("/Users/Login")]
-        public HttpResponse DoLogin(string username, string password)
+
+        [HttpPost]
+        public HttpResponse Login(string username, string password)
         {
             if (this.IsUserSignedIn())
             {
                 return this.Redirect("/");
             }
-
             var userId = this.usersService.GetUserId(username, password);
             if (userId == null)
             {
@@ -54,14 +52,14 @@ namespace SUSApp.Controllers
             }
             return this.View();
         }
-        [HttpPost("/Users/Register")]
-        public HttpResponse DoRegister(string username, string email, string password, string confirmPassword)
+
+        [HttpPost]
+        public HttpResponse Register(string username, string email, string password, string confirmPassword)
         {
             if (this.IsUserSignedIn())
             {
                 return this.Redirect("/");
             }
-
             if (username == null || username.Length < 5 || username.Length > 20)
             {
                 return this.Error("Invalid username. The username should be between 5 and 20 characters.");
@@ -82,21 +80,17 @@ namespace SUSApp.Controllers
             {
                 return this.Error("Passwords should be the same.");
             }
-
             if (!this.usersService.IsUsernameAvailable(username))
             {
                 return this.Error("Username already taken.");
             }
-
             if (!this.usersService.IsEmailAvailable(email))
             {
                 return this.Error("Email already taken.");
             }
-
             this.usersService.CreateUser(username, email, password);
             return this.Redirect("/Users/Login");
         }
-
         public HttpResponse Logout()
         {
             if (!this.IsUserSignedIn())

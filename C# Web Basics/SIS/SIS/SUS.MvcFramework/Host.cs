@@ -22,13 +22,18 @@ namespace SUS.MvcFramework
             application.Configure(routeTable);
             AutoRegisterStaticFile(routeTable);
             AutoRegisterRoutes(routeTable, application, serviceCollection);
-            Console.WriteLine("All registered routes:");
+
+            Console.WriteLine("Registered routes:");
             foreach (var route in routeTable)
             {
                 Console.WriteLine($"{route.Method} {route.Path}");
             }
+
+            Console.WriteLine();
+            Console.WriteLine("Requests:");
             IHttpServer server = new HttpServer(routeTable);
-            // Process.Start(@"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe", "http://localhost/");
+
+            
             await server.StartAsync(port);
         }
         private static void AutoRegisterRoutes(List<Route> routeTable, IMvcApplication application, IServiceCollection serviceCollection)
