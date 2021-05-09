@@ -17,7 +17,9 @@
 
         public void ConfigureServices(IServiceCollection serviceCollection)
         {
-            
+            serviceCollection.Add<IUsersService, UsersService>();
+            serviceCollection.Add<IRepositoryService, RepositoryService>();
+            serviceCollection.Add<ICommitsService, CommitsService>();
         }
     }
 }
