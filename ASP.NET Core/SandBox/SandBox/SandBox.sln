@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngleSharpScrapper", "AngleSharpScrapper\AngleSharpScrapper.csproj", "{85B6CE7E-1DD1-423B-A7F4-115E4413AFD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85B6CE7E-1DD1-423B-A7F4-115E4413AFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85B6CE7E-1DD1-423B-A7F4-115E4413AFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85B6CE7E-1DD1-423B-A7F4-115E4413AFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85B6CE7E-1DD1-423B-A7F4-115E4413AFD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E3ACD9B-F5F6-4EC5-9119-24AF83DF6C26}
+	EndGlobalSection
+EndGlobal
