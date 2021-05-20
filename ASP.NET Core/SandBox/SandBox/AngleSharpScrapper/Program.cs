@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using AngleSharp;
+using Newtonsoft.Json;
 
 namespace AngleSharpScrapper
 {
@@ -13,10 +14,16 @@ namespace AngleSharpScrapper
     {
         static async Task Main(string[] args)
         {
+            var watch = new Stopwatch();
+            int i = 0;
+            watch.Start();
             Console.OutputEncoding = Encoding.Unicode;
             var config = Configuration.Default.WithDefaultLoader();
             var context = BrowsingContext.New(config);
             var links = File.ReadAllText("links.txt").Split(Environment.NewLine);
+
+            var carList = new List<CarJsonObject>();
+
 
             foreach (var link in links)
             {
@@ -27,7 +34,7 @@ namespace AngleSharpScrapper
                     var make = inputforModelAnMake[0];
                     var model = inputforModelAnMake[1];
 
-
+                    var saleId = link.Split("/").Last();
 
 
                     var priceInput = document.Body.QuerySelector("#main-content > div > div:nth-child(1) > div > div.offer-price > strong");
@@ -82,7 +89,7 @@ namespace AngleSharpScrapper
                         .QuerySelector("#main-content > div > div:nth-child(2) > div > div.mdc-layout-grid__cell.mdc-layout-grid__cell--span-4-phone.mdc-layout-grid__cell--span-4-tablet.mdc-layout-grid__cell--span-2-desktop > div > div:nth-child(2) > div.description.text-copy")
                         .TextContent;
 
-                    var extrax = extrasInput.Trim().Split(new char[] { ',', ':', '\n' }, StringSplitOptions.TrimEntries).Where(x => x != string.Empty);
+                    var extrax = extrasInput.Trim().Split(new char[] { ',', ':', '\n' }, StringSplitOptions.TrimEntries).Where(x => x != string.Empty).ToList();
 
                     var imgLinksInput = document
                         .Body
@@ -95,43 +102,84 @@ namespace AngleSharpScrapper
                         imgLinks.Add(item.GetAttribute("data-src"));
                     }
 
-                    Console.WriteLine($"Make: {make}");
-                    Console.WriteLine($"Model: {model}");
-                    Console.WriteLine($"Year: {yearMade}");
-                    Console.WriteLine($"Price: {price}");
-                    Console.WriteLine($"Vehicle Type: {vechicleType}");
-                    Console.WriteLine($"Type of petrol: {typeOfPetrol}");
-                    Console.WriteLine($"KM: {kmDriven}");
-                    Console.WriteLine($"Type of gears: {typeOfGears}");
-                    Console.WriteLine($"Horse Power: {horsePower}");
-                    Console.WriteLine($"Engine CM: {engineCubicCentimeters}");
-                    Console.WriteLine($"Color: {color}");
-                    foreach (var item in extrax)
-                    {
-                        Console.WriteLine($"---{item}");
-                    }
-                    Console.WriteLine("IMG-Links:");
-                    foreach (var item in imgLinks)
-                    {
-                        Console.WriteLine($"---{item}");
-                    }
+                    var city = document
+                        .Body
+                        .QuerySelector("#main-content > div > div:nth-child(2) > div > div.mdc-layout-grid__cell.mdc-layout-grid__cell--span-4-phone.mdc-layout-grid__cell--span-4-tablet.mdc-layout-grid__cell--span-2-desktop > div > div:nth-child(4) > div > table > tbody > tr:nth-child(5) > td > div > li")
+                        ?.TextContent
+                        ?.Split(", ")
+                        ?.Last() ?? "Sofia";
 
-                    Console.WriteLine(new string('-', 15));
+
+                    var info = document
+                        .Body
+                        .QuerySelector("#main-content > div > div:nth-child(2) > div > div.mdc-layout-grid__cell.mdc-layout-grid__cell--span-4-phone.mdc-layout-grid__cell--span-4-tablet.mdc-layout-grid__cell--span-2-desktop > div > div:nth-child(1) > div > div")
+                        ?.TextContent?.Trim()?.TrimStart()?.TrimEnd() ?? string.Empty;
+
+                    carList.Add(new CarJsonObject()
+                    {
+                        Link = link,
+                        SaleId = saleId,
+                        Make = make,
+                        Model = model,
+                        Year = int.Parse(yearMade),
+                        Price = decimal.Parse(price),
+                        VehicleType = vechicleType,
+                        PetrolType = typeOfPetrol,
+                        KM = int.Parse(kmDriven),
+                        GearsType = typeOfGears,
+                        HorsePower = int.Parse(horsePower),
+                        EngineCubicCm = int.Parse(engineCubicCentimeters),
+                        Color = color,
+                        Description = info,
+                        City = city,
+                        Extras = extrax,
+                        ImgUrls = imgLinks
+
+                    });
+                    //Console.WriteLine("+");
+                    //Console.WriteLine($"Link: {link}");
+                    //Console.WriteLine($"SaleId: {saleId}");
+                    //Console.WriteLine($"Make: {make}");
+                    //Console.WriteLine($"Model: {model}");
+                    //Console.WriteLine($"Year: {yearMade}");
+                    //Console.WriteLine($"Price: {price}");
+                    //Console.WriteLine($"Vehicle Type: {vechicleType}");
+                    //Console.WriteLine($"Type of petrol: {typeOfPetrol}");
+                    //Console.WriteLine($"KM: {kmDriven}");
+                    //Console.WriteLine($"Type of gears: {typeOfGears}");
+                    //Console.WriteLine($"Horse Power: {horsePower}");
+                    //Console.WriteLine($"Engine CM: {engineCubicCentimeters}");
+                    //Console.WriteLine($"Color: {color}");
+                    //Console.WriteLine($"Description: {info}");
+                    //foreach (var item in extrax)
+                    //{
+                    //    Console.WriteLine($"---{item}");
+                    //}
+                    //Console.WriteLine("IMG-Links:");
+                    //foreach (var item in imgLinks)
+                    //{
+                    //    Console.WriteLine($"---{item}");
+                    //}
+                    //Console.WriteLine($"City: {city}");
+                    //Console.WriteLine(new string('-', 15));
                 }
                 catch (Exception ex)
                 {
 
-                    Console.WriteLine(ex.Message);
+                    //Console.WriteLine("-");
                 }
-                
-
-               
-
+                Console.WriteLine($"+ {++i}");
 
             }
 
+            var jsonFormated = JsonConvert.SerializeObject(carList, Formatting.Indented);
+            var json = JsonConvert.SerializeObject(carList);
+            File.WriteAllText("../../../CarsJsonFormated.json", jsonFormated);
+            File.WriteAllText("../../../CarsJson.json", json);
 
+            Console.WriteLine(watch.Elapsed);
         }
+
 
         private static async Task GetLinkFromCarsBg()
         {
