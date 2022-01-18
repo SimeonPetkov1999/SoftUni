@@ -17,7 +17,7 @@ namespace SIS.Server
             this.serverListener = new TcpListener(this.ipAddress, port);
         }
 
-        public void Start() 
+        public void Start()
         {
             this.serverListener.Start();
 
@@ -29,6 +29,8 @@ namespace SIS.Server
                 var connection = serverListener.AcceptTcpClient();
 
                 var networkStream = connection.GetStream();
+                var requestText = this.ReadRequest(networkStream);
+                Console.WriteLine(requestText);
                 WriteResponse(networkStream, "Hello From Server");
 
                 connection.Close();
@@ -47,6 +49,31 @@ Content-Length: {contentLenght}
 
             var responseBytes = Encoding.UTF8.GetBytes(response);
             networkStream.Write(responseBytes);
+        }
+
+        private string ReadRequest(NetworkStream networkStream) 
+        {
+            var bufferLength = 1024;
+            var buffer = new byte[bufferLength];
+
+            var totalBytes = 0;
+
+            var requestBuilder = new StringBuilder();
+
+            do
+            {
+                var bytesRead = networkStream.Read(buffer, 0, bufferLength);
+
+                totalBytes += bytesRead;
+
+                if (bytesRead > 10 + 1024)
+                {
+                    throw new InvalidOperationException("Requset is too large");
+                }
+                requestBuilder.Append(Encoding.UTF8.GetString(buffer, 0, bytesRead));
+            } while (networkStream.DataAvailable);
+
+            return requestBuilder.ToString();
         }
     }
 }
