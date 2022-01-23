@@ -10,6 +10,8 @@ namespace SIS.Server.HTTP
 
         public HeaderCollection Headers { get; private set; }
 
+        public CookieCollection Cookies { get; private set; }
+
         public string Body { get; private set; }
 
         public IReadOnlyDictionary<string, string> Form { get; private set; }
@@ -24,6 +26,8 @@ namespace SIS.Server.HTTP
 
             var headers = ParseHeadres(lines.Skip(1));
 
+            var cookies = ParseCookies(headers);
+
             var bodyLines = lines.Skip(headers.Count + 2).ToArray();
             var body = string.Join("\r\n", bodyLines);
 
@@ -34,20 +38,44 @@ namespace SIS.Server.HTTP
                 Method = method,
                 Url = url,
                 Headers = headers,
+                Cookies = cookies,
                 Body = body,
-                Form = form, 
+                Form = form,
             };
         }
 
-        private static Dictionary<string,string> ParseForm(HeaderCollection headers, string body)
+        private static CookieCollection ParseCookies(HeaderCollection headers)
         {
-           var formCollection = new Dictionary<string,string>();
+            var cookieCollection = new CookieCollection();
 
-            if (headers.Contains(Header.ContentType) && headers[Header.ContentType]==ContentType.FormUrlEncoded)
+            if (headers.Contains(Header.Cookie))
+            {
+                var cookieHeader = headers[Header.Cookie];
+
+                var allCookies = cookieHeader.Split(";");
+
+                foreach (var cookieText in allCookies)
+                {
+                    var cookieParts = cookieText.Split('=');
+
+                    var cookieName = cookieParts[0].Trim();
+                    var cookieValue = cookieParts[1].Trim();
+
+                    cookieCollection.Add(cookieName, cookieValue);
+                }
+            }
+            return cookieCollection;
+        }
+
+        private static Dictionary<string, string> ParseForm(HeaderCollection headers, string body)
+        {
+            var formCollection = new Dictionary<string, string>();
+
+            if (headers.Contains(Header.ContentType) && headers[Header.ContentType] == ContentType.FormUrlEncoded)
             {
                 var parsedResult = ParseFormData(body);
 
-                foreach (var (name,value) in parsedResult)
+                foreach (var (name, value) in parsedResult)
                 {
                     formCollection.Add(name, value);
                 }

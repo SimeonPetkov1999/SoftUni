@@ -1,6 +1,8 @@
 ﻿using SIS.Server;
 using SIS.Server.HTTP;
 using SIS.Server.Responses;
+using System.Text;
+using System.Web;
 
 namespace SIS.Demo 
 {
@@ -30,8 +32,48 @@ namespace SIS.Demo
             .MapGet("/HTML", new HtmlResponse(Startup.HtmlForm))
             .MapPost("/HTML", new TextResponse("", Startup.AddFormDataAction))
             .MapGet("/Content", new HtmlResponse(Startup.DownloadForm))
-            .MapPost("/Content", new TextFileResponse(Startup.FileName)))
+            .MapPost("/Content", new TextFileResponse(Startup.FileName))
+            .MapGet("/Cookies",new HtmlResponse("",Startup.AddCookiesAction)))
             .Start();
+        }
+
+        private static void AddCookiesAction(Request request, Response response) 
+        {
+            var requestHasCookies = request.Cookies.Any();
+            var bodyText = "";
+
+            if (requestHasCookies)
+            {
+                var cookieText = new StringBuilder();
+                cookieText.AppendLine("<h1>Cookies</h1>");
+                cookieText
+                    .Append("<table border='1'><tr><th>Name</th><th>Value</th></tr>");
+
+                foreach (var cookie in request.Cookies)
+                {
+                    cookieText.Append("<tr>");
+                    cookieText
+                        .Append($"<td>{HttpUtility.HtmlEncode(cookie.Name)}</td>");
+                    cookieText
+                        .Append($"<td>{HttpUtility.HtmlEncode(cookie.Value)}</td>");
+
+                }
+                    cookieText.Append("</table>");
+                    bodyText = cookieText.ToString();
+            }
+            else
+            {
+                bodyText = "<h1>Cookies set!</h1>";
+            }
+
+            if (!requestHasCookies)
+            {
+                response.Cookies.Add("My-Cookie", "My-Value");
+                response.Cookies.Add("My-Cookie2", "My-Value2");
+
+            }
+
+            response.Body = bodyText;
         }
 
         private static void AddFormDataAction(Request request, Response response) 
