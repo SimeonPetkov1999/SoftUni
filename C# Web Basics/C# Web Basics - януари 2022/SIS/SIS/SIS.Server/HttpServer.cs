@@ -54,12 +54,7 @@ namespace SIS.Server
                     Console.WriteLine(requestText);
 
                     var request = Request.Parse(requestText);
-                    var response = this.routingTable.MatchRequest(request);
-
-                    if (response.PreRenderAction != null)
-                    {
-                        response.PreRenderAction(request, response);
-                    }
+                    var response = this.routingTable.MatchRequest(request);        
 
                     AddSession(request, response);
 

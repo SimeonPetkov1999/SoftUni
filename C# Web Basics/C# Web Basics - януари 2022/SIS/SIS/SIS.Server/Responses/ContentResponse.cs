@@ -6,12 +6,11 @@ namespace SIS.Server.Responses
 {
     public class ContentResponse : Response
     {
-        public ContentResponse(string content, string contentType,Action<Request,Response> preRenderedAction=null) 
+        public ContentResponse(string content, string contentType) 
             : base(StatusCode.Ok)
         {
             Guard.AgainstNull(content);
             Guard.AgainstNull(contentType);
-            this.PreRenderAction = preRenderedAction;
 
             this.Headers.Add(Header.ContentType, contentType);
 

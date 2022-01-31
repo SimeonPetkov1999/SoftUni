@@ -4,8 +4,8 @@ namespace SIS.Server.Responses
 {
     public class TextResponse : ContentResponse
     {
-        public TextResponse(string text,Action<Request,Response> preRenderedAction = null) 
-            : base(text, ContentType.PlainText,preRenderedAction)
+        public TextResponse(string text) 
+            : base(text, ContentType.PlainText)
         {
         }
     }
